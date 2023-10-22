@@ -8,26 +8,26 @@ docs_dir: ./src/
 edit_uri: blob/main/docs/src/
 
 theme:
-    name: dracula
+    name: material
+    palette:
+      - media: "(prefers-color-scheme: light)"
+        scheme: my-default
+        toggle:
+          icon: material/brightness-7
+          name: Switch to dark mode
+      - media: "(prefers-color-scheme: dark)"
+        scheme: slate
+        toggle:
+          icon: material/brightness-4
+          name: Switch to light mode
     custom_dir: overrides
-    logo: 
-    favicon: 
+    logo: stylesheets/cook_icon.png
+    favicon: stylesheets/cook_icon.png
     features:
       - toc.integrate
       - navigation.sections
       - navigation.expand
       - navigation.top
-    # palette:
-    #   - media: "(prefers-color-scheme: light)"
-    #     scheme: my-default
-    #     toggle:
-    #       icon: material/brightness-7
-    #       name: Switch to dark mode
-    #   - media: "(prefers-color-scheme: dark)"
-    #     scheme: slate
-    #     toggle:
-    #       icon: material/brightness-4
-    #       name: Switch to light mode
     disable_nav_previous_next: true
     disable_nav_search: false
     navigation_depth: 2
@@ -49,11 +49,14 @@ theme:
 nav:
   - Home:                   index.md
   - Entres:
-    - Coconut Kale Rice:    1_Entres/CoconutKaleRice.md
+    - Black Bean Burgers:        1_Entres/BlackBeanBurgers.md
+    - Broccoli Quinoa Cassarole: 1_Entres/BroccoliQuinoaCassarole.md
+    - Coconut Kale Rice:         1_Entres/CoconutKaleRice.md
+    - Felafel:                   1_Entres/Felafel.md
   - Sides:
-    - Bitchin' Dip:         2_Sides/BitchinDip.md 
+    - Bitchin' Dip:              2_Sides/BitchinDip.md 
   - Deserts:
-    - Blueberry Muffins:    3_Desserts/BlueberryMuffins.md
+    - Blueberry Muffins:         3_Desserts/BlueberryMuffins.md
 
 extra_css:
   - stylesheets/extra.css
@@ -63,7 +66,6 @@ plugins:
   - exclude:
       glob:
         - "temp*"
-        - "0*yaml"
   - literate-nav:
       nav_file: navigation.md'
   - exclude-search:
