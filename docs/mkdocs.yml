@@ -1,0 +1,80 @@
+site_name: Broz's Cookbook
+site_url: https://CBroz1.github.io/cookbook/
+site_description: Collection of adapted recipes
+site_author: CBroz1
+
+repo_url: https://github.com/CBroz1/cookbook
+docs_dir: ./src/
+edit_uri: blob/main/docs/src/
+
+theme:
+    name: dracula
+    custom_dir: overrides
+    logo: 
+    favicon: 
+    features:
+      - toc.integrate
+      - navigation.sections
+      - navigation.expand
+      - navigation.top
+    # palette:
+    #   - media: "(prefers-color-scheme: light)"
+    #     scheme: my-default
+    #     toggle:
+    #       icon: material/brightness-7
+    #       name: Switch to dark mode
+    #   - media: "(prefers-color-scheme: dark)"
+    #     scheme: slate
+    #     toggle:
+    #       icon: material/brightness-4
+    #       name: Switch to light mode
+    disable_nav_previous_next: true
+    disable_nav_search: false
+    navigation_depth: 2
+    locale: en
+    shortcuts:
+        help:      72 # h # doesn't seem to be working
+        next:      78 # n
+        previous:  80 # p
+        search:    83 # s
+    features:
+      - navigation.instant   # saves loading time - 1 browser page
+      - navigation.tracking  # even with above, changes URL by section
+      - navigation.top
+      # - navigation.tabs      # moves top level heading to tabs
+      # - toc.integrate        # move TOC to left
+      - search.suggest
+      - search.share
+
+nav:
+  - Home:                   index.md
+  - Entres:
+    - Coconut Kale Rice:    1_Entres/CoconutKaleRice.md
+  - Sides:
+    - Bitchin' Dip:         2_Sides/BitchinDip.md 
+  - Deserts:
+    - Blueberry Muffins:    3_Desserts/BlueberryMuffins.md
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search
+  - exclude:
+      glob:
+        - "temp*"
+        - "0*yaml"
+  - literate-nav:
+      nav_file: navigation.md'
+  - exclude-search:
+      exclude:
+        - "*/navigation.md"
+
+markdown_extensions:
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+
+extra:
+  generator: false # Disable watermark
