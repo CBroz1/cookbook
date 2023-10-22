@@ -31,12 +31,11 @@
 
 1. Drain and rinse black beans.
 1. Carmelize 1 onion
-1. Prep mushrooms
+1. Prep pan fry mushrooms
 1. Aromatics
   - Finely chop 1 onion
   - Press 2 garlic cloves
 1. Bowl, mix
-  - Mash 3/4 beans, add rest
   - 2 eggs
   - 2 tbsp ketchup
   - 2 tsp Worcestershire sauce
@@ -51,10 +50,14 @@
 
 ## Instructions
 
-1. Preheat oven to 325°F.
-1. Pan fry onion, garlic until softened.
-1. Add to bowl
+1. Preheat oven to 325
+1. Spread beans on sheet, bake 15m to dry
+1. For onion, garlic 
+  1. Pan fry until softened, 5-6m. 
+  1. Blot dry
+  1. Add to bowl
 1. Form the into 6 patties.
+1. Oven to 400
 1. Bake for 10 minutes on each side.
 1. Add Cheese, continue bake
 1. Serve 

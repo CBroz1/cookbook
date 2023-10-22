@@ -8,6 +8,8 @@
   - Lemon (1)
   - Cucumber (1)
   - Tomato, roma
+  - Jalapeno
+  - Green onion (2)
 - Dairy 
   - Eggs (1)
 	- Parmesan (0.25 c)
@@ -28,8 +30,11 @@ NOTE: Quinoa takes time
 
 1. Cook .5c quinoa
 1. Chickpeas, drain and rinse
+1. De-seed jalapeno
 1. In food processor
-  - Press 2 garlic
+	- Jalapeno
+	- 2 green onion
+  - 2 garlic
   - Chickpeas
   - 2c spinach
 1. Grate .25c parm
