@@ -18,5 +18,5 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material mkdocs-exclude mkdocs-literate-nav
+      - run: pip install mkdocs-material mkdocs-exclude mkdocs-exclude-search mkdocs-literate-nav
       - run: cd docs; mkdocs gh-deploy --force
