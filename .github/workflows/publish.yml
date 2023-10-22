@@ -19,4 +19,4 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material mkdocs-exclude mkdocs-literate-nav
-      - run: mkdocs gh-deploy --force
+      - run: cd docs; mkdocs gh-deploy --force
