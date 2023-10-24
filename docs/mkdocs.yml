@@ -48,15 +48,22 @@ theme:
 
 nav:
   - Home:                   index.md
-  - Entres:
-    - Black Bean Burgers:        1_Entres/BlackBeanBurgers.md
-    - Broccoli Quinoa Cassarole: 1_Entres/BroccoliQuinoaCassarole.md
-    - Coconut Kale Rice:         1_Entres/CoconutKaleRice.md
-    - Falafel:                   1_Entres/Falafel.md
+  - Entres: 
+    - Felafel:  1_Entres/Falafel.md
+    - Black Bean Burgers:  1_Entres/BlackBeanBurgers.md
+    - Coconut Kale Fried Rice:  1_Entres/CoconutKaleRice.md
+    - Broccoli Casserole:  1_Entres/BroccoliQuinoaCassarole.md
+    - Crunchwraps:  1_Entres/Crunchwraps.md
+    - Spicy Udon:  1_Entres/Udon.md
+    - Coconut Curry Chicken:  1_Entres/CoconutCurry.md
+    - Vegetarian Chili:  1_Entres/VegetarianChili.md
   - Sides:
-    - Bitchin' Dip:              2_Sides/BitchinDip.md 
+    - Bitchin Sauce:  2_Sides/BitchinDip.md
+    - Cornbread:  2_Sides/Cornbread.md
   - Deserts:
-    - Blueberry Muffins:         3_Desserts/BlueberryMuffins.md
+    - Blueberry Muffins:  3_Desserts/BlueberryMuffins.md
+    - Nutella brownies:  3_Desserts/NutellaBrownies.md
+    - S’mores bars:  3_Desserts/SmoresBars.md
 
 extra_css:
   - stylesheets/extra.css
