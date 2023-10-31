@@ -18,16 +18,16 @@ Each recipe is a markdown file with three sections:
 
 #### As pages
 
-- [Felafel](./1_Entres/Falafel.md)
 - [Black Bean Burgers](./1_Entres/BlackBeanBurgers.md)
-- [Coconut Kale Fried Rice](./1_Entres/CoconutKaleRice.md)
 - [Broccoli Casserole](./1_Entres/BroccoliQuinoaCassarole.md)
-- [Crunchwraps](./1_Entres/Crunchwraps.md)
-- [Spicy Udon](./1_Entres/Udon.md)
 - [Coconut Curry Chicken](./1_Entres/CoconutCurry.md)
-- [Vegetarian Chili](./1_Entres/VegetarianChili.md)
+- [Coconut Kale Fried Rice](./1_Entres/CoconutKaleRice.md)
+- [Crunchwraps](./1_Entres/Crunchwraps.md)
+- [Felafel](./1_Entres/Falafel.md)
+- [Spicy Udon](./1_Entres/Udon.md)
 - [Summer Squash Pasta](./1_Entres/SummerSquashPasta.md)
 - [Thai Quinoa Salad](./1_Entres/ThaiQuinoaSalad.md)
+- [Vegetarian Chili](./1_Entres/VegetarianChili.md)
 
 #### Not yet pages
 
@@ -39,8 +39,8 @@ Each recipe is a markdown file with three sections:
 - [szechuan sauce](https://www.feastingathome.com/chinese-eggplant/)
 - [zucchini fritters kolokithokeftedes](https://www.seriouseats.com/kolokithokeftedes-greek-zucchini-fritters-with-tzatziki-recipe)
 - vegan sushi
-     - [carrot:](https://www.theedgyveg.com/2020/01/07/vegan-smoked-salmon/)
-     - [tuna:](https://veganvvocals.com/2021/08/13/vegan-tuna-sushi/)
+    - [carrot:](https://www.theedgyveg.com/2020/01/07/vegan-smoked-salmon/)
+    - [tuna:](https://veganvvocals.com/2021/08/13/vegan-tuna-sushi/)
 - [Vegan Garlic Alfredo Sauce](https://thevegan8.com/vegan-garlic-alfredo-sauce/)
 - [KongGukSu](https://yisorihey.com/kongguksu-korean-cold-noodles-with-soy-bean/)
 - [\*\*Miso Soba](https://www.kitchenstories.com/en/recipes/soba-noodles-with-miso-marinated-tofu-and-vegetables)
