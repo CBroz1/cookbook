@@ -31,8 +31,8 @@ NOTE: Quinoa takes time
 1. Chickpeas, drain and rinse
 1. De-seed jalapeno
 1. In food processor
-   - Jalapeno
-   - 2 green onion
+    - Jalapeno
+    - 2 green onion
 
 - 2 garlic
 - Chickpeas
@@ -41,23 +41,21 @@ NOTE: Quinoa takes time
 1. Grate .25c parm
 1. 1 egg
 1. Spice mix
-   - ground cumin (0.5 tsp)
-   - paprika (0.5 tsp)
-   - dash salt and pepper
+    - ground cumin (0.5 tsp)
+    - paprika (0.5 tsp)
+    - dash salt and pepper
 
 ## Instructions
 
 1. Food processor, pulse until fine chopped
-   - 15oz chickpeas
-   - 2c spinach
-   - 2 garlic
+    - 15oz chickpeas
+    - 2c spinach
+    - 2 garlic
 1. Add then pulse
-
-- quinoa
-- Parmesan
-- egg
-- spices
-
+    - quinoa
+    - Parmesan
+    - egg
+    - spices
 1. Shape into 8 patties, pan fry 3-4m er side
 1. Serve with yogurt, lemon, pita, tomato, cucumber.
 

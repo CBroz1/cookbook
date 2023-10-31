@@ -25,19 +25,19 @@
 
 1. Cook .75c quinoa in a rice cooker w/1.5c water.
 1. Sauce. Wisk together (maybe nuke <30s)
-   - smooth peanut butter (.25 c)
-   - soy sauce (3 tbsp)
-   - maple syrup or honey (1 tbsp)
-   - rice vinegar (1 tbsp)
-   - (toasted) sesame oil (1 tsp)
-   - lime juice (.5 lime)
-   - red pepper flakes
+    - smooth peanut butter (.25 c)
+    - soy sauce (3 tbsp)
+    - maple syrup or honey (1 tbsp)
+    - rice vinegar (1 tbsp)
+    - (toasted) sesame oil (1 tsp)
+    - lime juice (.5 lime)
+    - red pepper flakes
 1. Thinly slice, bowl
-   - purple cabbage (2 c)
-   - carrot (1 c)
-   - snow/sugar snap peas (1 c)
-   - green onion (.25 c)
-   - peanuts (.25 c)
+    - purple cabbage (2 c)
+    - carrot (1 c)
+    - snow/sugar snap peas (1 c)
+    - green onion (.25 c)
+    - peanuts (.25 c)
 
 ## Instructions
 

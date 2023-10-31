@@ -25,25 +25,25 @@
 1. Strip 1 tbsp fresh thyme.
 1. Shred 8 oz cheddar cheese.
 1. Measure
-   - .25 c flour
-   - 1.5 c milk
-   - 1 c breadcrumbs
+    - .25 c flour
+    - 1.5 c milk
+    - 1 c breadcrumbs
 
 ## Instructions
 
 1. Oven 400°F.
 1. Roast broccoli 20m
 1. In pan
-   - melt 6 tbsp unsalted butter.
-   - Whisk in 1/4 c all-purpose flour.
-   - Pour in 1.5 c milk
-   - bring to a simmer, stirring frequently until thickened.
+    - melt 6 tbsp unsalted butter.
+    - Whisk in 1/4 c all-purpose flour.
+    - Pour in 1.5 c milk
+    - bring to a simmer, stirring frequently until thickened.
 1. Off heat, add
-   - Nutmeg (1/4 tsp)
-   - Salt and pepper
-   - .75 c cheddar cheese
-   - 1.5 c milk
-   - Broccoli
+    - Nutmeg (1/4 tsp)
+    - Salt and pepper
+    - .75 c cheddar cheese
+    - 1.5 c milk
+    - Broccoli
 1. Top with .75 c cheese, 1c breadcrumbs
 1. Reduce oven 350, Bake 25m
 
