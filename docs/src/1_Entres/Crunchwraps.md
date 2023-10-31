@@ -4,7 +4,7 @@
 
 - Produce
     - Tomato, roma
-    - Lettuce 
+    - Lettuce
 - Dairy
     - Shredded cheese
     - Nacho cheese
@@ -13,7 +13,7 @@
     - Burrito tortillas
     - Tostada
     - Spicy veggie sausage
-    - Guacamole 
+    - Guacamole
 - Staples
     - Hot sauce
 

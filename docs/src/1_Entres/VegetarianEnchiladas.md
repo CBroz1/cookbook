@@ -1,10 +1,19 @@
 # Enchiladas
 
-## Sauce Ingredients
+## Ingredients
 
+- Produce:
+    - red onion (1 c)
+    - red bell pepper (1)
+    - broccoli (1 lb)
+    - baby spinach (5 oz)
 - Middle:
     - tomato paste (2 tbsp)
     - vegetable broth (2 c)
+    - black beans (15 oz)
+    - 8 8" whole wheat tortillas
+- Dairy:
+    - Monterey Jack cheese, shredded (1 c)
 - Staples:
     - olive oil (3 tbsp)
     - flour (3 tbsp)
@@ -14,20 +23,6 @@
     - dried oregano (0.25 tsp)
     - salt/pepper
     - cinnamon, pinch (optional)
-    - apple cider vinegar (1 tsp)
-
-## Enchilada Ingredients
-
-- Produce:
-    - red onion (1 c)
-    - red bell pepper (1)
-    - broccoli (1 lb)
-    - baby spinach (5 oz)
-- Middle:
-    - black beans (15 oz)
-    - 8 8" whole wheat tortillas
-- Dairy:
-    - Monterey Jack cheese, shredded (1 c)
 - Staples:
     - olive oil (2 tbsp)
     - salt/pepper

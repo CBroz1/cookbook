@@ -3,10 +3,10 @@
 Each recipe is a markdown file with three sections:
 
 1. Ingredients as shopping list with sections for:
-   - Produce
-   - Dairy
-   - Middle
-   - Staples - Check pantry
+    - Produce
+    - Dairy
+    - Middle
+    - Staples - Check pantry
 2. Ingredients as a prep list
 3. Cooking instructions
 4. Notes (e.g., prep time)
@@ -39,8 +39,8 @@ Each recipe is a markdown file with three sections:
 - [szechuan sauce](https://www.feastingathome.com/chinese-eggplant/)
 - [zucchini fritters kolokithokeftedes](https://www.seriouseats.com/kolokithokeftedes-greek-zucchini-fritters-with-tzatziki-recipe)
 - vegan sushi
-    - [carrot:](https://www.theedgyveg.com/2020/01/07/vegan-smoked-salmon/)
-    - [tuna:](https://veganvvocals.com/2021/08/13/vegan-tuna-sushi/)
+     - [carrot:](https://www.theedgyveg.com/2020/01/07/vegan-smoked-salmon/)
+     - [tuna:](https://veganvvocals.com/2021/08/13/vegan-tuna-sushi/)
 - [Vegan Garlic Alfredo Sauce](https://thevegan8.com/vegan-garlic-alfredo-sauce/)
 - [KongGukSu](https://yisorihey.com/kongguksu-korean-cold-noodles-with-soy-bean/)
 - [\*\*Miso Soba](https://www.kitchenstories.com/en/recipes/soba-noodles-with-miso-marinated-tofu-and-vegetables)
