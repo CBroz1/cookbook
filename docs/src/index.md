@@ -3,10 +3,10 @@
 Each recipe is a markdown file with three sections:
 
 1. Ingredients as shopping list with sections for:
-    - Produce
-    - Dairy
-    - Middle
-    - Staples - Check pantry
+   - Produce
+   - Dairy
+   - Middle
+   - Staples - Check pantry
 2. Ingredients as a prep list
 3. Cooking instructions
 4. Notes (e.g., prep time)
@@ -26,10 +26,11 @@ Each recipe is a markdown file with three sections:
 - [Spicy Udon](./1_Entres/Udon.md)
 - [Coconut Curry Chicken](./1_Entres/CoconutCurry.md)
 - [Vegetarian Chili](./1_Entres/VegetarianChili.md)
+- [Summer Squash Pasta](./1_Entres/SummerSquashPasta.md)
+- [Thai Quinoa Salad](./1_Entres/ThaiQuinoaSalad.md)
 
 #### Not yet pages
 
-- [Summer Squash Pasta](https://cookieandkate.com/creamy-cherry-tomato-summer-squash-pasta/)
 - [Farrow kale goat cheese](https://cookieandkate.com/farro-kale-goat-cheese-salad-recipe/)
 - [Eggplant cups](https://www.taste.com.au/recipes/individual-eggplant-parmigiana/gvwiks4a)
 - [Thai Quinoa Salad](https://cookieandkate.com/thai-peanut-quinoa-salad-recipe/)
@@ -38,8 +39,8 @@ Each recipe is a markdown file with three sections:
 - [szechuan sauce](https://www.feastingathome.com/chinese-eggplant/)
 - [zucchini fritters kolokithokeftedes](https://www.seriouseats.com/kolokithokeftedes-greek-zucchini-fritters-with-tzatziki-recipe)
 - vegan sushi
-  - [carrot:](https://www.theedgyveg.com/2020/01/07/vegan-smoked-salmon/)
-  - [tuna:](https://veganvvocals.com/2021/08/13/vegan-tuna-sushi/)
+    - [carrot:](https://www.theedgyveg.com/2020/01/07/vegan-smoked-salmon/)
+    - [tuna:](https://veganvvocals.com/2021/08/13/vegan-tuna-sushi/)
 - [Vegan Garlic Alfredo Sauce](https://thevegan8.com/vegan-garlic-alfredo-sauce/)
 - [KongGukSu](https://yisorihey.com/kongguksu-korean-cold-noodles-with-soy-bean/)
 - [\*\*Miso Soba](https://www.kitchenstories.com/en/recipes/soba-noodles-with-miso-marinated-tofu-and-vegetables)
@@ -98,7 +99,6 @@ Each recipe is a markdown file with three sections:
 - [Veggie meatballs](https://www.aheadofthyme.com/2016/03/quinoa-cauliflower-and-chickpea-vegetarian-meatballs-with-tahini-sauce/)
 - [Lo mein](https://www.aheadofthyme.com/2017/04/easy-15-minute-lo-mein/)
 - [stuffed peppers](https://www.aheadofthyme.com/easy-vegan-stuffed-bell-peppers/)
-
 
 ### Sides
 
