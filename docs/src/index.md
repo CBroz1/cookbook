@@ -28,9 +28,12 @@ Each recipe is a markdown file with three sections:
 - [Summer Squash Pasta](./1_Entres/SummerSquashPasta.md)
 - [Thai Quinoa Salad](./1_Entres/ThaiQuinoaSalad.md)
 - [Vegetarian Chili](./1_Entres/VegetarianChili.md)
+- [Summer Squash Pasta](./1_Entres/SummerSquashPasta.md)
 
 #### Not yet pages
 
+- [Cauliflower Soup](https://cookieandkate.com/creamy-roasted-cauliflower-soup-recipe/)
+- [Lentil Soup](https://cookieandkate.com/best-lentil-soup-recipe/)
 - [Farrow kale goat cheese](https://cookieandkate.com/farro-kale-goat-cheese-salad-recipe/)
 - [Eggplant cups](https://www.taste.com.au/recipes/individual-eggplant-parmigiana/gvwiks4a)
 - [Thai Quinoa Salad](https://cookieandkate.com/thai-peanut-quinoa-salad-recipe/)
@@ -55,7 +58,7 @@ Each recipe is a markdown file with three sections:
 - [Mac & cheese](https://www.momontimeout.com/best-homemade-baked-mac-and-cheese-recipe/)
 - [Shrimp Moqueca](https://www.ibreatheimhungry.com/brazilian-shrimp-stew-moqueca-de/)
 - [Jerk chicken rice](https://www.africanbites.com/one-pot-caribbean-jerk-chicken-rice/)
-- [roasted beet](https://cookieandkate.com/roasted-beet-salad-recipe/)
+- [Roasted beet salad](https://cookieandkate.com/roasted-beet-salad-recipe/)
 - [strawberry spinach](https://cookieandkate.com/strawberry-and-spinach-salad-with-quinoa-and-goat-cheese/)
 - [Chickpea pancakes](https://www.bonappetit.com/recipe/chickpea-pancakes-with-greens-and-cheese)
 - [cold sesame noodles](https://thewoksoflife.com/cold-sesame-noodles/)
