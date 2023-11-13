@@ -58,4 +58,4 @@
 
 ## Citation
 
-Inspired by [HelloFresh Coconut Curry Chicken](https://www.hellofresh.com/recipes/coconut-curry-chicken-5f0e135dc0902c28ff563aa3)
+Inspired by [HelloFresh](https://www.hellofresh.com/recipes/coconut-curry-chicken-5f0e135dc0902c28ff563aa3).
