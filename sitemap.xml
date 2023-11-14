@@ -2,57 +2,232 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://CBroz1.github.io/cookbook/</loc>
-         <lastmod>2023-10-31</lastmod>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/BabaGhanoush/</loc>
+         <lastmod>2023-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://CBroz1.github.io/cookbook/1_Entres/BlackBeanBurgers/</loc>
-         <lastmod>2023-10-31</lastmod>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/BroccoliCheddarSoup/</loc>
+         <lastmod>2023-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://CBroz1.github.io/cookbook/1_Entres/BroccoliQuinoaCassarole/</loc>
-         <lastmod>2023-10-31</lastmod>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/Brussels/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/CauliflowerSoup/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/Chickpeapancakes/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/CoconutCurry/</loc>
+         <lastmod>2023-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://CBroz1.github.io/cookbook/1_Entres/CoconutKaleRice/</loc>
-         <lastmod>2023-10-31</lastmod>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/ColdSesameNoodles/</loc>
+         <lastmod>2023-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://CBroz1.github.io/cookbook/1_Entres/Crunchwraps/</loc>
-         <lastmod>2023-10-31</lastmod>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/EggplantCups/</loc>
+         <lastmod>2023-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://CBroz1.github.io/cookbook/1_Entres/Falafel/</loc>
-         <lastmod>2023-10-31</lastmod>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/FallRiceKale/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/FarrowKaleGoatCheese/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/JerkChickenRice/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/KongGukSu/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/Latkas/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/LentilSoup/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/MacCheese/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/MisoSoba/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/PeanutNoodles/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/Pizza/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/PotPie/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/RoastedBeetSalad/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/Salmon/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/ShrimpMoqueca/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/StrawberrySpinach/</loc>
+         <lastmod>2023-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://CBroz1.github.io/cookbook/1_Entres/SummerSquashPasta/</loc>
-         <lastmod>2023-10-31</lastmod>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/SzechuanSauce/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/TempehBowls/</loc>
+         <lastmod>2023-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://CBroz1.github.io/cookbook/1_Entres/ThaiQuinoaSalad/</loc>
-         <lastmod>2023-10-31</lastmod>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/Udon/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/VeganGarlicAlfredoSauce/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/VeganSushi/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/VegetarianChili/</loc>
+         <lastmod>2023-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://CBroz1.github.io/cookbook/1_Entres/VegetarianEnchiladas/</loc>
-         <lastmod>2023-10-31</lastmod>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/1_Entres/ZucchiniFritters/</loc>
+         <lastmod>2023-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://CBroz1.github.io/cookbook/2_Sides/BitchinDip/</loc>
-         <lastmod>2023-10-31</lastmod>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/2_Sides/Cornbread/</loc>
+         <lastmod>2023-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://CBroz1.github.io/cookbook/3_Desserts/BlueberryMuffins/</loc>
-         <lastmod>2023-10-31</lastmod>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/3_Desserts/CherryCobblerCake/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/3_Desserts/NutellaBrownies/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/3_Desserts/PumpkOatmealCookies/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CBroz1.github.io/cookbook/3_Desserts/SmoresBars/</loc>
+         <lastmod>2023-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
