@@ -30,6 +30,7 @@ Each recipe is a markdown file with three sections:
 | [Vegetarian Chili](./1_Entres/VegetarianChili.md) | [Cookie and Kate](https://cookieandkate.com/vegetarian-chili-recipe/) |
 | [Veg Enchilada](./1_Entres/VegetarianEnchiladas.md) | Cookie and Kate [Dish](https://cookieandkate.com/vegetarian-enchiladas-recipe/) \& [Sauce](https://cookieandkate.com/enchilada-sauce-recipe/) |
 | [Brussels](./1_Entres/Brussels.md) | Family Recipe |
+| [Tempeh Bowls](./1_Entres/TempehBowls.md) | [Pinch of Yum](https://pinchofyum.com/fall-favorite-maple-mustard-tempeh-bowls) |
 | Baba Ghanoush  | [Cookie and Kate](https://cookieandkate.com/epic-baba-ganoush-recipe/#tasty-recipes-26511-jump-target) |
 | Broccoli Cheddar Soup | [Cookie and Kate](https://cookieandkate.com/broccoli-cheese-soup-recipe/#tasty-recipes-35739-jump-target) |
 | Cauliflower Soup | [Cookie and Kate](https://cookieandkate.com/creamy-roasted-cauliflower-soup-recipe/) |
@@ -49,7 +50,6 @@ Each recipe is a markdown file with three sections:
 | Salmon | [The Chunky Chef](https://www.thechunkychef.com/baked-crusted-dijon-salmon/) |
 | Shrimp Moqueca | [I Breathe I'm Hungry](https://www.ibreatheimhungry.com/brazilian-shrimp-stew-moqueca-de/) |
 | Szechuan Sauce | [Feasting at Home](https://www.feastingathome.com/chinese-eggplant/) |
-| Tempeh Bowls | [Pinch of Yum](https://pinchofyum.com/fall-favorite-maple-mustard-tempeh-bowls) |
 | Thai Quinoa Salad | [Cookie and Kate](https://cookieandkate.com/thai-peanut-quinoa-salad-recipe/) |
 | Vegan Garlic Alfredo Sauce | [The Vegan 8](https://thevegan8.com/vegan-garlic-alfredo-sauce/) |
 | Vegan Sushi | [Carrot](https://www.theedgyveg.com/2020/01/07/vegan-smoked-salmon/) \& [Tuna](https://veganvvocals.com/2021/08/13/vegan-tuna-sushi/) |
@@ -78,7 +78,6 @@ Each recipe is a markdown file with three sections:
 | [Salmon](./1_Entres/Salmon.md) | [The Chunky Chef](https://www.thechunkychef.com/baked-crusted-dijon-salmon/) |
 | [Shrimp Moqueca](./1_Entres/ShrimpMoqueca.md) | [I Breathe I'm Hungry](https://www.ibreatheimhungry.com/brazilian-shrimp-stew-moqueca-de/) |
 | [Szechuan Sauce](./1_Entres/SzechuanSauce.md) | [Feasting at Home](https://www.feastingathome.com/chinese-eggplant/) |
-| [Tempeh Bowls](./1_Entres/TempehBowls.md) | [Pinch of Yum](https://pinchofyum.com/fall-favorite-maple-mustard-tempeh-bowls) |
 | [Thai Quinoa Salad](./1_Entres/ThaiQuinoaSalad.md) | [Cookie and Kate](https://cookieandkate.com/thai-peanut-quinoa-salad-recipe/) |
 | [Vegan Garlic Alfredo Sauce](./1_Entres/VeganGarlicAlfredoSauce.md) | [The Vegan 8](https://thevegan8.com/vegan-garlic-alfredo-sauce/) |
 | [Vegan Sushi](./1_Entres/VeganSushi.md) | [Carrot](https://www.theedgyveg.com/2020/01/07/vegan-smoked-salmon/) \& [Tuna](https://veganvvocals.com/2021/08/13/vegan-tuna-sushi/) |

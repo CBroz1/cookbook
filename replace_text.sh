@@ -43,11 +43,20 @@ declare -A fractions=(
   ["⅓"]=".33"
   ["¼"]=".25"
   ["⅛"]=".125"
+  ["1/2"]="0.5"   # Add multi-character fractions here
+  ["1/3"]="0.3333"
+  ["1/4"]="0.25"
+  ["1/8"]="0.125"
 )
 
 # Perform find/replace operations for single-character fractions
 for fraction in "${!fractions[@]}"; do
   decimal_equivalent="${fractions[$fraction]}"
-  sed -i "s/${fraction}/${decimal_equivalent}/g" "$filename"
+  sed -i "s#${fraction}#${decimal_equivalent}#g" "$filename"
 done
 
+# sed -i -E \
+#   -e 's/^([[:space:]]*)([0-9]+(\.[0-9]+)?)\s*([a-zA-Z]+)\s+(.*)$/\1- \5 (\2\4)/' \
+#   -e '/^[[:space:]]*(-|\d\.)/s/^([[:space:]]*)([0-9]+(\.[0-9]+)?)\s*([a-zA-Z]+)\s+(.*)$/\1- \5 (\2\4)/' \
+#   "$filename"
+#
