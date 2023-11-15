@@ -14,24 +14,23 @@ Each recipe is a markdown file with three sections:
 
 ## Links - Solid
 
-### Entres
+### Entrees
 
 | Page | Link |
 | :--: | :--: |
-| [Black Bean Burgers](./1_Entres/BlackBeanBurgers.md) | [Sally's Baking Addiction](https://sallysbakingaddiction.com/best-black-bean-burgers/) |
-| [Broccoli Casserole](./1_Entres/BroccoliQuinoaCassarole.md) | [Cookie and Kate](https://cookieandkate.com/better-broccoli-casserole-recipe/) |
-| [Coconut Curry Chicken](./1_Entres/CoconutCurry.md) | [HelloFresh](https://www.hellofresh.com/recipes/coconut-curry-chicken-5f0e135dc0902c28ff563aa3) |
-| [Coconut Kale Fried Rice](./1_Entres/CoconutKaleRice.md) | [Cookie and Kate](https://cookieandkate.com/spicy-kale-and-coconut-fried-rice/#tasty-recipes-23595-jump-target) |
-| [Crunchwraps](./1_Entres/Crunchwraps.md) | [Rainbow Plant Life](https://rainbowplantlife.com/the-best-vegan-crunchwrap-supreme/) |
-| [Felafel](./1_Entres/Falafel.md) | [Woman's Day](https://www.womansday.com/food-recipes/a32676061/chickpea-spinach-and-quinoa-patties-recipe/) |
-| [Spicy Udon](./1_Entres/Udon.md) | [Seasons & Suppers](https://www.seasonsandsuppers.ca/15-minute-spicy-udon-vegetable-stir-fry/#recipe) |
-| [Summer Squash Pasta](./1_Entres/SummerSquashPasta.md) | [Cookie and Kate](https://cookieandkate.com/creamy-cherry-tomato-summer-squash-pasta/) |
-| [Thai Quinoa Salad](./1_Entres/ThaiQuinoaSalad.md) | [Cookie and Kate](https://cookieandkate.com/thai-peanut-quinoa-salad-recipe/) |
-| [Vegetarian Chili](./1_Entres/VegetarianChili.md) | [Cookie and Kate](https://cookieandkate.com/vegetarian-chili-recipe/) |
-| [Veg Enchilada](./1_Entres/VegetarianEnchiladas.md) | Cookie and Kate [Dish](https://cookieandkate.com/vegetarian-enchiladas-recipe/) \& [Sauce](https://cookieandkate.com/enchilada-sauce-recipe/) |
-| [Brussels](./1_Entres/Brussels.md) | Family Recipe |
-| [Tempeh Bowls](./1_Entres/TempehBowls.md) | [Pinch of Yum](https://pinchofyum.com/fall-favorite-maple-mustard-tempeh-bowls) |
-| Baba Ghanoush  | [Cookie and Kate](https://cookieandkate.com/epic-baba-ganoush-recipe/#tasty-recipes-26511-jump-target) |
+| [Black Bean Burgers](./1_Entrees/BlackBeanBurgers.md) | [Sally's Baking Addiction](https://sallysbakingaddiction.com/best-black-bean-burgers/) |
+| [Broccoli Casserole](./1_Entrees/BroccoliQuinoaCassarole.md) | [Cookie and Kate](https://cookieandkate.com/better-broccoli-casserole-recipe/) |
+| [Coconut Curry Chicken](./1_Entrees/CoconutCurry.md) | [HelloFresh](https://www.hellofresh.com/recipes/coconut-curry-chicken-5f0e135dc0902c28ff563aa3) |
+| [Coconut Kale Fried Rice](./1_Entrees/CoconutKaleRice.md) | [Cookie and Kate](https://cookieandkate.com/spicy-kale-and-coconut-fried-rice/#tasty-recipes-23595-jump-target) |
+| [Crunchwraps](./1_Entrees/Crunchwraps.md) | [Rainbow Plant Life](https://rainbowplantlife.com/the-best-vegan-crunchwrap-supreme/) |
+| [Felafel](./1_Entrees/Falafel.md) | [Woman's Day](https://www.womansday.com/food-recipes/a32676061/chickpea-spinach-and-quinoa-patties-recipe/) |
+| [Spicy Udon](./1_Entrees/Udon.md) | [Seasons & Suppers](https://www.seasonsandsuppers.ca/15-minute-spicy-udon-vegetable-stir-fry/#recipe) |
+| [Summer Squash Pasta](./1_Entrees/SummerSquashPasta.md) | [Cookie and Kate](https://cookieandkate.com/creamy-cherry-tomato-summer-squash-pasta/) |
+| [Thai Quinoa Salad](./1_Entrees/ThaiQuinoaSalad.md) | [Cookie and Kate](https://cookieandkate.com/thai-peanut-quinoa-salad-recipe/) |
+| [Vegetarian Chili](./1_Entrees/VegetarianChili.md) | [Cookie and Kate](https://cookieandkate.com/vegetarian-chili-recipe/) |
+| [Veg Enchilada](./1_Entrees/VegetarianEnchiladas.md) | C&K [Dish](https://cookieandkate.com/vegetarian-enchiladas-recipe/), [Sauce](https://cookieandkate.com/enchilada-sauce-recipe/) |
+| [Brussels](./1_Entrees/Brussels.md) | Family Recipe |
+| [Tempeh Bowls](./1_Entrees/TempehBowls.md) | [Pinch of Yum](https://pinchofyum.com/fall-favorite-maple-mustard-tempeh-bowls) |
 | Broccoli Cheddar Soup | [Cookie and Kate](https://cookieandkate.com/broccoli-cheese-soup-recipe/#tasty-recipes-35739-jump-target) |
 | Cauliflower Soup | [Cookie and Kate](https://cookieandkate.com/creamy-roasted-cauliflower-soup-recipe/) |
 | Chickpea Pancakes | [Bon Appetit](https://www.bonappetit.com/recipe/chickpea-pancakes-with-greens-and-cheese) |
@@ -59,38 +58,38 @@ Each recipe is a markdown file with three sections:
 | Strawberry Spinach | [Cookie and Kate](https://cookieandkate.com/strawberry-and-spinach-salad-with-quinoa-and-goat-cheese/) |
 
 <!--
-| [Baba Ghanoush ](./1_Entres/BabaGhanoush.md) | [Cookie and Kate](https://cookieandkate.com/epic-baba-ganoush-recipe/#tasty-recipes-26511-jump-target) |
-| [Broccoli Cheddar Soup](./1_Entres/BroccoliCheddarSoup.md) | [Cookie and Kate](https://cookieandkate.com/broccoli-cheese-soup-recipe/#tasty-recipes-35739-jump-target) |
-| [Cauliflower Soup](./1_Entres/CauliflowerSoup.md) | [Cookie and Kate](https://cookieandkate.com/creamy-roasted-cauliflower-soup-recipe/) |
-| [Chickpea pancakes](./1_Entres/Chickpeapancakes.md) | [Bon Appetit](https://www.bonappetit.com/recipe/chickpea-pancakes-with-greens-and-cheese) |
-| [Eggplant Cups](./1_Entres/EggplantCups.md) | [Taste](https://www.taste.com.au/recipes/individual-eggplant-parmigiana/gvwiks4a) |
-| [Fall Rice \& Kale](./1_Entres/FallRiceKale.md) | [Cookie and Kate](https://cookieandkate.com/butternut-squash-wild-rice-stuffing-recipe/) |
-| [Farrow Kale Goat Cheese](./1_Entres/FarrowKaleGoatCheese.md) | [Cookie and Kate](https://cookieandkate.com/farro-kale-goat-cheese-salad-recipe/) |
-| [Jerk Chicken Rice](./1_Entres/JerkChickenRice.md) | [African Bites](https://www.africanbites.com/one-pot-caribbean-jerk-chicken-rice/) |
-| [KongGukSu](./1_Entres/KongGukSu.md) | [Korean Bapsang](https://www.koreanbapsang.com/kongguksu-chilled-soy-milk-noodle-soup/) |
-| [Latkas](./1_Entres/Latkas.md) | [NYT](https://cooking.nytimes.com/recipes/1015533-classic-potato-latkes) |
-| [Lentil Soup](./1_Entres/LentilSoup.md) | [Cookie and Kate](https://cookieandkate.com/best-lentil-soup-recipe/) |
-| [Mac & Cheese](./1_Entres/MacCheese.md) | [Mom on Timeout](https://www.momontimeout.com/best-homemade-baked-mac-and-cheese-recipe/) |
-| [Peanut Noodles](./1_Entres/PeanutNoodles.md) | [Nora Cooks](https://www.noracooks.com/peanut-noodles/) |
-| [Pizza (use premade crust)](./1_Entres/Pizza.md) | [The Food Charlatan](https://thefoodcharlatan.com/homemade-pizza-recipe/) |
-| [Pot Pie](./1_Entres/PotPie.md) | [Sarah's Vegan Kitchen](https://sarahsvegankitchen.com/recipes/vegan-chicken-pot-pie/) |
-| [Roasted Beet Salad](./1_Entres/RoastedBeetSalad.md) | [Cookie and Kate](https://cookieandkate.com/roasted-beet-salad-recipe/) |
-| [Salmon](./1_Entres/Salmon.md) | [The Chunky Chef](https://www.thechunkychef.com/baked-crusted-dijon-salmon/) |
-| [Shrimp Moqueca](./1_Entres/ShrimpMoqueca.md) | [I Breathe I'm Hungry](https://www.ibreatheimhungry.com/brazilian-shrimp-stew-moqueca-de/) |
-| [Szechuan Sauce](./1_Entres/SzechuanSauce.md) | [Feasting at Home](https://www.feastingathome.com/chinese-eggplant/) |
-| [Thai Quinoa Salad](./1_Entres/ThaiQuinoaSalad.md) | [Cookie and Kate](https://cookieandkate.com/thai-peanut-quinoa-salad-recipe/) |
-| [Vegan Garlic Alfredo Sauce](./1_Entres/VeganGarlicAlfredoSauce.md) | [The Vegan 8](https://thevegan8.com/vegan-garlic-alfredo-sauce/) |
-| [Vegan Sushi](./1_Entres/VeganSushi.md) | [Carrot](https://www.theedgyveg.com/2020/01/07/vegan-smoked-salmon/) \& [Tuna](https://veganvvocals.com/2021/08/13/vegan-tuna-sushi/) |
-| [Zucchini Fritters](./1_Entres/ZucchiniFritters.md) | [Serious Eats](https://www.seriouseats.com/kolokithokeftedes-greek-zucchini-fritters-with-tzatziki-recipe) |
-| [Miso Soba](./1_Entres/MisoSoba.md) | [Kitchen Stories](https://www.kitchenstories.com/en/recipes/soba-noodles-with-miso-marinated-tofu-and-vegetables) |
-| [Cold Sesame Noodles](./1_Entres/ColdSesameNoodles.md) | [The Woks of Life](https://thewoksoflife.com/cold-sesame-noodles/) |
-| [Strawberry Spinach](./1_Entres/StrawberrySpinach.md) | [Cookie and Kate](https://cookieandkate.com/strawberry-and-spinach-salad-with-quinoa-and-goat-cheese/) |
+| [Broccoli Cheddar Soup](./1_Entrees/BroccoliCheddarSoup.md) | [Cookie and Kate](https://cookieandkate.com/broccoli-cheese-soup-recipe/#tasty-recipes-35739-jump-target) |
+| [Cauliflower Soup](./1_Entrees/CauliflowerSoup.md) | [Cookie and Kate](https://cookieandkate.com/creamy-roasted-cauliflower-soup-recipe/) |
+| [Chickpea pancakes](./1_Entrees/Chickpeapancakes.md) | [Bon Appetit](https://www.bonappetit.com/recipe/chickpea-pancakes-with-greens-and-cheese) |
+| [Eggplant Cups](./1_Entrees/EggplantCups.md) | [Taste](https://www.taste.com.au/recipes/individual-eggplant-parmigiana/gvwiks4a) |
+| [Fall Rice \& Kale](./1_Entrees/FallRiceKale.md) | [Cookie and Kate](https://cookieandkate.com/butternut-squash-wild-rice-stuffing-recipe/) |
+| [Farrow Kale Goat Cheese](./1_Entrees/FarrowKaleGoatCheese.md) | [Cookie and Kate](https://cookieandkate.com/farro-kale-goat-cheese-salad-recipe/) |
+| [Jerk Chicken Rice](./1_Entrees/JerkChickenRice.md) | [African Bites](https://www.africanbites.com/one-pot-caribbean-jerk-chicken-rice/) |
+| [KongGukSu](./1_Entrees/KongGukSu.md) | [Korean Bapsang](https://www.koreanbapsang.com/kongguksu-chilled-soy-milk-noodle-soup/) |
+| [Latkas](./1_Entrees/Latkas.md) | [NYT](https://cooking.nytimes.com/recipes/1015533-classic-potato-latkes) |
+| [Lentil Soup](./1_Entrees/LentilSoup.md) | [Cookie and Kate](https://cookieandkate.com/best-lentil-soup-recipe/) |
+| [Mac & Cheese](./1_Entrees/MacCheese.md) | [Mom on Timeout](https://www.momontimeout.com/best-homemade-baked-mac-and-cheese-recipe/) |
+| [Peanut Noodles](./1_Entrees/PeanutNoodles.md) | [Nora Cooks](https://www.noracooks.com/peanut-noodles/) |
+| [Pizza (use premade crust)](./1_Entrees/Pizza.md) | [The Food Charlatan](https://thefoodcharlatan.com/homemade-pizza-recipe/) |
+| [Pot Pie](./1_Entrees/PotPie.md) | [Sarah's Vegan Kitchen](https://sarahsvegankitchen.com/recipes/vegan-chicken-pot-pie/) |
+| [Roasted Beet Salad](./1_Entrees/RoastedBeetSalad.md) | [Cookie and Kate](https://cookieandkate.com/roasted-beet-salad-recipe/) |
+| [Salmon](./1_Entrees/Salmon.md) | [The Chunky Chef](https://www.thechunkychef.com/baked-crusted-dijon-salmon/) |
+| [Shrimp Moqueca](./1_Entrees/ShrimpMoqueca.md) | [I Breathe I'm Hungry](https://www.ibreatheimhungry.com/brazilian-shrimp-stew-moqueca-de/) |
+| [Szechuan Sauce](./1_Entrees/SzechuanSauce.md) | [Feasting at Home](https://www.feastingathome.com/chinese-eggplant/) |
+| [Thai Quinoa Salad](./1_Entrees/ThaiQuinoaSalad.md) | [Cookie and Kate](https://cookieandkate.com/thai-peanut-quinoa-salad-recipe/) |
+| [Vegan Garlic Alfredo Sauce](./1_Entrees/VeganGarlicAlfredoSauce.md) | [The Vegan 8](https://thevegan8.com/vegan-garlic-alfredo-sauce/) |
+| [Vegan Sushi](./1_Entrees/VeganSushi.md) | [Carrot](https://www.theedgyveg.com/2020/01/07/vegan-smoked-salmon/) \& [Tuna](https://veganvvocals.com/2021/08/13/vegan-tuna-sushi/) |
+| [Zucchini Fritters](./1_Entrees/ZucchiniFritters.md) | [Serious Eats](https://www.seriouseats.com/kolokithokeftedes-greek-zucchini-fritters-with-tzatziki-recipe) |
+| [Miso Soba](./1_Entrees/MisoSoba.md) | [Kitchen Stories](https://www.kitchenstories.com/en/recipes/soba-noodles-with-miso-marinated-tofu-and-vegetables) |
+| [Cold Sesame Noodles](./1_Entrees/ColdSesameNoodles.md) | [The Woks of Life](https://thewoksoflife.com/cold-sesame-noodles/) |
+| [Strawberry Spinach](./1_Entrees/StrawberrySpinach.md) | [Cookie and Kate](https://cookieandkate.com/strawberry-and-spinach-salad-with-quinoa-and-goat-cheese/) |
 -->
 
 ### Sides
 
 | Page | Link |
 | :--: | :--: |
+| [Baba Ganoush](./1_Entrees/BabaGanoush.md) | [Cookie and Kate](https://cookieandkate.com/epic-baba-ganoush-recipe/#tasty-recipes-26511-jump-target) |
 | [Bitchin Sauce](./2_Sides/BitchinDip.md) | [Blissful Basil](https://www.blissfulbasil.com/bitchin-sauce-copycat/#wprm-recipe-container-30640) |
 | [Cornbread](./2_Sides/Cornbread.md) | [Le Crème de Crumb](https://www.lecremedelacrumb.com/best-super-moist-cornbread/#wprm-recipe-container-27011) |
 

@@ -40,7 +40,7 @@
     - garlic powder (0.5 tsp)
     - dried oregano (0.25 tsp)
     - salt/pepper
-1. Measure? Sauce wet. Place near stove, seperate.
+1. Measure? Sauce wet. Place near stove, separate.
     - tomato paste (2 tbsp)
     - vegetable broth (2 c)
     - apple cider vinegar (1 tsp)

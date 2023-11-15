@@ -48,22 +48,25 @@ theme:
 
 nav:
   - Home:                   index.md
-  - Entres: 
-    - Black Bean Burgers:  1_Entres/BlackBeanBurgers.md
-    - Broccoli Casserole:  1_Entres/BroccoliQuinoaCassarole.md
-    - Coconut Curry Chicken:  1_Entres/CoconutCurry.md
-    - Coconut Kale Fried Rice:  1_Entres/CoconutKaleRice.md
-    - Crunchwraps:  1_Entres/Crunchwraps.md
-    - Felafel:  1_Entres/Falafel.md
-    - Spicy Udon:  1_Entres/Udon.md
-    - Summer Squash Pasta:  1_Entres/SummerSquashPasta.md
-    - Thai Quinoa Salad:  1_Entres/ThaiQuinoaSalad.md
-    - Vegetarian Chili:  1_Entres/VegetarianChili.md
-    - Vegetarian Enchiladas:  1_Entres/VegetarianEnchiladas.md
-    - Summer Squash Pasta: ./1_Entres/SummerSquashPasta.md
+  - Entrees: 
+    - Black Bean Burgers:  1_Entrees/BlackBeanBurgers.md
+    - Broccoli Casserole:  1_Entrees/BroccoliQuinoaCassarole.md
+    - Brussels:  1_Entrees/Brussels.md
+    - Coconut Curry Chicken:  1_Entrees/CoconutCurry.md
+    - Coconut Kale Fried Rice:  1_Entrees/CoconutKaleRice.md
+    - Crunchwraps:  1_Entrees/Crunchwraps.md
+    - Felafel:  1_Entrees/Falafel.md
+    - Latkas: 1_Entrees/Latkas.md
+    - Spicy Udon:  1_Entrees/Udon.md
+    - Summer Squash Pasta:  1_Entrees/SummerSquashPasta.md
+    - Summer Squash Pasta: ./1_Entrees/SummerSquashPasta.md
+    - Thai Quinoa Salad:  1_Entrees/ThaiQuinoaSalad.md
+    - Vegetarian Chili:  1_Entrees/VegetarianChili.md
+    - Vegetarian Enchiladas:  1_Entrees/VegetarianEnchiladas.md
   - Sides:
     - Bitchin Sauce:  2_Sides/BitchinDip.md
     - Cornbread:  2_Sides/Cornbread.md
+    - Baba Ganoush: 2_Sides/BabaGanoush.md
   - Deserts:
     - Blueberry Muffins:  3_Desserts/BlueberryMuffins.md
     - Nutella brownies:  3_Desserts/NutellaBrownies.md
