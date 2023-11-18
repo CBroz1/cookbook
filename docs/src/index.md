@@ -31,6 +31,7 @@ Each recipe is a markdown file with three sections:
 | [Veg Enchilada](./1_Entrees/VegetarianEnchiladas.md) | C&K [Dish](https://cookieandkate.com/vegetarian-enchiladas-recipe/), [Sauce](https://cookieandkate.com/enchilada-sauce-recipe/) |
 | [Brussels](./1_Entrees/Brussels.md) | Family Recipe |
 | [Tempeh Bowls](./1_Entrees/TempehBowls.md) | [Pinch of Yum](https://pinchofyum.com/fall-favorite-maple-mustard-tempeh-bowls) |
+| [Latkas](./1_Entrees/Latkas.md) | [NYT](https://cooking.nytimes.com/recipes/1015533-classic-potato-latkes) |
 | Broccoli Cheddar Soup | [Cookie and Kate](https://cookieandkate.com/broccoli-cheese-soup-recipe/#tasty-recipes-35739-jump-target) |
 | Cauliflower Soup | [Cookie and Kate](https://cookieandkate.com/creamy-roasted-cauliflower-soup-recipe/) |
 | Chickpea Pancakes | [Bon Appetit](https://www.bonappetit.com/recipe/chickpea-pancakes-with-greens-and-cheese) |
@@ -39,7 +40,6 @@ Each recipe is a markdown file with three sections:
 | Farrow Kale Goat Cheese | [Cookie and Kate](https://cookieandkate.com/farro-kale-goat-cheese-salad-recipe/) |
 | Jerk Chicken Rice | [African Bites](https://www.africanbites.com/one-pot-caribbean-jerk-chicken-rice/) |
 | KongGukSu | [Korean Bapsang](https://www.koreanbapsang.com/kongguksu-chilled-soy-milk-noodle-soup/) |
-| Latkas | [NYT](https://cooking.nytimes.com/recipes/1015533-classic-potato-latkes) |
 | Lentil Soup | [Cookie and Kate](https://cookieandkate.com/best-lentil-soup-recipe/) |
 | Mac & Cheese | [Mon on Timeout](https://www.momontimeout.com/best-homemade-baked-mac-and-cheese-recipe/) |
 | Peanut Noodles | [Nora Cooks](https://www.noracooks.com/peanut-noodles/) |
@@ -56,6 +56,9 @@ Each recipe is a markdown file with three sections:
 | \*\*Miso Soba | [Kitchen Stories](https://www.kitchenstories.com/en/recipes/soba-noodles-with-miso-marinated-tofu-and-vegetables) |
 | Cold Sesame Noodles | [The Woks of Life](https://thewoksoflife.com/cold-sesame-noodles/) |
 | Strawberry Spinach | [Cookie and Kate](https://cookieandkate.com/strawberry-and-spinach-salad-with-quinoa-and-goat-cheese/) |
+| Lentil Soup | [Cookie and Kate](https://cookieandkate.com/best-lentil-soup-recipe/) |
+| Beet Salad | [Cookie and Kate](https://cookieandkate.com/roasted-beet-salad-recipe/#tasty-recipes-38117-jump-target) |
+| Cauliflower Soup | [Cookie and Kate](https://cookieandkate.com/creamy-roasted-cauliflower-soup-recipe/) |
 
 <!--
 | [Broccoli Cheddar Soup](./1_Entrees/BroccoliCheddarSoup.md) | [Cookie and Kate](https://cookieandkate.com/broccoli-cheese-soup-recipe/#tasty-recipes-35739-jump-target) |
@@ -66,7 +69,6 @@ Each recipe is a markdown file with three sections:
 | [Farrow Kale Goat Cheese](./1_Entrees/FarrowKaleGoatCheese.md) | [Cookie and Kate](https://cookieandkate.com/farro-kale-goat-cheese-salad-recipe/) |
 | [Jerk Chicken Rice](./1_Entrees/JerkChickenRice.md) | [African Bites](https://www.africanbites.com/one-pot-caribbean-jerk-chicken-rice/) |
 | [KongGukSu](./1_Entrees/KongGukSu.md) | [Korean Bapsang](https://www.koreanbapsang.com/kongguksu-chilled-soy-milk-noodle-soup/) |
-| [Latkas](./1_Entrees/Latkas.md) | [NYT](https://cooking.nytimes.com/recipes/1015533-classic-potato-latkes) |
 | [Lentil Soup](./1_Entrees/LentilSoup.md) | [Cookie and Kate](https://cookieandkate.com/best-lentil-soup-recipe/) |
 | [Mac & Cheese](./1_Entrees/MacCheese.md) | [Mom on Timeout](https://www.momontimeout.com/best-homemade-baked-mac-and-cheese-recipe/) |
 | [Peanut Noodles](./1_Entrees/PeanutNoodles.md) | [Nora Cooks](https://www.noracooks.com/peanut-noodles/) |
@@ -83,6 +85,9 @@ Each recipe is a markdown file with three sections:
 | [Miso Soba](./1_Entrees/MisoSoba.md) | [Kitchen Stories](https://www.kitchenstories.com/en/recipes/soba-noodles-with-miso-marinated-tofu-and-vegetables) |
 | [Cold Sesame Noodles](./1_Entrees/ColdSesameNoodles.md) | [The Woks of Life](https://thewoksoflife.com/cold-sesame-noodles/) |
 | [Strawberry Spinach](./1_Entrees/StrawberrySpinach.md) | [Cookie and Kate](https://cookieandkate.com/strawberry-and-spinach-salad-with-quinoa-and-goat-cheese/) |
+| [Lentil Soup](./1_Entrees/LentiSoup.md) | [Cookie and Kate](https://cookieandkate.com/best-lentil-soup-recipe/) |
+| [Beet Salad](./1_Entrees/BeetSalad.md) | [Cookie and Kate](https://cookieandkate.com/roasted-beet-salad-recipe/#tasty-recipes-38117-jump-target) |
+| [Cauliflower Soup](./1_Entrees/CauliflowerSoup.md) | [Cookie and Kate](https://cookieandkate.com/creamy-roasted-cauliflower-soup-recipe/) |
 -->
 
 ### Sides
