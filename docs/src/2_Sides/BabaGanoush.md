@@ -34,7 +34,7 @@
 1. Add
     - tahini (.25c)
     - Garlic (2)
-    - Lemon juice  (2tbsp)
+    - Lemon juice (2tbsp)
 1. Slow drizzle in olive oil (.33c)
 1. Stir in
     - Parsley (2tbsp)
@@ -50,4 +50,5 @@
 
 ## Citation
 
-Inspired by: [Cookie and Kate](https://cookieandkate.com/epic-baba-ganoush-recipe/#tasty-recipes-26511-jump-target)
+Inspired by:
+[Cookie and Kate](https://cookieandkate.com/epic-baba-ganoush-recipe/#tasty-recipes-26511-jump-target)

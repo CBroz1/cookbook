@@ -1,4 +1,4 @@
-# Cookbook
+# Cookbook<a name="cookbook"></a>
 
 Each recipe is a markdown file with three sections:
 
@@ -7,58 +7,70 @@ Each recipe is a markdown file with three sections:
     - Dairy
     - Middle
     - Staples - Check pantry
-2. Ingredients as a prep list
-3. Cooking instructions
-4. Notes (e.g., prep time)
-5. Citation
+1. Ingredients as a prep list
+1. Cooking instructions
+1. Notes (e.g., prep time)
+1. Citation
 
-## Links - Solid
+<!-- mdformat-toc start --slug=github --no-anchors --maxlevel=6 --minlevel=1 -->
 
-### Entrees
+- [Cookbook](#cookbook)
+    - [Links - Solid](#links---solid)
+        - [Entrees](#entrees)
+        - [Sides](#sides)
+        - [Desserts](#desserts)
+    - [Links - Want Try](#links---want-try)
 
-| Page | Link |
-| :--: | :--: |
-| [Black Bean Burgers](./1_Entrees/BlackBeanBurgers.md) | [Sally's Baking Addiction](https://sallysbakingaddiction.com/best-black-bean-burgers/) |
-| [Broccoli Casserole](./1_Entrees/BroccoliQuinoaCassarole.md) | [Cookie and Kate](https://cookieandkate.com/better-broccoli-casserole-recipe/) |
-| [Coconut Curry Chicken](./1_Entrees/CoconutCurry.md) | [HelloFresh](https://www.hellofresh.com/recipes/coconut-curry-chicken-5f0e135dc0902c28ff563aa3) |
-| [Coconut Kale Fried Rice](./1_Entrees/CoconutKaleRice.md) | [Cookie and Kate](https://cookieandkate.com/spicy-kale-and-coconut-fried-rice/#tasty-recipes-23595-jump-target) |
-| [Crunchwraps](./1_Entrees/Crunchwraps.md) | [Rainbow Plant Life](https://rainbowplantlife.com/the-best-vegan-crunchwrap-supreme/) |
-| [Felafel](./1_Entrees/Falafel.md) | [Woman's Day](https://www.womansday.com/food-recipes/a32676061/chickpea-spinach-and-quinoa-patties-recipe/) |
-| [Spicy Udon](./1_Entrees/Udon.md) | [Seasons & Suppers](https://www.seasonsandsuppers.ca/15-minute-spicy-udon-vegetable-stir-fry/#recipe) |
-| [Summer Squash Pasta](./1_Entrees/SummerSquashPasta.md) | [Cookie and Kate](https://cookieandkate.com/creamy-cherry-tomato-summer-squash-pasta/) |
-| [Thai Quinoa Salad](./1_Entrees/ThaiQuinoaSalad.md) | [Cookie and Kate](https://cookieandkate.com/thai-peanut-quinoa-salad-recipe/) |
-| [Vegetarian Chili](./1_Entrees/VegetarianChili.md) | [Cookie and Kate](https://cookieandkate.com/vegetarian-chili-recipe/) |
-| [Veg Enchilada](./1_Entrees/VegetarianEnchiladas.md) | C&K [Dish](https://cookieandkate.com/vegetarian-enchiladas-recipe/), [Sauce](https://cookieandkate.com/enchilada-sauce-recipe/) |
-| [Brussels](./1_Entrees/Brussels.md) | Family Recipe |
-| [Tempeh Bowls](./1_Entrees/TempehBowls.md) | [Pinch of Yum](https://pinchofyum.com/fall-favorite-maple-mustard-tempeh-bowls) |
-| [Latkas](./1_Entrees/Latkas.md) | [NYT](https://cooking.nytimes.com/recipes/1015533-classic-potato-latkes) |
-| Broccoli Cheddar Soup | [Cookie and Kate](https://cookieandkate.com/broccoli-cheese-soup-recipe/#tasty-recipes-35739-jump-target) |
-| Cauliflower Soup | [Cookie and Kate](https://cookieandkate.com/creamy-roasted-cauliflower-soup-recipe/) |
-| Chickpea Pancakes | [Bon Appetit](https://www.bonappetit.com/recipe/chickpea-pancakes-with-greens-and-cheese) |
-| Eggplant Cups | [Taste](https://www.taste.com.au/recipes/individual-eggplant-parmigiana/gvwiks4a) |
-| Fall Rice \& Kale | [Cookie and Kate](https://cookieandkate.com/butternut-squash-wild-rice-stuffing-recipe/) |
-| Farrow Kale Goat Cheese | [Cookie and Kate](https://cookieandkate.com/farro-kale-goat-cheese-salad-recipe/) |
-| Jerk Chicken Rice | [African Bites](https://www.africanbites.com/one-pot-caribbean-jerk-chicken-rice/) |
-| KongGukSu | [Korean Bapsang](https://www.koreanbapsang.com/kongguksu-chilled-soy-milk-noodle-soup/) |
-| Lentil Soup | [Cookie and Kate](https://cookieandkate.com/best-lentil-soup-recipe/) |
-| Mac & Cheese | [Mon on Timeout](https://www.momontimeout.com/best-homemade-baked-mac-and-cheese-recipe/) |
-| Peanut Noodles | [Nora Cooks](https://www.noracooks.com/peanut-noodles/) |
-| Pizza (use premade crust) | [The Food Charlatan](https://thefoodcharlatan.com/homemade-pizza-recipe/) |
-| Pot Pie | [Sarah's Vegan Kitchen](https://sarahsvegankitchen.com/recipes/vegan-chicken-pot-pie/) |
-| Roasted Beet Salad | [Cookie and Kate](https://cookieandkate.com/roasted-beet-salad-recipe/) |
-| Salmon | [The Chunky Chef](https://www.thechunkychef.com/baked-crusted-dijon-salmon/) |
-| Shrimp Moqueca | [I Breathe I'm Hungry](https://www.ibreatheimhungry.com/brazilian-shrimp-stew-moqueca-de/) |
-| Szechuan Sauce | [Feasting at Home](https://www.feastingathome.com/chinese-eggplant/) |
-| Thai Quinoa Salad | [Cookie and Kate](https://cookieandkate.com/thai-peanut-quinoa-salad-recipe/) |
-| Vegan Garlic Alfredo Sauce | [The Vegan 8](https://thevegan8.com/vegan-garlic-alfredo-sauce/) |
-| Vegan Sushi | [Carrot](https://www.theedgyveg.com/2020/01/07/vegan-smoked-salmon/) \& [Tuna](https://veganvvocals.com/2021/08/13/vegan-tuna-sushi/) |
-| Zucchini Fritters | [Serious Eats](https://www.seriouseats.com/kolokithokeftedes-greek-zucchini-fritters-with-tzatziki-recipe) |
-| \*\*Miso Soba | [Kitchen Stories](https://www.kitchenstories.com/en/recipes/soba-noodles-with-miso-marinated-tofu-and-vegetables) |
-| Cold Sesame Noodles | [The Woks of Life](https://thewoksoflife.com/cold-sesame-noodles/) |
-| Strawberry Spinach | [Cookie and Kate](https://cookieandkate.com/strawberry-and-spinach-salad-with-quinoa-and-goat-cheese/) |
-| Lentil Soup | [Cookie and Kate](https://cookieandkate.com/best-lentil-soup-recipe/) |
-| Beet Salad | [Cookie and Kate](https://cookieandkate.com/roasted-beet-salad-recipe/#tasty-recipes-38117-jump-target) |
-| Cauliflower Soup | [Cookie and Kate](https://cookieandkate.com/creamy-roasted-cauliflower-soup-recipe/) |
+<!-- mdformat-toc end -->
+
+## Links - Solid<a name="links---solid"></a>
+
+### Entrees<a name="entrees"></a>
+
+|                             Page                             |                                                                 Link                                                                 |
+| :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
+|    [Black Bean Burgers](./1_Entrees/BlackBeanBurgers.md)     |                        [Sally's Baking Addiction](https://sallysbakingaddiction.com/best-black-bean-burgers/)                        |
+| [Broccoli Casserole](./1_Entrees/BroccoliQuinoaCassarole.md) |                            [Cookie and Kate](https://cookieandkate.com/better-broccoli-casserole-recipe/)                            |
+|     [Coconut Curry Chicken](./1_Entrees/CoconutCurry.md)     |                   [HelloFresh](https://www.hellofresh.com/recipes/coconut-curry-chicken-5f0e135dc0902c28ff563aa3)                    |
+|  [Coconut Kale Fried Rice](./1_Entrees/CoconutKaleRice.md)   |           [Cookie and Kate](https://cookieandkate.com/spicy-kale-and-coconut-fried-rice/#tasty-recipes-23595-jump-target)            |
+|          [Crunchwraps](./1_Entrees/Crunchwraps.md)           |                        [Rainbow Plant Life](https://rainbowplantlife.com/the-best-vegan-crunchwrap-supreme/)                         |
+|              [Felafel](./1_Entrees/Falafel.md)               |             [Woman's Day](https://www.womansday.com/food-recipes/a32676061/chickpea-spinach-and-quinoa-patties-recipe/)              |
+|              [Spicy Udon](./1_Entrees/Udon.md)               |                [Seasons & Suppers](https://www.seasonsandsuppers.ca/15-minute-spicy-udon-vegetable-stir-fry/#recipe)                 |
+|   [Summer Squash Pasta](./1_Entrees/SummerSquashPasta.md)    |                        [Cookie and Kate](https://cookieandkate.com/creamy-cherry-tomato-summer-squash-pasta/)                        |
+|     [Thai Quinoa Salad](./1_Entrees/ThaiQuinoaSalad.md)      |                            [Cookie and Kate](https://cookieandkate.com/thai-peanut-quinoa-salad-recipe/)                             |
+|      [Vegetarian Chili](./1_Entrees/VegetarianChili.md)      |                                [Cookie and Kate](https://cookieandkate.com/vegetarian-chili-recipe/)                                 |
+|     [Veg Enchilada](./1_Entrees/VegetarianEnchiladas.md)     |   C&K [Dish](https://cookieandkate.com/vegetarian-enchiladas-recipe/), [Sauce](https://cookieandkate.com/enchilada-sauce-recipe/)    |
+|             [Brussels](./1_Entrees/Brussels.md)              |                                                            Family Recipe                                                             |
+|          [Tempeh Bowls](./1_Entrees/TempehBowls.md)          |                           [Pinch of Yum](https://pinchofyum.com/fall-favorite-maple-mustard-tempeh-bowls)                            |
+|               [Latkas](./1_Entrees/Latkas.md)                |                               [NYT](https://cooking.nytimes.com/recipes/1015533-classic-potato-latkes)                               |
+|             [Mujadara](./1_Entrees/Mujadara.md)              |                                    [Cookie and Kate](https://cookieandkate.com/mujaddara-recipe/)                                    |
+|                    Broccoli Cheddar Soup                     |              [Cookie and Kate](https://cookieandkate.com/broccoli-cheese-soup-recipe/#tasty-recipes-35739-jump-target)               |
+|                       Cauliflower Soup                       |                         [Cookie and Kate](https://cookieandkate.com/creamy-roasted-cauliflower-soup-recipe/)                         |
+|                      Chickpea Pancakes                       |                      [Bon Appetit](https://www.bonappetit.com/recipe/chickpea-pancakes-with-greens-and-cheese)                       |
+|                        Eggplant Cups                         |                          [Taste](https://www.taste.com.au/recipes/individual-eggplant-parmigiana/gvwiks4a)                           |
+|                       Fall Rice & Kale                       |                       [Cookie and Kate](https://cookieandkate.com/butternut-squash-wild-rice-stuffing-recipe/)                       |
+|                   Farrow Kale Goat Cheese                    |                          [Cookie and Kate](https://cookieandkate.com/farro-kale-goat-cheese-salad-recipe/)                           |
+|                      Jerk Chicken Rice                       |                          [African Bites](https://www.africanbites.com/one-pot-caribbean-jerk-chicken-rice/)                          |
+|                          KongGukSu                           |                       [Korean Bapsang](https://www.koreanbapsang.com/kongguksu-chilled-soy-milk-noodle-soup/)                        |
+|                         Lentil Soup                          |                                [Cookie and Kate](https://cookieandkate.com/best-lentil-soup-recipe/)                                 |
+|                         Mac & Cheese                         |                      [Mon on Timeout](https://www.momontimeout.com/best-homemade-baked-mac-and-cheese-recipe/)                       |
+|                        Peanut Noodles                        |                                       [Nora Cooks](https://www.noracooks.com/peanut-noodles/)                                        |
+|                  Pizza (use premade crust)                   |                              [The Food Charlatan](https://thefoodcharlatan.com/homemade-pizza-recipe/)                               |
+|                           Pot Pie                            |                        [Sarah's Vegan Kitchen](https://sarahsvegankitchen.com/recipes/vegan-chicken-pot-pie/)                        |
+|                      Roasted Beet Salad                      |                               [Cookie and Kate](https://cookieandkate.com/roasted-beet-salad-recipe/)                                |
+|                            Salmon                            |                             [The Chunky Chef](https://www.thechunkychef.com/baked-crusted-dijon-salmon/)                             |
+|                        Shrimp Moqueca                        |                      [I Breathe I'm Hungry](https://www.ibreatheimhungry.com/brazilian-shrimp-stew-moqueca-de/)                      |
+|                        Szechuan Sauce                        |                                 [Feasting at Home](https://www.feastingathome.com/chinese-eggplant/)                                 |
+|                      Thai Quinoa Salad                       |                            [Cookie and Kate](https://cookieandkate.com/thai-peanut-quinoa-salad-recipe/)                             |
+|                  Vegan Garlic Alfredo Sauce                  |                                   [The Vegan 8](https://thevegan8.com/vegan-garlic-alfredo-sauce/)                                   |
+|                         Vegan Sushi                          | [Carrot](https://www.theedgyveg.com/2020/01/07/vegan-smoked-salmon/) & [Tuna](https://veganvvocals.com/2021/08/13/vegan-tuna-sushi/) |
+|                      Zucchini Fritters                       |              [Serious Eats](https://www.seriouseats.com/kolokithokeftedes-greek-zucchini-fritters-with-tzatziki-recipe)              |
+|                        \*\*Miso Soba                         |          [Kitchen Stories](https://www.kitchenstories.com/en/recipes/soba-noodles-with-miso-marinated-tofu-and-vegetables)           |
+|                     Cold Sesame Noodles                      |                                  [The Woks of Life](https://thewoksoflife.com/cold-sesame-noodles/)                                  |
+|                      Strawberry Spinach                      |                [Cookie and Kate](https://cookieandkate.com/strawberry-and-spinach-salad-with-quinoa-and-goat-cheese/)                |
+|                         Lentil Soup                          |                                [Cookie and Kate](https://cookieandkate.com/best-lentil-soup-recipe/)                                 |
+|                          Beet Salad                          |               [Cookie and Kate](https://cookieandkate.com/roasted-beet-salad-recipe/#tasty-recipes-38117-jump-target)                |
+|                       Cauliflower Soup                       |                         [Cookie and Kate](https://cookieandkate.com/creamy-roasted-cauliflower-soup-recipe/)                         |
 
 <!--
 | [Broccoli Cheddar Soup](./1_Entrees/BroccoliCheddarSoup.md) | [Cookie and Kate](https://cookieandkate.com/broccoli-cheese-soup-recipe/#tasty-recipes-35739-jump-target) |
@@ -90,46 +102,45 @@ Each recipe is a markdown file with three sections:
 | [Cauliflower Soup](./1_Entrees/CauliflowerSoup.md) | [Cookie and Kate](https://cookieandkate.com/creamy-roasted-cauliflower-soup-recipe/) |
 -->
 
-### Sides
+### Sides<a name="sides"></a>
 
-| Page | Link |
-| :--: | :--: |
-| [Baba Ganoush](./1_Entrees/BabaGanoush.md) | [Cookie and Kate](https://cookieandkate.com/epic-baba-ganoush-recipe/#tasty-recipes-26511-jump-target) |
-| [Bitchin Sauce](./2_Sides/BitchinDip.md) | [Blissful Basil](https://www.blissfulbasil.com/bitchin-sauce-copycat/#wprm-recipe-container-30640) |
-| [Cornbread](./2_Sides/Cornbread.md) | [Le Crème de Crumb](https://www.lecremedelacrumb.com/best-super-moist-cornbread/#wprm-recipe-container-27011) |
+|                    Page                    |                                                      Link                                                      |
+| :----------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
+| [Baba Ganoush](./1_Entrees/BabaGanoush.md) |     [Cookie and Kate](https://cookieandkate.com/epic-baba-ganoush-recipe/#tasty-recipes-26511-jump-target)     |
+|  [Bitchin Sauce](./2_Sides/BitchinDip.md)  |       [Blissful Basil](https://www.blissfulbasil.com/bitchin-sauce-copycat/#wprm-recipe-container-30640)       |
+|    [Cornbread](./2_Sides/Cornbread.md)     | [Le Crème de Crumb](https://www.lecremedelacrumb.com/best-super-moist-cornbread/#wprm-recipe-container-27011) |
 
-### Desserts
+### Desserts<a name="desserts"></a>
 
-| Page | Link |
-| :--: | :--: |
-| [Blueberry Muffins](./3_Desserts/BlueberryMuffins.md) | [Cookie and Kate](https://cookieandkate.com/healthy-blueberry-muffins/) |
-| [Nutella brownies](./3_Desserts/NutellaBrownies.md) | [Sally's Baking Addiction](https://sallysbakingaddiction.com/nutella-brownies/) |
-| [S’mores bars](./3_Desserts/SmoresBars.md) | [Averie Cooks](https://www.averiecooks.com/soft-and-gooey-loaded-smores-bars/#mv-creation-778-jtr) |
-| Cherry Cobbler Cake | [The Baking Chocolatess](https://www.thebakingchocolatess.com/sour-cherry-cobbler-coffee-cake/) |
-| Pumpk Oatmeal Cookies | [Sally's Baking Addiction](https://sallysbakingaddiction.com/chewy-pumpkin-oatmeal-chocolate-chip-cookies/#tasty-recipes-67515) |
+|                         Page                          |                                                              Link                                                               |
+| :---------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
+| [Blueberry Muffins](./3_Desserts/BlueberryMuffins.md) |                             [Cookie and Kate](https://cookieandkate.com/healthy-blueberry-muffins/)                             |
+|  [Nutella brownies](./3_Desserts/NutellaBrownies.md)  |                         [Sally's Baking Addiction](https://sallysbakingaddiction.com/nutella-brownies/)                         |
+|      [S’mores bars](./3_Desserts/SmoresBars.md)       |               [Averie Cooks](https://www.averiecooks.com/soft-and-gooey-loaded-smores-bars/#mv-creation-778-jtr)                |
+|                  Cherry Cobbler Cake                  |                 [The Baking Chocolatess](https://www.thebakingchocolatess.com/sour-cherry-cobbler-coffee-cake/)                 |
+|                 Pumpk Oatmeal Cookies                 | [Sally's Baking Addiction](https://sallysbakingaddiction.com/chewy-pumpkin-oatmeal-chocolate-chip-cookies/#tasty-recipes-67515) |
 
 <!--
 | [Cherry Cobbler Cake](./3_Desserts/CherryCobblerCake.md) | [The Baking Chocolatess](https://www.thebakingchocolatess.com/sour-cherry-cobbler-coffee-cake/) |
 | [Pumpk Oatmeal Cookies](./3_Desserts/PumpkOatmealCookies.md) | [Sally's Baking Addiction](https://sallysbakingaddiction.com/chewy-pumpkin-oatmeal-chocolate-chip-cookies/#tasty-recipes-67515) |
 -->
 
-## Links - Want Try
+## Links - Want Try<a name="links---want-try"></a>
 
-| Page | Link |
-| :--: | :--: |
-| Cauliflower Dip | [Heartbeet Kitchen](https://heartbeetkitchen.com/creamy-roasted-cauliflower-dip/) |
-| Chickpea Quinoa | [Cookie and Kate](https://cookieandkate.com/herbed-quinoa-chickpea-salad-recipe/) |
-| Corn Chowder | [Cookie and Kate](https://cookieandkate.com/vegetarian-corn-chowder-recipe/) |
-| Couscous Salad | [Cookie and Kate](https://cookieandkate.com/mediterranean-couscous-salad-recipe/) |
-| Garlic Noodles | [NYT](https://cooking.nytimes.com/recipes/1023012-san-francisco-style-vietnamese-american-garlic-noodles) |
-| Lo Mein | [Ahead of Thyme](https://www.aheadofthyme.com/2017/04/easy-15-minute-lo-mein/) |
-| Mujadara Lentil Onion | [Cookie and Kate](https://cookieandkate.com/mujaddara-recipe/) |
-| Pasta Lentils | [Cookie and Kate](https://cookieandkate.com/hearty-spaghetti-with-lentils-marinara/) |
-| Pumpkin Marinara | [Cookie and Kate](https://cookieandkate.com/creamy-pumpkin-marinara-recipe/) |
-| Ricotta Stuffed Zucchini | [Sip and Feast](https://www.sipandfeast.com/ricotta-stuffed-zucchini/#recipe) |
-| Risotto Squash Kale | [Cookie and Kate](https://cookieandkate.com/steel-cut-oat-risotto-recipe/) |
-| Vegan Nacho Cheese | [Nora Cooks](https://www.noracooks.com/easy-vegan-nacho-cheese-sauce/) |
-| Veggie Meatballs | [Ahead of Thyme](https://www.aheadofthyme.com/2016/03/quinoa-cauliflower-and-chickpea-vegetarian-meatballs-with-tahini-sauce/) |
-| Edamame Hummus | [Food Network](https://www.foodnetwork.com/recipes/food-network-kitchen/edamame-hummus-recipe-1928183) |
-| Stuffed Peppers | [Ahead of Thyme](https://www.aheadofthyme.com/easy-vegan-stuffed-bell-peppers/) |
-| Beet Tzasiki Pasta | [Show Me the Yummy](https://showmetheyummy.com/beet-pasta-recipe/) |
+|           Page           |                                                              Link                                                              |
+| :----------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
+|     Cauliflower Dip      |                       [Heartbeet Kitchen](https://heartbeetkitchen.com/creamy-roasted-cauliflower-dip/)                        |
+|     Chickpea Quinoa      |                       [Cookie and Kate](https://cookieandkate.com/herbed-quinoa-chickpea-salad-recipe/)                        |
+|       Corn Chowder       |                          [Cookie and Kate](https://cookieandkate.com/vegetarian-corn-chowder-recipe/)                          |
+|      Couscous Salad      |                       [Cookie and Kate](https://cookieandkate.com/mediterranean-couscous-salad-recipe/)                        |
+|      Garlic Noodles      |           [NYT](https://cooking.nytimes.com/recipes/1023012-san-francisco-style-vietnamese-american-garlic-noodles)            |
+|         Lo Mein          |                         [Ahead of Thyme](https://www.aheadofthyme.com/2017/04/easy-15-minute-lo-mein/)                         |
+|      Pasta Lentils       |                      [Cookie and Kate](https://cookieandkate.com/hearty-spaghetti-with-lentils-marinara/)                      |
+|     Pumpkin Marinara     |                          [Cookie and Kate](https://cookieandkate.com/creamy-pumpkin-marinara-recipe/)                          |
+| Ricotta Stuffed Zucchini |                         [Sip and Feast](https://www.sipandfeast.com/ricotta-stuffed-zucchini/#recipe)                          |
+|   Risotto Squash Kale    |                           [Cookie and Kate](https://cookieandkate.com/steel-cut-oat-risotto-recipe/)                           |
+|    Vegan Nacho Cheese    |                             [Nora Cooks](https://www.noracooks.com/easy-vegan-nacho-cheese-sauce/)                             |
+|     Veggie Meatballs     | [Ahead of Thyme](https://www.aheadofthyme.com/2016/03/quinoa-cauliflower-and-chickpea-vegetarian-meatballs-with-tahini-sauce/) |
+|      Edamame Hummus      |             [Food Network](https://www.foodnetwork.com/recipes/food-network-kitchen/edamame-hummus-recipe-1928183)             |
+|     Stuffed Peppers      |                        [Ahead of Thyme](https://www.aheadofthyme.com/easy-vegan-stuffed-bell-peppers/)                         |
+|    Beet Tzasiki Pasta    |                               [Show Me the Yummy](https://showmetheyummy.com/beet-pasta-recipe/)                               |

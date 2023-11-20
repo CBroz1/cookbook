@@ -52,4 +52,5 @@
 
 ## Citation
 
-Inspired by: [NYT](https://cooking.nytimes.com/recipes/1015533-classic-potato-latkes)
+Inspired by:
+[NYT](https://cooking.nytimes.com/recipes/1015533-classic-potato-latkes)

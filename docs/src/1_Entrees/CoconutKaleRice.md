@@ -70,4 +70,5 @@ NOTE: Cook rice ahead of time
 
 ## Citation
 
-Inspired by: [Cookie and Kate](https://cookieandkate.com/spicy-kale-and-coconut-fried-rice/#tasty-recipes-23595-jump-target)
+Inspired by:
+[Cookie and Kate](https://cookieandkate.com/spicy-kale-and-coconut-fried-rice/#tasty-recipes-23595-jump-target)

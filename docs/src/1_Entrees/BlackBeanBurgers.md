@@ -71,4 +71,5 @@
 
 ## Citation
 
-Inspried by [Sally's Baking Addiction](https://sallysbakingaddiction.com/best-black-bean-burgers/).
+Inspried by
+[Sally's Baking Addiction](https://sallysbakingaddiction.com/best-black-bean-burgers/).

@@ -101,4 +101,7 @@
 
 ## Citation
 
-This recipe was inspired by [Cookie and Kate's Enchilada Sauce](https://cookieandkate.com/enchilada-sauce-recipe/) and [Vegetarian Enchiladas](https://cookieandkate.com/vegetarian-enchiladas-recipe/).
+This recipe was inspired by
+[Cookie and Kate's Enchilada Sauce](https://cookieandkate.com/enchilada-sauce-recipe/)
+and
+[Vegetarian Enchiladas](https://cookieandkate.com/vegetarian-enchiladas-recipe/).

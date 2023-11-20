@@ -1,7 +1,7 @@
 #!/bin/bash
 
-run_replace=true 
-run_fracts=true 
+run_replace=true
+run_fracts=true
 run_units=false
 
 declare -A replacements=(
@@ -73,4 +73,3 @@ if [ "$run_units" = true ]; then
     s/([0-9]+\.?[0-9]*)([a-z]+)/\2 (\1)/g
   }' "$filename" && awk '/^(\s*-\s*|\s*[1-9]+\.?\d*\s*)/{gsub(/([0-9]+\.?[0-9]*)([a-z]+)/, "\t- \\2 (\\1)"); print} !/^\s*-|^[\t\s]*[1-9]+\./ {print}' "$filename"
 fi
-

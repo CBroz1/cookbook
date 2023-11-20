@@ -33,4 +33,5 @@
 
 ## Citation
 
-Inspired by: [Rainbow Plant Life](https://rainbowplantlife.com/the-best-vegan-crunchwrap-supreme/)
+Inspired by:
+[Rainbow Plant Life](https://rainbowplantlife.com/the-best-vegan-crunchwrap-supreme/)

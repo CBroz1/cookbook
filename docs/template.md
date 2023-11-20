@@ -15,13 +15,13 @@
 ## Cook
 
 1. One
-2. Two
+1. Two
 
 ## Notes
 
 - Suggested Time: Xm
-  - Prep: Xm
-  - Cook: Xm
+    - Prep: Xm
+    - Cook: Xm
 - Servings: X
 - Substitutions: X
 

@@ -68,4 +68,5 @@ NOTE: Quinoa takes time
 
 ## Citation
 
-Inspried by [Woman's Day](https://www.womansday.com/food-recipes/a32676061/chickpea-spinach-and-quinoa-patties-recipe/).
+Inspried by
+[Woman's Day](https://www.womansday.com/food-recipes/a32676061/chickpea-spinach-and-quinoa-patties-recipe/).

@@ -23,11 +23,6 @@ theme:
     custom_dir: overrides
     logo: stylesheets/cook_icon.png
     favicon: stylesheets/cook_icon.png
-    features:
-      - toc.integrate
-      - navigation.sections
-      - navigation.expand
-      - navigation.top
     disable_nav_previous_next: true
     disable_nav_search: false
     navigation_depth: 2
@@ -38,17 +33,19 @@ theme:
         previous:  80 # p
         search:    83 # s
     features:
+      - toc.integrate
+      - navigation.sections
+      - navigation.expand
+      - navigation.top
       - navigation.instant   # saves loading time - 1 browser page
       - navigation.tracking  # even with above, changes URL by section
-      - navigation.top
       # - navigation.tabs      # moves top level heading to tabs
-      # - toc.integrate        # move TOC to left
       - search.suggest
       - search.share
 
 nav:
   - Home:                   index.md
-  - Entrees: 
+  - Entrees:
     - Black Bean Burgers:  1_Entrees/BlackBeanBurgers.md
     - Broccoli Casserole:  1_Entrees/BroccoliQuinoaCassarole.md
     - Brussels:  1_Entrees/Brussels.md

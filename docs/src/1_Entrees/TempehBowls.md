@@ -63,4 +63,5 @@
 
 ## Citation
 
-Inspired by: [Pinch of Yum](https://pinchofyum.com/fall-favorite-maple-mustard-tempeh-bowls#tasty-recipes-76598-jump-target)
+Inspired by:
+[Pinch of Yum](https://pinchofyum.com/fall-favorite-maple-mustard-tempeh-bowls#tasty-recipes-76598-jump-target)

@@ -24,7 +24,7 @@
 ## Prep
 
 1. Cook .75c quinoa in a rice cooker w/1.5c water.
-1. Sauce. Wisk together (maybe nuke <30s)
+1. Sauce. Wisk together (maybe nuke \<30s)
     - smooth peanut butter (.25 c)
     - soy sauce (3 tbsp)
     - maple syrup or honey (1 tbsp)
@@ -53,4 +53,5 @@
 
 ## Citation
 
-This recipe was inspired by [Cookie and Kate](https://cookieandkate.com/thai-peanut-quinoa-salad-recipe/).
+This recipe was inspired by
+[Cookie and Kate](https://cookieandkate.com/thai-peanut-quinoa-salad-recipe/).

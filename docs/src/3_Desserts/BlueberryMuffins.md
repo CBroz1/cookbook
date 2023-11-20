@@ -62,4 +62,5 @@ NOTE: Let eggs to room temp
 
 ## Citation
 
-Inspired by: [Cookie and Kate](https://cookieandkate.com/healthy-blueberry-muffins/)
+Inspired by:
+[Cookie and Kate](https://cookieandkate.com/healthy-blueberry-muffins/)

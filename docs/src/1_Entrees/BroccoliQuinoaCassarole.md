@@ -54,4 +54,5 @@
 
 ## Citation
 
-This recipe was adapted from [Cookie and Kate](https://cookieandkate.com/better-broccoli-casserole-recipe/).
+This recipe was adapted from
+[Cookie and Kate](https://cookieandkate.com/better-broccoli-casserole-recipe/).

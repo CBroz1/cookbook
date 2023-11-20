@@ -60,4 +60,5 @@
 
 ## Citation
 
-Inspired by: [Cookie and Kate](https://cookieandkate.com/broccoli-cheese-soup-recipe/#tasty-recipes-35739-jump-target)
+Inspired by:
+[Cookie and Kate](https://cookieandkate.com/broccoli-cheese-soup-recipe/#tasty-recipes-35739-jump-target)

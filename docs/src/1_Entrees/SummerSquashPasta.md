@@ -56,4 +56,5 @@
 
 ## Citation
 
-This recipe was inspired by [Cookie and Kate](https://cookieandkate.com/creamy-cherry-tomato-summer-squash-pasta/).
+This recipe was inspired by
+[Cookie and Kate](https://cookieandkate.com/creamy-cherry-tomato-summer-squash-pasta/).

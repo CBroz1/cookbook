@@ -46,4 +46,5 @@ NOTE: Pre-soak nuts >2h
 
 ## Citation
 
-Inspired by: [Blissful Basil](https://www.blissfulbasil.com/bitchin-sauce-copycat/#wprm-recipe-container-30640)
+Inspired by:
+[Blissful Basil](https://www.blissfulbasil.com/bitchin-sauce-copycat/#wprm-recipe-container-30640)
