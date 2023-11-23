@@ -39,7 +39,6 @@ theme:
       - navigation.top
       - navigation.instant   # saves loading time - 1 browser page
       - navigation.tracking  # even with above, changes URL by section
-      # - navigation.tabs      # moves top level heading to tabs
       - search.suggest
       - search.share
 
@@ -49,11 +48,15 @@ nav:
     - Black Bean Burgers:  1_Entrees/BlackBeanBurgers.md
     - Broccoli Casserole:  1_Entrees/BroccoliQuinoaCassarole.md
     - Brussels:  1_Entrees/Brussels.md
+    - Caulifower Soup:  1_Entrees/CauliflowerSoup.md
+    - Chickpea Pancakes:  1_Entrees/ChickpeaPancakes.md
     - Coconut Curry Chicken:  1_Entrees/CoconutCurry.md
     - Coconut Kale Fried Rice:  1_Entrees/CoconutKaleRice.md
     - Crunchwraps:  1_Entrees/Crunchwraps.md
+    - Eggplant Cups:  1_Entrees/EggplantCups.md
     - Felafel:  1_Entrees/Falafel.md
     - Latkas: 1_Entrees/Latkas.md
+    - Mujadara:  1_Entrees/Mujadara.md
     - Spicy Udon:  1_Entrees/Udon.md
     - Summer Squash Pasta:  1_Entrees/SummerSquashPasta.md
     - Summer Squash Pasta: ./1_Entrees/SummerSquashPasta.md
@@ -78,7 +81,7 @@ plugins:
       glob:
         - "temp*"
   - literate-nav:
-      nav_file: navigation.md'
+      nav_file: navigation.md
   - exclude-search:
       exclude:
         - "*/navigation.md"
