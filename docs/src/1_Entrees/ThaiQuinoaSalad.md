@@ -1,57 +1,59 @@
-# Crunchy Thai Peanut & Quinoa Salad
+# Thai Quinoa Salad
 
-## Ingredients
+## Shopping
 
-### Salad
-
-- Produce:
-    - purple cabbage (2 c)
-    - carrot (1)
-    - snow/sugar snap peas (1 c)
-    - green onion (.25 c)
+- Produce
+    - purple cabbage (2c)
+    - carrot (2)
+    - peas, sugar/snow (1c)
+    - green onion (0.25c)
+    - ginger (1tsp)
     - lime (1)
-    - ginger (1 tsp)
-- Staples:
-    - quinoa or millet (.75 c)
-    - peanuts, roasted and salted (.25 c)
-    - smooth peanut butter (.25 c)
-    - soy sauce (3 tbsp)
-    - maple syrup or honey (1 tbsp)
-    - rice vinegar (1 tbsp)
-    - (toasted) sesame oil (1 tsp)
-    - red pepper flakes
+- Dairy
+- Middle
+- Staples
+    - quinoa (0.75c)
+    - peanuts, roasted/salted (0.25c,opt)
+    - smooth peanut butter (0.25c)
+    - soy sauce (3tbsp)
+    - maple syrup or honey (1tbsp)
+    - rice vinegar (1tbsp)
+    - toasted sesame oil (1tsp)
+    - Pinch of red pepper flakes
 
 ## Prep
 
-1. Cook .75c quinoa in a rice cooker w/1.5c water.
-1. Sauce. Wisk together (maybe nuke \<30s)
-    - smooth peanut butter (.25 c)
-    - soy sauce (3 tbsp)
-    - maple syrup or honey (1 tbsp)
-    - rice vinegar (1 tbsp)
-    - (toasted) sesame oil (1 tsp)
-    - lime juice (.5 lime)
-    - red pepper flakes
+1. Quinoa in rice cooker
+    1. Rinse
+    1. Quinoa (.75c), water (1.5c)
 1. Thinly slice, bowl
-    - purple cabbage (2 c)
-    - carrot (1 c)
-    - snow/sugar snap peas (1 c)
-    - green onion (.25 c)
-    - peanuts (.25 c)
+    1. green onion (0.25c)
+    1. snow peas (1c)
+    1. Cabbage (2c)
+1. Mix sauce
+    1. Peanut butter (0.25c) - Microwave 30s
+    1. Soy sauce (3tbsp)
+    1. Maple syrup (1tbsp)
+    1. Rice vinegar (1tbsp)
+    1. Sesame oil (1tsp)
+    1. Red pepper flakes (pinch)
+    1. Ginger (1tsp), grated
+    1. Lime juice (1.5tbsp)
+1. Chop peanuts (0.25c)
 
-## Instructions
+## Cook
 
-1. Cool cooked quinoa
-1. Combine
+1. Mix veggies, quinoa, sauce
+1. Garnish with peanuts
 
 ## Notes
 
 - Suggested Time: 40m
-    - Prep Time: 20m
-    - Cook Time: 20m
+    - Prep: 20m
+    - Cook: 20m
 - Servings: 4
 
 ## Citation
 
-This recipe was inspired by
-[Cookie and Kate](https://cookieandkate.com/thai-peanut-quinoa-salad-recipe/).
+Inspired by:
+[Cookie and Kate](https://cookieandkate.com/thai-peanut-quinoa-salad-recipe/)

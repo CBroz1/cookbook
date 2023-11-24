@@ -9,22 +9,16 @@
 
 ## Prep
 
-- Ingredient 1: prep
-- Ingredient 2: prep
-
 ## Cook
-
-1. One
-1. Two
 
 ## Notes
 
-- Suggested Time: Xm
-    - Prep: Xm
-    - Cook: Xm
+- Suggested Time: 00m
+    - Prep: 00m
+    - Cook: 00m
 - Servings: X
 - Substitutions: X
 
 ## Citation
 
-Inspired by: [Title](https://www.example.com)
+Inspired by:
