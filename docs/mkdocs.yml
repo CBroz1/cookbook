@@ -45,6 +45,8 @@ theme:
 nav:
   - Home:                   index.md
   - Entrees:
+    - Beet Salad:  1_Entrees/BeetSalad.md
+    - Peanut Noodles:  1_Entrees/PeanutNoodles.md
     - Black Bean Burgers:  1_Entrees/BlackBeanBurgers.md
     - Broccoli Casserole:  1_Entrees/BroccoliQuinoaCassarole.md
     - Brussels:  1_Entrees/Brussels.md
@@ -52,11 +54,18 @@ nav:
     - Chickpea Pancakes:  1_Entrees/ChickpeaPancakes.md
     - Coconut Curry Chicken:  1_Entrees/CoconutCurry.md
     - Coconut Kale Fried Rice:  1_Entrees/CoconutKaleRice.md
+    - Cold Sesame Noodles:  1_Entrees/ColdSesameNoodles.md
     - Crunchwraps:  1_Entrees/Crunchwraps.md
     - Eggplant Cups:  1_Entrees/EggplantCups.md
+    - Fall Rice Kale:  1_Entrees/FallRiceKale.md
+    - Farro Goat Cheese Salad:  1_Entrees/FarroGoatCheese.md
     - Felafel:  1_Entrees/Falafel.md
+    - Garlic Alfredo:  1_Entrees/GarlicAlfredo.md
+    - Jerk Chicken Rice:  1_Entrees/JerkChickenRice.md
     - Latkas: 1_Entrees/Latkas.md
+    - Miso Soba Noodles:  1_Entrees/MisoSoba.md
     - Mujadara:  1_Entrees/Mujadara.md
+    - Salmon:  1_Entrees/Salmon.md
     - Spicy Udon:  1_Entrees/Udon.md
     - Summer Squash Pasta:  1_Entrees/SummerSquashPasta.md
     - Summer Squash Pasta: ./1_Entrees/SummerSquashPasta.md
