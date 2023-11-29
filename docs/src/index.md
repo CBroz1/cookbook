@@ -39,6 +39,7 @@ Each recipe is a markdown file with three sections:
 |     [Coconut Curry Chicken](./1_Entrees/CoconutCurry.md)     |                   [HelloFresh](https://www.hellofresh.com/recipes/coconut-curry-chicken-5f0e135dc0902c28ff563aa3)                    |
 |  [Coconut Kale Fried Rice](./1_Entrees/CoconutKaleRice.md)   |           [Cookie and Kate](https://cookieandkate.com/spicy-kale-and-coconut-fried-rice/#tasty-recipes-23595-jump-target)            |
 |   [Cold Sesame Noodles](./1_Entrees/ColdSesameNoodles.md)    |                                  [The Woks of Life](https://thewoksoflife.com/cold-sesame-noodles/)                                  |
+|          [Corn Chowder](./1_Entrees/CornChowder.md)          |                             [Cookie and Kate](https://cookieandkate.com/vegetarian-corn-chowder-recipe/)                             |
 |          [Crunchwraps](./1_Entrees/Crunchwraps.md)           |                        [Rainbow Plant Life](https://rainbowplantlife.com/the-best-vegan-crunchwrap-supreme/)                         |
 |         [Eggplant Cups](./1_Entrees/EggplantCups.md)         |                          [Taste](https://www.taste.com.au/recipes/individual-eggplant-parmigiana/gvwiks4a)                           |
 |       [Fall Rice & Kale](./1_Entrees/FallRiceKale.md)        |                       [Cookie and Kate](https://cookieandkate.com/butternut-squash-wild-rice-stuffing-recipe/)                       |
@@ -95,7 +96,6 @@ Each recipe is a markdown file with three sections:
 |    Beet Tzasiki Pasta    |                               [Show Me the Yummy](https://showmetheyummy.com/beet-pasta-recipe/)                               |
 |     Cauliflower Dip      |                       [Heartbeet Kitchen](https://heartbeetkitchen.com/creamy-roasted-cauliflower-dip/)                        |
 |     Chickpea Quinoa      |                       [Cookie and Kate](https://cookieandkate.com/herbed-quinoa-chickpea-salad-recipe/)                        |
-|       Corn Chowder       |                          [Cookie and Kate](https://cookieandkate.com/vegetarian-corn-chowder-recipe/)                          |
 |      Couscous Salad      |                       [Cookie and Kate](https://cookieandkate.com/mediterranean-couscous-salad-recipe/)                        |
 |      Edamame Hummus      |             [Food Network](https://www.foodnetwork.com/recipes/food-network-kitchen/edamame-hummus-recipe-1928183)             |
 |      Garlic Noodles      |           [NYT](https://cooking.nytimes.com/recipes/1023012-san-francisco-style-vietnamese-american-garlic-noodles)            |
