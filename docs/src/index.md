@@ -68,8 +68,8 @@ Each recipe is a markdown file with three sections:
 |           [Vegan Sushi](./1_Entrees/VeganSushi.md)           | [Carrot](https://www.theedgyveg.com/2020/01/07/vegan-smoked-salmon/) & [Tuna](https://veganvvocals.com/2021/08/13/vegan-tuna-sushi/) |
 |      [Vegetarian Chili](./1_Entrees/VegetarianChili.md)      |                                [Cookie and Kate](https://cookieandkate.com/vegetarian-chili-recipe/)                                 |
 |     [Zucchini Fritters](./1_Entrees/ZucchiniFritters.md)     |              [Serious Eats](https://www.seriouseats.com/kolokithokeftedes-greek-zucchini-fritters-with-tzatziki-recipe)              |
-
-<!--broc cheddar soup, tempeh bowls-->
+|      [Potato Leak Soup](./1_Entrees/PotatoLeakSoup.md)       |                           [Once Upon a Chef](https://www.onceuponachef.com/recipes/potato-leek-soup.html)                            |
+|        [Coconut Shrimp](./1_Entrees/CoconutShrimp.md)        |                               [Sally's Baking](https://sallysbakingaddiction.com/easy-coconut-shrimp/)                               |
 
 ### Sides<a name="sides"></a>
 
@@ -86,6 +86,7 @@ Each recipe is a markdown file with three sections:
 |    [Blueberry Muffins](./3_Desserts/BlueberryMuffins.md)     |                             [Cookie and Kate](https://cookieandkate.com/healthy-blueberry-muffins/)                             |
 |   [Cherry Cobbler Cake](./3_Desserts/CherryCobblerCake.md)   |                 [The Baking Chocolatess](https://www.thebakingchocolatess.com/sour-cherry-cobbler-coffee-cake/)                 |
 |     [Nutella brownies](./3_Desserts/NutellaBrownies.md)      |                         [Sally's Baking Addiction](https://sallysbakingaddiction.com/nutella-brownies/)                         |
+|             [Oreo Pie](./3_Desserts/OreoPie.md)              |                              [Pies and Tacos](https://www.piesandtacos.com/cookies-and-cream-pie/)                              |
 | [Pumpk Oatmeal Cookies](./3_Desserts/PumpkOatmealCookies.md) | [Sally's Baking Addiction](https://sallysbakingaddiction.com/chewy-pumpkin-oatmeal-chocolate-chip-cookies/#tasty-recipes-67515) |
 |          [S’mores bars](./3_Desserts/SmoresBars.md)          |               [Averie Cooks](https://www.averiecooks.com/soft-and-gooey-loaded-smores-bars/#mv-creation-778-jtr)                |
 

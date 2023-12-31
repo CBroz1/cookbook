@@ -7,11 +7,21 @@ run_units=false
 declare -A replacements=(
   [" cup"]="c"
   [" tablespoon"]="tbsp"
+  [" Tablespoon"]="tbsp"
   [" teaspoon"]="tsp"
+  [" Teaspoon"]="tsp"
   [" ounce"]="oz"
   [" minute"]="min"
   [" pounds"]="lbs"
+  [" pound"]="lb"
   [" cloves of garlic"]=" garlic"
+  [" cloves garlic"]=" garlic"
+  [" ground black pepper"]=" pepper"
+  [" ground pepper"]=" pepper"
+  [" black pepper"]=" pepper"
+  [" pepper"]=" pepper"
+  [" red pepper flakes"]=" red pepper"
+
 )
 
 declare -A fractions=(
@@ -28,6 +38,7 @@ declare -A fractions=(
   ["1/2"]="0.5"   # Add multi-character fractions here
   ["1/3"]="0.3333"
   ["1/4"]="0.25"
+  ["3/4"]="0.75"
   ["1/8"]="0.125"
 )
 

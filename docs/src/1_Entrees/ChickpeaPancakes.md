@@ -1,4 +1,4 @@
-# Title
+# Chickpea Pancakes
 
 ## Shopping
 
@@ -32,7 +32,7 @@
     - hot sauce
 1. Small bowl, whisk
     - chickpea flour (.5c)
-    - ½ cup plus 2 Tbsp. cold water
+    - .5c plus 2 Tbsp. cold water
     - let sit 10m-1h
 
 ## Cook
