@@ -1,3 +1,8 @@
+[data-md-color-scheme="slate"] {
+  --md-typeset-a-color: #BD93F9;
+  --md-brightness: 900;
+}
+
 .bs-sidenav {
   background-image: url("../img/NONE.png");
   background-repeat: repeat;
