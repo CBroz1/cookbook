@@ -70,6 +70,10 @@ Each recipe is a markdown file with three sections:
 |     [Zucchini Fritters](./1_Entrees/ZucchiniFritters.md)     |              [Serious Eats](https://www.seriouseats.com/kolokithokeftedes-greek-zucchini-fritters-with-tzatziki-recipe)              |
 |      [Potato Leak Soup](./1_Entrees/PotatoLeakSoup.md)       |                           [Once Upon a Chef](https://www.onceuponachef.com/recipes/potato-leek-soup.html)                            |
 |        [Coconut Shrimp](./1_Entrees/CoconutShrimp.md)        |                               [Sally's Baking](https://sallysbakingaddiction.com/easy-coconut-shrimp/)                               |
+| [Tomato Soup](./1_Entrees/TomatoSoup.md) | [Cookie and Kate](https://cookieandkate.com/classic-tomato-soup-recipe/) |
+| [Quiche](./1_Entrees/Quiche.md) | [Sally's Baking Addiction](https://sallysbakingaddiction.com/quiche-recipe/#tasty-recipes-70031) |
+| [Pot Roast](./1_Entrees/PotRoast.md) | [Cooking Classy](https://www.cookingclassy.com/slow-cooker-pot-roast/#jump-to-recipe) |
+| [Power Salad](./1_Entrees/PowerSalad.md) | [Cookie and Kate](https://cookieandkate.com/southwestern-kale-power-salad/) |
 
 ### Sides<a name="sides"></a>
 

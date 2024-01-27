@@ -49,12 +49,15 @@ nav:
       - Beet Salad:  1_Entrees/BeetSalad.md
       - Fall Rice Kale:  1_Entrees/FallRiceKale.md
       - Farro Goat Cheese Salad:  1_Entrees/FarroGoatCheese.md
+      - Power Salad: 1_Entrees/PowerSalad.md
       - Strawberry Spinach Salad:  1_Entrees/StrawberrySpinach.md
     - Soups:
       - Broccoli Cheddar Soup:  1_Entrees/BroccoliCheddarSoup.md
       - Caulifower Soup:  1_Entrees/CauliflowerSoup.md
       - Corn Chowder:  1_Entrees/CornChowder.md
       - Lentil Soup:  1_Entrees/LentilSoup.md
+      - Potato Leak Soup: 1_Entrees/PotatoLeakSoup.md
+      - Tomato Soup: 1_Entrees/TomatoSoup.md
       - Vegetarian Chili:  1_Entrees/VegetarianChili.md
     - East Asia:
       - Coconut Kale Fried Rice:  1_Entrees/CoconutKaleRice.md
@@ -82,7 +85,8 @@ nav:
       - Jerk Chicken Rice:  1_Entrees/JerkChickenRice.md
       - Mac & Cheese:  1_Entrees/MacCheese.md
       - Pot Pie:  1_Entrees/PotPie.md
-      - Potato Leak Soup: 1_Entrees/PotatoLeakSoup.md
+      - Pot Roast: 1_Entrees/PotRoast.md
+      - Quiche: 1_Entrees/Quiche.md
       - Vegetarian Enchiladas:  1_Entrees/VegetarianEnchiladas.md
     - Italian:
       - Garlic Alfredo:  1_Entrees/GarlicAlfredo.md
