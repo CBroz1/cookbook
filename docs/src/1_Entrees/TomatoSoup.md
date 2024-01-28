@@ -47,7 +47,7 @@
 - Suggested Time: 55m
     - Prep: 15m
     - Cook: 40m
-- Servings: X
+- Servings: 4
 
 ## Citation
 

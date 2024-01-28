@@ -1,7 +1,7 @@
 #!/bin/bash
 
 run_replace=true
-run_fracts=true
+run_fracts=false
 run_units=false
 
 declare -A replacements=(
@@ -21,7 +21,6 @@ declare -A replacements=(
   [" black pepper"]=" pepper"
   [" pepper"]=" pepper"
   [" red pepper flakes"]=" red pepper"
-
 )
 
 declare -A fractions=(
