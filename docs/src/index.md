@@ -33,7 +33,6 @@ Each recipe is a markdown file with three sections:
 |    [Black Bean Burgers](./1_Entrees/BlackBeanBurgers.md)     |                        [Sally's Baking Addiction](https://sallysbakingaddiction.com/best-black-bean-burgers/)                        |
 | [Broccoli Casserole](./1_Entrees/BroccoliQuinoaCassarole.md) |                            [Cookie and Kate](https://cookieandkate.com/better-broccoli-casserole-recipe/)                            |
 | [Broccoli Cheddar Soup](./1_Entrees/BroccoliCheddarSoup.md)  |              [Cookie and Kate](https://cookieandkate.com/broccoli-cheese-soup-recipe/#tasty-recipes-35739-jump-target)               |
-|             [Brussels](./1_Entrees/Brussels.md)              |                                                            Family Recipe                                                             |
 |      [Cauliflower Soup](./1_Entrees/CauliflowerSoup.md)      |                         [Cookie and Kate](https://cookieandkate.com/creamy-roasted-cauliflower-soup-recipe/)                         |
 |     [Chickpea Pancakes](./1_Entrees/ChickpeaPancakes.md)     |                      [Bon Appetit](https://www.bonappetit.com/recipe/chickpea-pancakes-with-greens-and-cheese)                       |
 |     [Coconut Curry Chicken](./1_Entrees/CoconutCurry.md)     |                   [HelloFresh](https://www.hellofresh.com/recipes/coconut-curry-chicken-5f0e135dc0902c28ff563aa3)                    |
@@ -81,6 +80,7 @@ Each recipe is a markdown file with three sections:
 | :--------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
 | [Baba Ganoush](./2_Sides/BabaGanoush.md) |     [Cookie and Kate](https://cookieandkate.com/epic-baba-ganoush-recipe/#tasty-recipes-26511-jump-target)     |
 | [Bitchin Sauce](./2_Sides/BitchinDip.md) |       [Blissful Basil](https://www.blissfulbasil.com/bitchin-sauce-copycat/#wprm-recipe-container-30640)       |
+|             [Brussels](./2_Sides/Brussels.md)              |                                                            Family Recipe                                                             |
 |   [Cornbread](./2_Sides/Cornbread.md)    | [Le Crème de Crumb](https://www.lecremedelacrumb.com/best-super-moist-cornbread/#wprm-recipe-container-27011) |
 
 ### Desserts<a name="desserts"></a>
