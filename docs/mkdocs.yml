@@ -126,6 +126,7 @@ plugins:
         - "*/navigation.md"
 
 markdown_extensions:
+  - admonition
   - attr_list
   - tables
   - toc:
