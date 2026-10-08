@@ -195,9 +195,9 @@ Caveats render as MkDocs callouts, via the `admonition` extension enabled in
 - `mdformat --wrap 80` runs in pre-commit and is the final authority on
     formatting. Where a norm here disagrees with what it emits, it wins - run it
     and keep its output.
-- Wrap at 80 characters. Two things exceed it and should be left alone: a
-    citation URL, and a callout body, which `mdformat` wraps to 80 before adding
-    its 4-space indent.
+- Wrap at 80 characters. Three things exceed it and are left alone: a citation
+    URL, a callout body (`mdformat` wraps it to 80, then adds the 4-space
+    indent), and a table row, which `mdformat` never splits.
 - Links appear only in Citation.
 - Blank line between a heading and its content. No trailing whitespace.
 
@@ -208,6 +208,7 @@ Caveats render as MkDocs callouts, via the `admonition` extension enabled in
 1. Every Shopping item appears in Prep or Cook, and vice versa.
 1. Every quantity in Prep and Cook matches Shopping.
 1. No fractions, no spaced units, no placeholder `X`.
-1. No line over 80 characters except a citation URL or a callout body.
+1. No line over 80 characters except a citation URL, a callout body, or a table
+    row.
 1. Spell-check the title and the ingredient names.
 1. `index.md` links to the file and names it the same way.
