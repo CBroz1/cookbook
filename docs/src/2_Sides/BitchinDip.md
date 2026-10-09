@@ -12,6 +12,10 @@
     - Grapeseed oil (.25c)
     - Nutritional yeast (.25c)
     - Liquid aminos (1tbsp)
+    - salt (1tsp)
+    - garlic powder (.5tsp)
+    - cumin (.5tsp)
+    - cayenne (dash)
 
 ## Prep
 
@@ -26,10 +30,10 @@
     - Lemon juice .25c + .5tbsp
     - Liquid aminos 1tbsp
 1. Spice mix
-    - Salt 1tsp
-    - Garlic powder .5tsp
-    - Cumin .5tsp
-    - Cayenne dash
+    - Salt (1tsp)
+    - Garlic powder (.5tsp)
+    - Cumin (.5tsp)
+    - Cayenne (dash)
 
 ## Cook
 

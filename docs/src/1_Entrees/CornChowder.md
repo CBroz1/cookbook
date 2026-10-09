@@ -11,8 +11,11 @@
     - celery ribs (2)
     - garlic (2)
     - lime (1)
+    - green onion
+    - cilantro (.25c)
 - Dairy
     - crème fraîche, sour cream, Greek yogurt (0.25c)
+    - cheddar
 - Middle
     - vegetable broth (32oz)
 - Staples
@@ -44,6 +47,7 @@
 1. Garnishes
     1. Cheddar, grate
     1. Green onion, chop
+    1. Cilantro (.25c), chop
 
 ## Cook
 

@@ -33,7 +33,7 @@
 
 1. Oven to 400
 1. Oven-safe skillet, med-high, melt butter (4tbsp)
-    1. Saute onion, celery, carrot, until translucent 3-5m
+    1. Saute onion, celery, carrot, garlic (3), until translucent 3-5m
     1. Sprinkle flour (0.25c), stir to coat, cook 1-2m
     1. Opt: deglaze with wine (.33c), scrape up
     1. Stir, reduce until most liquid gone

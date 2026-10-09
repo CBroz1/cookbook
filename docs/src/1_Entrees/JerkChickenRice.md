@@ -47,11 +47,11 @@
 1. Prep chicken
     1. Wash, pat dry, .5in slits
     1. Season with salt (1.5tsp), bouillon, jerk seasoning
-1. Oven-safe skillet, med-high heat, oil (2tbsp)
+1. Oven-safe skillet, med-high heat, canola oil (2tbsp)
     1. Chicken, skin side up, 3m
     1. Flip, 3m
     1. Remove chicken, wipe pan
-1. Same skillet, oil (2tbsp)
+1. Same skillet, canola oil (2tbsp)
     1. Onions, thyme, garlic, bay leaf, sauté 2-3m
     1. Add rice (2c), beans
     1. Add all remaining ingredients

@@ -45,7 +45,7 @@
 1. Preheat 400, middle rack
 1. Grease 9x13 pan, w/ tortillas nearby
 1. Chop red onion (1c)
-1. Chop same bowl: broc florets (1), red bell pepper (1)
+1. Chop same bowl: broccoli florets (1lb), red bell pepper (1)
 1. Small dry:
     - cumin (1tsp)
     - cinnamon (.25tsp)
@@ -66,7 +66,7 @@
     1. Season salt/pepper
 1. Large skillet on medium w/ olive oil (2tbsp)
     1. Cook onion 5-7m until translucent
-    1. Add broc/bell pepper, 3-5m until tender
+    1. Add broccoli/bell pepper, 3-5m until tender
     1. Reduce to medium-low, cover, stir 8-9m until brown edges
     1. Add cumin/cinnamon, cook 30s
     1. Add spinach by handful, stir until wilted

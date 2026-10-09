@@ -26,7 +26,7 @@
 1. Grate carrot (1)
 1. Slice green onion (1c), discard white
 1. Measure out spinach (3c)
-1. Large bowl with hot tap water, add noodles to soak
+1. Large bowl with hot tap water, add udon (14oz) to soak
 1. Mix sauce
     - garlic chili sauce (1.5tsp)
     - soy sauce (0.25c)
@@ -38,7 +38,7 @@
 
 ## Cook
 
-1. Oil in pan, medium-high heat
+1. Vegetable oil (1tbsp) in pan, medium-high heat
     1. Add carrots, cook 1m
     1. Add onions, cook 2m
     1. Add green onion, cook 30s

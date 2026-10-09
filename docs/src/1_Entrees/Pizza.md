@@ -1,5 +1,9 @@
 # Pizza
 
+!!! note
+    I use store-bought dough, so this is much faster than the source, which makes
+    its own.
+
 ## Shopping
 
 - Produce

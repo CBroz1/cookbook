@@ -53,14 +53,14 @@
 1. Preheat oven to 325
 1. Spread beans on sheet, bake 15m to dry
 1. For onion, garlic
-    1. Pan fry until softened, 5-6m.
+    1. Pan fry in olive oil (1tbsp) until softened, 5-6m.
     1. Blot dry
     1. Add to bowl
 1. Form the into 6 patties.
 1. Oven to 400
 1. Bake for 10m on each side.
 1. Add Cheese, continue bake
-1. Serve
+1. Serve on buns with pickles and cilantro (.25c)
 
 ## Notes
 

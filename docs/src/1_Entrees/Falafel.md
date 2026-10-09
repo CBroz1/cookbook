@@ -56,7 +56,7 @@
     - Parmesan
     - egg
     - spices
-1. Shape into 8 patties, pan fry 3-4m er side
+1. Shape into 8 patties, pan fry in olive oil (2tbsp) 3-4m per side
 1. Serve with yogurt, lemon, pita, tomato, cucumber.
 
 ## Notes
@@ -64,7 +64,7 @@
 - Suggested Time: 35m
     - Prep: 20m
     - Cook: 15m
-- Servings: 2
+- Servings: 4
 
 ## Citation
 

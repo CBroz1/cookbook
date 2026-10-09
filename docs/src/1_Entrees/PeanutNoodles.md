@@ -41,7 +41,7 @@
 ## Cook
 
 1. Prep noodles (8oz)
-1. Mix noodles, veg, and sauce
+1. Mix noodles, veg, edamame (1c), and sauce
 1. Garnish with peanuts, green onions, and lime wedges
 
 ## Notes

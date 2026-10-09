@@ -52,7 +52,7 @@
 
 ## Cook
 
-1. Large skillet, medium heat, oil (1-2tbsp) (2 batches)
+1. Large skillet, medium heat, peanut oil (1-2tbsp) (2 batches)
     1. Eggplant, brown (10m)
     1. Flip, brown (10m)
     1. Set aside

@@ -32,7 +32,7 @@
 1. Bowl aromatics
     1. Press 2 garlic
     1. Chop .75c green onion
-    1. Chop 1c veg (opt)
+    1. Chop 1c veg (opt), edamame (opt)
 1. Bowl sauce
     1. Soy sauce (2tsp)
     1. Sriracha (2tsp)
