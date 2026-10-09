@@ -1,4 +1,4 @@
-# Cown Chowder
+# Corn Chowder
 
 ## Shopping
 
@@ -29,7 +29,7 @@
     1. Corn. If fresh, shuck. If frozen, 6c
     1. Potatoes. Cut into.75” cubes (about 3c)
     1. Red onion (1), chop
-    1. Poblano pepper, chop, de-seed, de-rib
+    1. Poblano pepper, chop, deseed, de-rib
     1. Celery (2), chop
     1. Bell pepper (1), chop
     1. salt (0.5tsp)
@@ -48,7 +48,7 @@
 ## Cook
 
 !!! warning
-    Using greek yogurt or sour cream? Temper it with splashes of the hot soup before
+    Using Greek yogurt or sour cream? Temper it with splashes of the hot soup before
     mixing in, or it will curdle.
 
 1. Large pot, med-heat, add

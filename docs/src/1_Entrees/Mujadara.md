@@ -30,7 +30,7 @@
     - pepper
     - Water (5c)
 - Measure rice (1c)
-- Mearure lentils (1c)
+- Measure lentils (1c)
 - Slice onions (2)
 - Slice garnish
     - green onions (.5c)

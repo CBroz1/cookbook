@@ -49,7 +49,7 @@
     1. Greek yogurt (.75c)
     1. Sugar (1c)
     1. Lemon juice (2tbsp)
-1. Comgine dry, mix
+1. Combine dry, mix
     1. Flour (2c)
     1. Baking powder (2tsp)
     1. Salt (.25tsp)

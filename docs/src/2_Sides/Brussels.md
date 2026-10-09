@@ -7,7 +7,7 @@
 - Dairy
     - Parmesan
 - Middle
-    - Panchetta
+    - Pancetta
 - Staples (none)
 
 ## Prep

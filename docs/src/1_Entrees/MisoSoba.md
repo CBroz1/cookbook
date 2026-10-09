@@ -34,7 +34,7 @@
 
 ## Prep
 
-1. Mix miso tofu marinade - difficult to mix, use a wisk or blender
+1. Mix miso tofu marinade - difficult to mix, use a whisk or blender
     1. miso paste (2tbsp)
     1. red chili pepper (2)
     1. garlic (2), press

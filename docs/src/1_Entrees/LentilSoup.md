@@ -34,7 +34,7 @@
     1. dried thyme (0.5tsp)
 1. Kale (1c), derib
 1. Open tomatoes (28oz) and 'lightly' drain
-1. Lintils (1c), picked over and rinsed
+1. Lentils (1c), picked over and rinsed
 1. Juice lemon (1, 1.5tbsp)
 1. Measure water (2c)
 

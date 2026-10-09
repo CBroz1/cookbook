@@ -36,7 +36,7 @@
     1. Grate ginger (1tsp)
     1. Garlic (4), press
 1. Set aside dried chilis (5-10)
-1. Szchuan peppercorns (1tsp), toast (1-2m), crush
+1. Szechuan peppercorns (1tsp), toast (1-2m), crush
 1. Mix sauce, whisk
     1. Peppercorns (1tsp)
     1. Soy sauce (0.25c)

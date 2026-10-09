@@ -20,7 +20,7 @@
 - Juice lemon (2tbsp)
 - Chop parsley (2tbsp)
 - Preheat oven to 450F with rack in upper third
-- Halve eggplants, bruch with olive oil, cut side down on sheet
+- Halve eggplants, brush with olive oil, cut side down on sheet
 
 ## Cook
 

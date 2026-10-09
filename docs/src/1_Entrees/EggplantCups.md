@@ -5,7 +5,7 @@
 - Produce
     - eggplant (2)
     - fresh basil (.25c)
-    - fresh oragano (2tbsp)
+    - fresh oregano (2tbsp)
 - Dairy
     - eggs (2)
     - fresh ricotta (400g)
@@ -24,10 +24,10 @@ _Note_: Original recipe says to cut eggplant into 6 slices, we go thinner.
 1. Trim eggplant, slice thin
 1. Bowl
     1. Grated Parmesan (.33c)
-    1. Beatten eggs (2)
+    1. Beaten eggs (2)
     1. Fresh ricotta (400g)
     1. Chopped basil (.25c)
-    1. Chopped oragano (2tbsp)
+    1. Chopped oregano (2tbsp)
 1. Grate Mozzarella (1c)
 1. Set out
     - tomato pasta sauce (1c)

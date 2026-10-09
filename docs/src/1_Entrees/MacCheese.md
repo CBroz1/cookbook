@@ -22,7 +22,7 @@
 
 ## Prep
 
-1. Grate heddar (4c) + gruyere (2c)
+1. Grate cheddar (4c) + gruyere (2c)
 1. Combine topping
     1. panko (1.5c)
     1. parmesan (0.5c), grated

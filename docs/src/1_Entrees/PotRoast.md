@@ -23,7 +23,7 @@
 ## Prep
 
 1. Onion, thick slices
-1. Garlic, minced (5 clobes, 1.5tbsp)
+1. Garlic, minced (5 cloves, 1.5tbsp)
 1. Potatoes, left whole
 1. Carrots (1lb), peeled and cut, 1in
 1. Fresh thyme, minced (1tbsp)

@@ -43,7 +43,7 @@
 ## Cook
 
 1. Cook sweet potatoes.
-    1. Largke skillet, olive pver medium heat
+    1. Large skillet, olive oil over medium heat
     1. Add spices (cumin, smoked paprika, salt)
     1. Add sweet potatoes, toss to coat
     1. Once sizzling, add .25c water, cover

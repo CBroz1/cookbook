@@ -22,7 +22,7 @@
 
 1. Cook quinoa in rice cooker
     1. Rinse
-    1. Quina (.25c) + water (.5c) + salt (.125tsp)
+    1. Quinoa (.25c) + water (.5c) + salt (.125tsp)
 1. Mix dressing
     1. Olive oil (2tbsp)
     1. Lemon zest (.5tsp)

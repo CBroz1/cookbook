@@ -28,7 +28,7 @@
     1. Peanuts (0.25c), chopped
     1. Carrots (1c), shredded
     1. Cucumbers or cabbage (0.5c), thinly sliced
-1. Mix sauce, wisk together:
+1. Mix sauce, whisk together:
     1. Water (.5c)
     1. peanut butter (0.5c)
     1. water (0.5c)

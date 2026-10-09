@@ -26,7 +26,7 @@
     - cherry tomatoes
     - yellow squash + zucchini - quartered lengthwise, .5in slices
 1. Bowl:
-    - Chiffon basil (1-2tbsp)
+    - Chiffonade basil (1-2tbsp)
     - lemon juice (2tbsp)
     - goat cheese (1oz) crumbled
     - butter (2tbsp)
@@ -35,7 +35,7 @@
 ## Cook
 
 1. Veg:
-    1. Toss tomatoes, squash, and zucc w/olive oil, salt, and pepper.
+    1. Toss tomatoes, squash, and zucchini w/olive oil, salt, and pepper.
     1. Roast for 25m at 400°F.
 1. Pasta:
     1. Cook pasta until al dente. **Reserve 1c pasta water.**

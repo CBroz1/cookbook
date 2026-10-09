@@ -1,4 +1,4 @@
-# Potato Leak Soup
+# Potato Leek Soup
 
 ## Shopping
 
@@ -38,7 +38,7 @@
     - black pepper (.25tsp)
 1. Fish out thyme, bay leaves
 1. Blend until smooth
-1. Add heagy cream (1c), simmer, season salt/pepper
+1. Add heavy cream (1c), simmer, season salt/pepper
 
 ## Notes
 

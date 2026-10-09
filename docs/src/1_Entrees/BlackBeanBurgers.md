@@ -30,7 +30,7 @@
 ## Prep
 
 1. Drain and rinse black beans.
-1. Carmelize 1 onion
+1. Caramelize 1 onion
 1. Prep pan fry mushrooms
 1. Aromatics
     - Finely chop 1 onion

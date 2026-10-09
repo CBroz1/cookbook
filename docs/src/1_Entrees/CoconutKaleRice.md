@@ -28,14 +28,14 @@
 1. Cook/chill 2c brown rice
 1. Derib and chop kale
 1. Measure .75c coconut flakes
-1. Bowl: Wisk 2 eggs, dash salt
+1. Bowl: Whisk 2 eggs, dash salt
 1. Bowl aromatics
     1. Press 2 garlic
     1. Chop .75c green onion
     1. Chop 1c veg (opt)
 1. Bowl sauce
     1. Soy sauce (2tsp)
-    1. Sriacha (2tsp)
+    1. Sriracha (2tsp)
     1. Juice of .5 lime
 
 ## Cook
@@ -47,9 +47,9 @@
     - Eggs to bowl
     - Wipe pan
 1. Same pan - 1tbsp oil
-    - Add galic/green onion, optional veg
+    - Add garlic/green onion, optional veg
     - Cook until fragrant or veg tender, stir frequently, 30s+
-    - Add kale and dash salt, cook 1-2m unil tender
+    - Add kale and dash salt, cook 1-2m until tender
     - Transfer to bowl of eggs
 1. Same pan - 2tsp oil
     - Add coconut flakes, cook until lightly golden, 30s+

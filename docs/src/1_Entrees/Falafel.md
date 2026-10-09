@@ -31,7 +31,7 @@
 
 1. Cook .5c quinoa
 1. Chickpeas, drain and rinse
-1. De-seed jalapeno
+1. Deseed jalapeño
 1. In food processor
     - Jalapeno
     - 2 green onion

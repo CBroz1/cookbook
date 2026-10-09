@@ -31,7 +31,7 @@ Each recipe is a markdown file with three sections:
 | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
 |            [Beet Salad](./1_Entrees/BeetSalad.md)            |                               [Cookie and Kate](https://cookieandkate.com/roasted-beet-salad-recipe/)                                |
 |    [Black Bean Burgers](./1_Entrees/BlackBeanBurgers.md)     |                        [Sally's Baking Addiction](https://sallysbakingaddiction.com/best-black-bean-burgers/)                        |
-| [Broccoli Casserole](./1_Entrees/BroccoliQuinoaCassarole.md) |                            [Cookie and Kate](https://cookieandkate.com/better-broccoli-casserole-recipe/)                            |
+| [Broccoli Casserole](./1_Entrees/BroccoliQuinoaCasserole.md) |                            [Cookie and Kate](https://cookieandkate.com/better-broccoli-casserole-recipe/)                            |
 | [Broccoli Cheddar Soup](./1_Entrees/BroccoliCheddarSoup.md)  |              [Cookie and Kate](https://cookieandkate.com/broccoli-cheese-soup-recipe/#tasty-recipes-35739-jump-target)               |
 |      [Cauliflower Soup](./1_Entrees/CauliflowerSoup.md)      |                         [Cookie and Kate](https://cookieandkate.com/creamy-roasted-cauliflower-soup-recipe/)                         |
 |     [Chickpea Pancakes](./1_Entrees/ChickpeaPancakes.md)     |                      [Bon Appetit](https://www.bonappetit.com/recipe/chickpea-pancakes-with-greens-and-cheese)                       |
@@ -43,7 +43,7 @@ Each recipe is a markdown file with three sections:
 |         [Eggplant Cups](./1_Entrees/EggplantCups.md)         |                          [Taste](https://www.taste.com.au/recipes/individual-eggplant-parmigiana/gvwiks4a)                           |
 |       [Fall Rice & Kale](./1_Entrees/FallRiceKale.md)        |                       [Cookie and Kate](https://cookieandkate.com/butternut-squash-wild-rice-stuffing-recipe/)                       |
 |   [Farro Kale Goat Cheese](./1_Entrees/FarroGoatCheese.md)   |                          [Cookie and Kate](https://cookieandkate.com/farro-kale-goat-cheese-salad-recipe/)                           |
-|              [Felafel](./1_Entrees/Falafel.md)               |             [Woman's Day](https://www.womansday.com/food-recipes/a32676061/chickpea-spinach-and-quinoa-patties-recipe/)              |
+|              [Falafel](./1_Entrees/Falafel.md)               |             [Woman's Day](https://www.womansday.com/food-recipes/a32676061/chickpea-spinach-and-quinoa-patties-recipe/)              |
 |     [Garlic Alfredo Sauce](./1_Entrees/GarlicAlfredo.md)     |                                   [The Vegan 8](https://thevegan8.com/vegan-garlic-alfredo-sauce/)                                   |
 |     [Jerk Chicken Rice](./1_Entrees/JerkChickenRice.md)      |                          [African Bites](https://www.africanbites.com/one-pot-caribbean-jerk-chicken-rice/)                          |
 |               [Latkas](./1_Entrees/Latkas.md)                |                               [NYT](https://cooking.nytimes.com/recipes/1015533-classic-potato-latkes)                               |
@@ -67,7 +67,7 @@ Each recipe is a markdown file with three sections:
 |           [Vegan Sushi](./1_Entrees/VeganSushi.md)           | [Carrot](https://www.theedgyveg.com/2020/01/07/vegan-smoked-salmon/) & [Tuna](https://veganvvocals.com/2021/08/13/vegan-tuna-sushi/) |
 |      [Vegetarian Chili](./1_Entrees/VegetarianChili.md)      |                                [Cookie and Kate](https://cookieandkate.com/vegetarian-chili-recipe/)                                 |
 |     [Zucchini Fritters](./1_Entrees/ZucchiniFritters.md)     |                         [Serious Eats](https://www.seriouseats.com/greek-zucchini-fritters-recipe-11765525)                          |
-|      [Potato Leak Soup](./1_Entrees/PotatoLeakSoup.md)       |                           [Once Upon a Chef](https://www.onceuponachef.com/recipes/potato-leek-soup.html)                            |
+|      [Potato Leek Soup](./1_Entrees/PotatoLeekSoup.md)       |                           [Once Upon a Chef](https://www.onceuponachef.com/recipes/potato-leek-soup.html)                            |
 |        [Coconut Shrimp](./1_Entrees/CoconutShrimp.md)        |                               [Sally's Baking](https://sallysbakingaddiction.com/easy-coconut-shrimp/)                               |
 |           [Tomato Soup](./1_Entrees/TomatoSoup.md)           |                               [Cookie and Kate](https://cookieandkate.com/classic-tomato-soup-recipe/)                               |
 |               [Quiche](./1_Entrees/Quiche.md)                |                   [Sally's Baking Addiction](https://sallysbakingaddiction.com/quiche-recipe/#tasty-recipes-70031)                   |

@@ -9,7 +9,7 @@
 - Dairy
     - butter (4tbsp)
     - cream cheese (8oz)
-    - greek yogurt or sour cream (0.5c)
+    - Greek yogurt or sour cream (0.5c)
     - heavy cream (1.25c)
 - Middle
     - Package of Oreos

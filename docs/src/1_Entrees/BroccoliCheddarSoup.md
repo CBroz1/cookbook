@@ -27,7 +27,7 @@
     - sea salt (1.25tsp)
     - black pepper (10 twists)
 - Broc
-    - Slice off florettes, dice up
+    - Slice off florets, dice up
     - Chop off stalks, peel, cut 1in pieces
 - Measure 6c water + 1tsp salt
 - Potato (1): Cut 1in chunks

@@ -16,7 +16,7 @@
 - Dairy
     - feta (1.5c)
     - eggs (4)
-    - greek yogurt (2c)
+    - Greek yogurt (2c)
 - Middle (none)
 - Staples
     - kosher salt (1.5tsp)
