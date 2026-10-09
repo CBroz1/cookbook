@@ -5,7 +5,7 @@
 - Produce
     - yellow onions (2)
     - garlic (6)
-    - broccoli with stalks (2lbs, 3-4)
+    - broccoli with stalks (2lb, 3-4)
     - large russet potato (12oz, 1)
     - green onions (opt)
 - Dairy

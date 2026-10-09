@@ -3,7 +3,7 @@
 ## Shopping
 
 - Produce
-    - 1.5lbs beets (3-5, 1.5lbs)
+    - beets (3-5, 1.5lb)
     - arugula (5oz, 5c)
     - radishes (4, medium)
     - green onion (.33c)

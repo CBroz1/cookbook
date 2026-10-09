@@ -13,7 +13,7 @@
     - flour (0.33c)
     - salt (0.5tsp)
     - pepper (0.5tsp)
-    - Panko (3/4c)
+    - Panko (.75c)
     - oil (3–4tbsp)
     - Soy sauce (1tbsp)
     - Rice vinegar (1tbsp)
@@ -39,11 +39,11 @@ _NOTE:_ Start rice
     1. Batter shrimp: flour -> egg -> panko
     1. Oil in large skillet, med heat
     1. Fry batches 7-8
-    1. Fry each side 2.5-3min
+    1. Fry each side 2.5-3m
     1. Plate on paper towel
 1. Bok choy:
     1. Oil in large skillet, med heat
-    1. Add bok choy, cook 2min
+    1. Add bok choy, cook 2m
     1. Add soy sauce, rice vinegar (2m)
 
 ## Notes

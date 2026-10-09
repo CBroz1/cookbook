@@ -31,7 +31,7 @@
     - 2tbsp olive oil
 1. Open tempeh
     - drain liquid
-    - marinate in half of dressing 30 min
+    - marinate in half of dressing 30m
 1. Prep veg
     - peel and dice sweet potatoes
     - cut kale into small pieces
@@ -49,7 +49,7 @@
 1. Baking sheet:
     - Tempeh
     - Sweet potatoes, with oil and salt
-    - Roast 25–30 min
+    - Roast 25–30m
 1. Dressing bowl:
     - Kale into marination bowl
     - Add little more dressing and avocado

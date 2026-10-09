@@ -6,26 +6,26 @@
     - Onion (2)
     - Mushrooms
     - Garlic cloves (2)
-    - Cilantro (1/4 c)
+    - Cilantro (.25c)
 - Middle
-    - Black beans (30 oz)
+    - Black beans (30oz)
     - Hamburger buns
 - Dairy
     - Eggs (2)
     - Pepper jack cheese slices
 - Staples
     - Pickles
-    - Ketchup (2 tbsp)
-    - Worcestershire sauce (2 tsp)
-    - Hot sauce (1/2 tsp)
-    - BBQ sauce (2 tbsp)
-    - Salt (3/4 tsp)
-    - Black pepper (1/2 tsp)
-    - Cumin (1 tsp)
-    - Chili powder (1 tsp)
-    - Smoked paprika (1 tsp)
-    - Breadcrumbs (1/2 c)
-    - Olive oil (1 tbsp)
+    - Ketchup (2tbsp)
+    - Worcestershire sauce (2tsp)
+    - Hot sauce (.5tsp)
+    - BBQ sauce (2tbsp)
+    - Salt (.75tsp)
+    - Black pepper (.5tsp)
+    - Cumin (1tsp)
+    - Chili powder (1tsp)
+    - Smoked paprika (1tsp)
+    - Breadcrumbs (.5c)
+    - Olive oil (1tbsp)
 
 ## Prep
 
@@ -37,16 +37,16 @@
     - Press 2 garlic cloves
 1. Bowl, mix
     - 2 eggs
-    - 2 tbsp ketchup
-    - 2 tsp Worcestershire sauce
-    - 1/2 tsp hot sauce
-    - 2 tbsp BBQ sauce
-    - 3/4 tsp salt
-    - 1/2 tsp black pepper
-    - 1 tsp cumin
-    - 1 tsp chili powder
-    - 1 tsp smoked paprika
-    - 1/2 c breadcrumbs
+    - 2tbsp ketchup
+    - 2tsp Worcestershire sauce
+    - .5tsp hot sauce
+    - 2tbsp BBQ sauce
+    - .75tsp salt
+    - .5tsp black pepper
+    - 1tsp cumin
+    - 1tsp chili powder
+    - 1tsp smoked paprika
+    - .5c breadcrumbs
 
 ## Instructions
 
@@ -58,7 +58,7 @@
     1. Add to bowl
 1. Form the into 6 patties.
 1. Oven to 400
-1. Bake for 10 minutes on each side.
+1. Bake for 10m on each side.
 1. Add Cheese, continue bake
 1. Serve
 

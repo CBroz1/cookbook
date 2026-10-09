@@ -7,11 +7,11 @@
     - Garlic (4)
 - Dairy
 - Middle
-    - nuts (1 c)
+    - nuts (1c)
 - Staples
-    - Grapeseed oil (.25 c)
-    - Nutritional yeast (.25 c)
-    - Liquid aminos (1 tbsp)
+    - Grapeseed oil (.25c)
+    - Nutritional yeast (.25c)
+    - Liquid aminos (1tbsp)
 
 ## Prep
 
@@ -22,12 +22,12 @@ NOTE: Pre-soak nuts >2h
 1. Measure
     - Grapeseed Oil .25c
     - Nutritional yeast .25c
-    - Lemon juice .25c + .5 tbsp
+    - Lemon juice .25c + .5tbsp
     - Liquid aminos 1tbsp
 1. Spice mix
-    - Salt 1 tsp
-    - Garlic powder .5 tsp
-    - Cumin .5 tsp
+    - Salt 1tsp
+    - Garlic powder .5tsp
+    - Cumin .5tsp
     - Cayenne dash
 
 ## Cook

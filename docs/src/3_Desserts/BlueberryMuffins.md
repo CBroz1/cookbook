@@ -3,21 +3,21 @@
 ## Shopping
 
 - Produce
-    - Blueberries (1 c)
+    - Blueberries (1c)
 - Dairy
-    - Plain Yog (1 c)
+    - Plain Yog (1c)
     - Eggs (2)
 - Middle
 - Staples
-    - Flour (1.8 c)
-    - Baking powder (1 tsp)
-    - Baking soda (.5 tsp)
-    - Salt (.5 tsp)
-    - Cinnamon (.25 tsp, opt)
-    - Oil (.3 c)
-    - Honey or maple syrup (.5 c)
-    - Vanilla extract (2 tsp)
-    - Sugar (1 tbsp)
+    - Flour (1.8c)
+    - Baking powder (1tsp)
+    - Baking soda (.5tsp)
+    - Salt (.5tsp)
+    - Cinnamon (.25tsp, opt)
+    - Oil (.3c)
+    - Honey or maple syrup (.5c)
+    - Vanilla extract (2tsp)
+    - Sugar (1tbsp)
     - Butter
 
 ## Prep
@@ -27,20 +27,20 @@ NOTE: Let eggs to room temp
 1. Grease muffin tin w/butter
 1. Beat 2 eggs
 1. Dry 1:
-    - Flour 1.75 c
-    - Baking powder (1 tsp)
-    - Baking soda (.5 tsp)
-    - Salt (.5 tsp)
-    - Cinnamon (.25 tsp, opt)
+    - Flour 1.75c
+    - Baking powder (1tsp)
+    - Baking soda (.5tsp)
+    - Salt (.5tsp)
+    - Cinnamon (.25tsp, opt)
 1. Dry 2:
     - Blueberries
-    - 1 tsp flour
+    - 1tsp flour
 1. Wet 1:
-    - Oil (.3 c)
-    - Honey or maple syrup (.5 c)
+    - Oil (.3c)
+    - Honey or maple syrup (.5c)
 1. Wet 2:
-    - Plain Yog (1 c)
-    - Vanilla extract (2 tsp)
+    - Plain Yog (1c)
+    - Vanilla extract (2tsp)
 
 ## Cook
 

@@ -11,17 +11,17 @@
     - Green onion (2)
 - Dairy
     - Eggs (1)
-    - Parmesan (0.25 c)
-    - Plain yogurt (1 c)
+    - Parmesan (0.25c)
+    - Plain yogurt (1c)
 - Middle
-    - quinoa (0.5 c)
-    - chickpeas (15 oz)
+    - quinoa (0.5c)
+    - chickpeas (15oz)
     - pita
 - Staples
-    - ground cumin (0.5 tsp)
-    - paprika (0.5 tsp)
+    - ground cumin (0.5tsp)
+    - paprika (0.5tsp)
     - salt and pepper
-    - olive oil (2 tbsp)
+    - olive oil (2tbsp)
 
 ## Prep
 
@@ -41,8 +41,8 @@ NOTE: Quinoa takes time
 1. Grate .25c parm
 1. 1 egg
 1. Spice mix
-    - ground cumin (0.5 tsp)
-    - paprika (0.5 tsp)
+    - ground cumin (0.5tsp)
+    - paprika (0.5tsp)
     - dash salt and pepper
 
 ## Instructions

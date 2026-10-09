@@ -39,8 +39,8 @@ _Note_: Original recipe says to cut eggplant into 6 slices, we go thinner.
 1. Oven to 410
 1. Eggplant
     1. Spray both sides with oil
-    1. Fry in batches (3-4min each side)
-    1. Set aside to cool (5min)
+    1. Fry in batches (3-4m each side)
+    1. Set aside to cool (5m)
 1. Muffin pan
     1. Cut each eggplant slice in half
     1. Line pan with slices

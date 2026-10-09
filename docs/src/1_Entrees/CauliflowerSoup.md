@@ -3,7 +3,7 @@
 ## Shopping
 
 - Produce
-    - cauliflower (1, 2lbs)
+    - cauliflower (1, 2lb)
     - red onion (1)
     - garlic (2)
     - lemon juice (1tbsp)
@@ -19,7 +19,7 @@
 
 ## Prep
 
-1. Cauli (2lbs) into bite-size florets - to lined baking sheet
+1. Cauli (2lb) into bite-size florets - to lined baking sheet
 1. Chop red onion (1)
 1. Press garlic (2)
 1. Chop garnish green (2tbsp, opt)

@@ -55,8 +55,8 @@
     1. Salt (.25tsp)
 1. Fold in cherries (2c), don't overmix
 1. Transfer to baking pan, sprinkle topping
-1. Bake 44-55min
-1. Cool 10min, drizzle glaze
+1. Bake 44-55m
+1. Cool 10m, drizzle glaze
 
 ## Notes
 

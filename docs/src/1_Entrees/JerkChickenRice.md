@@ -9,7 +9,7 @@
     - Onion (.5)
 - Dairy
 - Middle
-    - Chicken thighs (5-6) (2-3lbs)
+    - Chicken thighs (5-6) (2-3lb)
     - Chicken broth (2+c, opt)
     - Coconut milk (13.5oz)
     - Rice, long grain (2c)
@@ -48,17 +48,17 @@
     1. Wash, pat dry, .5in slits
     1. Season with salt (1.5tsp), bouillon, jerk seasoning
 1. Oven-safe skillet, med-high heat, oil (2tbsp)
-    1. Chicken, skin side up, 3min
-    1. Flip, 3min
+    1. Chicken, skin side up, 3m
+    1. Flip, 3m
     1. Remove chicken, wipe pan
 1. Same skillet, oil (2tbsp)
-    1. Onions, thyme, garlic, bay leaf, sauté 2-3min
+    1. Onions, thyme, garlic, bay leaf, sauté 2-3m
     1. Add rice (2c), beans
     1. Add all remaining ingredients
         - Chicken stock (2c) or water
         - Coconut milk (13.5oz)
         - Spice mix B: paprika, white pepper, jerk seasoning, salt, bouillon
-1. Pan to oven, 30-35min, uncovered
+1. Pan to oven, 30-35m, uncovered
 1. Garnish with green onions
 
 ## Notes

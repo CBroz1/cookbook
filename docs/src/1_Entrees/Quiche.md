@@ -23,10 +23,10 @@
     - Preheat oven to 375°F.
     - Grease a 9-inch pie dish.
     - Optionally add pie weights or dried beans.
-    - Bake until edges starting to brown, about 15-16min.
+    - Bake until edges starting to brown, about 15-16m.
     - Remove weights.
     - Prick holes all around the bottom crust with a fork.
-    - Return to oven 7-8min.
+    - Return to oven 7-8m.
 1. Reduce oven temperature to 350°F.
 1. Mix filling with electric whisk.
     - eggs (4)
@@ -36,7 +36,7 @@
     - Other mixins (2c, opt)
     - salt/pepper (.25tsp)
 1. Pour filling into cooled crust.
-1. Bake until center is just about set, about 45-55min. Cool 15min.
+1. Bake until center is just about set, about 45-55m. Cool 15m.
 
 ## Notes
 
@@ -47,4 +47,5 @@
 
 ## Citation
 
-Inspired by [Sally's Baking Addiction](https://sallysbakingaddiction.com/quiche-recipe/#tasty-recipes-70031)
+Inspired by
+[Sally's Baking Addiction](https://sallysbakingaddiction.com/quiche-recipe/#tasty-recipes-70031)

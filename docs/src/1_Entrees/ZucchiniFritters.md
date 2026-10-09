@@ -1,8 +1,8 @@
 # Kolokithokeftedes (Zucchini Fritters)
 
 !!! note
-    Source buys the tzatziki. Easy enough to make with yogurt, cucumber, garlic
-    and lemon.
+    Source buys the tzatziki. Easy enough to make with yogurt, cucumber, garlic and
+    lemon.
 
 ## Shopping
 

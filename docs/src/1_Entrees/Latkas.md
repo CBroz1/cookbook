@@ -42,7 +42,7 @@
 1. Skillet
     1. Heat oil, .25in
     1. Add batter, flatten
-    1. Cook until browned, 5min each side
+    1. Cook until browned, 5m each side
     1. Sprinkle with salt
 
 ## Notes

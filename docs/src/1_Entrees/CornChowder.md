@@ -4,7 +4,7 @@
 
 - Produce
     - sweet corn (8ears, 6c frozen)
-    - red potatoes (1lbs)
+    - red potatoes (1lb)
     - red onion (1)
     - poblano pepper (1, opt)
     - red bell pepper (1)
@@ -53,10 +53,10 @@ mixing in.
 1. Large pot, med-heat, add
     1. Olive oil (1tbsp)
     1. Bowl A: corn, potatoes, etc.
-1. Stir, cook until onions are tender, 7-10min
-1. Add garlic, cook until fragrant, 30s-1min
+1. Stir, cook until onions are tender, 7-10m
+1. Add garlic, cook until fragrant, 30s-1m
 1. Add broth (32oz), water (2c), bay leaf (1)
-1. Bring to boil, reduce simmer, stir occasionally, 20-25min
+1. Bring to boil, reduce simmer, stir occasionally, 20-25m
 1. Check potatoes fork tender
 1. Remove bay leaf
 1. Blender

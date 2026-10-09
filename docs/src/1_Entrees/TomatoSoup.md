@@ -9,12 +9,12 @@
 - Middle
     - tomato paste (2tbsp)
     - whole tomatoes (28oz)
-    - vegetable broth (2cs)
+    - vegetable broth (2c)
     - cannellini beans (.5c)
 - Staples
-    - olive oil (2tbsps)
+    - olive oil (2tbsp)
     - fine sea salt (.5tsp)
-    - unsalted butter (2tbsps)
+    - unsalted butter (2tbsp)
     - brown sugar (1tsp)
     - pepper
 
@@ -35,7 +35,7 @@
 1. Let cool few min.
 1. Transfer to blender. Add...
     - cannellini beans (.5c)
-    - unsalted butter (2tbsps)
+    - unsalted butter (2tbsp)
     - brown sugar (1tsp)
     - pepper
     - basil (opt)
@@ -51,4 +51,5 @@
 
 ## Citation
 
-Inspired by [Cookie and Kate](https://cookieandkate.com/classic-tomato-soup-recipe/)
+Inspired by
+[Cookie and Kate](https://cookieandkate.com/classic-tomato-soup-recipe/)

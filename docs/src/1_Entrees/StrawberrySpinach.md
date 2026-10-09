@@ -38,7 +38,7 @@
 
 1. Toast almonds (2tbsp)
     1. Pan to medium heat
-    1. Stir often, ~5min
+    1. Stir often, ~5m
 1. Combine
     1. Spinach (2.5c)
     1. Strawberries

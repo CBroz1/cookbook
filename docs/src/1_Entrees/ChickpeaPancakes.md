@@ -45,7 +45,7 @@ _NOTE:_ Always spray pan first
     1. Add kale (3m)
     1. Add hot sauce (2tsp), salt, toss
     1. Transfer to medium bowl, wipe out skillet
-1. Skillet, medium-high, 1 tsp. olive oil
+1. Skillet, medium-high, 1tsp. olive oil
     1. Add batter (.25c), swirl to form thin 6" pancake (2m)
     1. Cook until well browned, crispy edges (2m)
     1. Flip, cook until lightly browned (1m)

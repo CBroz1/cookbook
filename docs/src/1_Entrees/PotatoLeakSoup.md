@@ -4,7 +4,7 @@
 
 - Produce
     - leeks large (4)
-    - Yukon Gold potatoes (2lbs)
+    - Yukon Gold potatoes (2lb)
     - garlic (3)
     - fresh thyme (3)
     - Green onion (opt)
@@ -21,7 +21,7 @@
 ## Prep
 
 1. Chop green onion (opt)
-1. Peel and chop potatoes (2lbs), .5in pieces
+1. Peel and chop potatoes (2lb), .5in pieces
 1. Chop leeks (4), only whites/light green
 1. Press garlic (3)
 

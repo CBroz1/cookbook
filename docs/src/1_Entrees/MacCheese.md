@@ -34,7 +34,7 @@
 
 1. Oven to 350
 1. Cook pasta
-    1. 1min shy of al dente
+    1. 1m shy of al dente
     1. Coat olive oil to prevent sticking
 1. Make roux in pot, med heat
     1. Melt butter (6tbsp) in saucepan

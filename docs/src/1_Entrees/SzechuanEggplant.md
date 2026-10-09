@@ -6,7 +6,7 @@ green beans.
 ## Shopping
 
 - Produce
-    - Japanese Eggplant (1.5lbs)
+    - Japanese Eggplant (1.5lb)
     - garlic (4)
     - ginger (2tsp)
 - Dairy

@@ -6,22 +6,22 @@
     - Broccoli (2 heads)
     - Yellow onion (1)
     - Garlic (2)
-    - Fresh thyme (1 tbsp)
+    - Fresh thyme (1tbsp)
 - Dairy
-    - Unsalted butter (6 tbsp)
-    - Milk (1.5 c)
-    - Cheddar cheese (8 oz)
+    - Unsalted butter (6tbsp)
+    - Milk (1.5c)
+    - Cheddar cheese (8oz)
 - Middle
     - Sun dried tomatoes (opt)
     - Seitan bacon (opt)
     - Quinoa (1.5c)
-    - Broth (3 c)
+    - Broth (3c)
 - Staples
-    - All-purpose flour (.25 c)
-    - Panko breadcrumbs (1 c)
-    - Nutmeg (.25 tsp)
-    - Red pepper flakes (.25 tsp)
-    - Olive oil (2 tbsp)
+    - All-purpose flour (.25c)
+    - Panko breadcrumbs (1c)
+    - Nutmeg (.25tsp)
+    - Red pepper flakes (.25tsp)
+    - Olive oil (2tbsp)
     - Salt and pepper
 
 ## Prep
@@ -29,40 +29,40 @@
 __NOTE__: Start quinoa before prep. Start onions next. 2 person job.
 
 1. Quinoa
-    - Rinse 1.5 c quinoa
+    - Rinse 1.5c quinoa
     - Add 3c broth or water
     - Rice cooker, quick setting
 1. Onion (1)
     - Slice thin
-    - Medium heat, 2 tbsp butter or olive oil
+    - Medium heat, 2tbsp butter or olive oil
     - Stir every 3m at first, then more often once edges start browning
     - Cook until deeply caramelized and starting to crisp at edges (20-30m)
 1. Broccoli
     - Bite-sized florets
-    - Olive oil (2 tbsp)
+    - Olive oil (2tbsp)
     - Salt
     - Single layer
-1. Panko (1 c)
-    - butter (1 tbsp)
+1. Panko (1c)
+    - butter (1tbsp)
     - garlic (1), press
 1. Fixins
     - Sun dried tomatoes (opt)
     - Seitan bacon (opt)
     - Onion (1), caramelized
-1. Grate cheese (8 oz, 2.5 c)
+1. Grate cheese (8oz, 2.5c)
 
 ## Instructions
 
 1. Oven 400°F.
 1. Roast broccoli 20m
 1. Breadcrumbs (1c panko) medium heat, 2-3m
-    - Butter (1 tbsp), garlic (1)
+    - Butter (1tbsp), garlic (1)
     - Toss until browned and crisp
 1. Add to quinoa
     - Caramelized onion (1)
     - Sun dried tomatoes (opt)
     - Seitan bacon (opt)
-    - Salt, pepper, red pepper flakes (.25 tbsp)
+    - Salt, pepper, red pepper flakes (.25tbsp)
     - All except .75c cheese
 1. In 9x9 baking dish
     - Cheesy quinoa
@@ -71,9 +71,9 @@ __NOTE__: Start quinoa before prep. Start onions next. 2 person job.
 
 ## Notes
 
-- Suggested Time: 60min
-    - Prep: 15min
-    - Cook: 45min
+- Suggested Time: 60m
+    - Prep: 15m
+    - Cook: 45m
 - Servings: 6
 
 ## Citation

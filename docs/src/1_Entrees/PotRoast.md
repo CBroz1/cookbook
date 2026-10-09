@@ -5,7 +5,7 @@
 - Produce
     - yellow onion (1)
     - garlic (5)
-    - yukon gold potatoes (2.5lbs)
+    - yukon gold potatoes (2.5lb)
     - carrots (1lb)
     - fresh thyme (1tbsp)
     - fresh rosemary (1tbsp)
@@ -23,7 +23,7 @@
 ## Prep
 
 1. Onion, thick slices
-1. Garlic, minced (5 clobes, 1.5 tbsp)
+1. Garlic, minced (5 clobes, 1.5tbsp)
 1. Potatoes, left whole
 1. Carrots (1lb), peeled and cut, 1in
 1. Fresh thyme, minced (1tbsp)
@@ -34,12 +34,12 @@
 
 1. Sear
     1. Large pot, med-high heat, 1tbsp oil
-    1. Sear roast. Dry, salt/pepper, 4-5min/side
+    1. Sear roast. Dry, salt/pepper, 4-5m/side
     1. Transfer roast to slow cooker
 1. Saute
     1. Return pot to heat, .5tbsp oil
-    1. Saute onion, 2min
-    1. Add garlic, saute 30sec
+    1. Saute onion, 2m
+    1. Add garlic, saute 30s
     1. Pour onion mixture over roast in slow cooker
 1. Broth
     1. Return pot to heat
@@ -48,7 +48,7 @@
         - Worcestershire (2tsp)
         - Thyme (1tbsp)
         - Rosemary (1tbsp)
-    1. Cook 15sec
+    1. Cook 15s
     1. Scrape fond.
 1. Vegetables
     1. Layer potatoes and carrots over onion layer in slow cooker
@@ -63,7 +63,7 @@
     1. Strain broth into saucepan.
     1. Heat over med-high heat.
     1. Whisk cornstarch with 3tbsp beef broth, pour into saucepan.
-    1. Bring to simmer, stirring constantly, 30-60sec.
+    1. Bring to simmer, stirring constantly, 30-60s.
 1. Plate with gravy, parsley.
 
 ## Notes
@@ -75,4 +75,5 @@
 
 ## Citation
 
-Inspired by [Cooking Classy](https://www.cookingclassy.com/slow-cooker-pot-roast/#jump-to-recipe)
+Inspired by
+[Cooking Classy](https://www.cookingclassy.com/slow-cooker-pot-roast/#jump-to-recipe)

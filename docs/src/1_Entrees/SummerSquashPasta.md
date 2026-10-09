@@ -3,19 +3,19 @@
 ## Ingredients
 
 - Produce:
-    - cherry tomatoes (2 c)
+    - cherry tomatoes (2c)
     - yellow squash (2 medium)
     - zucchini (1 medium)
-    - fresh basil (1-2 tbsp)
+    - fresh basil (1-2tbsp)
     - lemon (1)
     - garlic (1)
 - Dairy:
-    - butter (2 tbsp)
-    - goat cheese (1 oz)
+    - butter (2tbsp)
+    - goat cheese (1oz)
 - Middle:
-    - whole grain pasta (.5 lb)
+    - whole grain pasta (.5lb)
 - Staples:
-    - olive oil (2 tbsp)
+    - olive oil (2tbsp)
     - red pepper flakes
     - salt, pepper
 
@@ -26,10 +26,10 @@
     - cherry tomatoes
     - yellow squash + zucchini - quartered lengthwise, .5in slices
 1. Bowl:
-    - Chiffon basil (1-2 tbsp)
-    - lemon juice (2 tbsp)
-    - goat cheese (1 oz) crumbled
-    - butter (2 tbsp)
+    - Chiffon basil (1-2tbsp)
+    - lemon juice (2tbsp)
+    - goat cheese (1oz) crumbled
+    - butter (2tbsp)
     - red pepper flakes
 
 ## Instructions
