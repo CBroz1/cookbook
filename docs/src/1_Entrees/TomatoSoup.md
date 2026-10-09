@@ -5,7 +5,7 @@
 - Produce
     - yellow onion (1)
     - fresh basil (opt)
-- Dairy
+- Dairy (none)
 - Middle
     - tomato paste (2tbsp)
     - whole tomatoes (28oz)

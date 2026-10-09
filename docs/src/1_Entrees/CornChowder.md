@@ -47,8 +47,9 @@
 
 ## Cook
 
-__NOTE__: If greek yogurt or sour cream, temper by adding splashes of hot before
-mixing in.
+!!! warning
+    Using greek yogurt or sour cream? Temper it with splashes of the hot soup before
+    mixing in, or it will curdle.
 
 1. Large pot, med-heat, add
     1. Olive oil (1tbsp)
@@ -72,7 +73,7 @@ mixing in.
 - Suggested Time: 50m
     - Prep: 20m
     - Cook: 30m
-- Servings: X
+- Servings: 8
 
 ## Citation
 

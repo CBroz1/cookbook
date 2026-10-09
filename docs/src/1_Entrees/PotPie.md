@@ -23,7 +23,8 @@
 
 ## Prep
 
-__NOTE__: Thaw puff pastry. Fridge overnight, counter 30m
+!!! note
+    Thaw the puff pastry: fridge overnight, or counter 30m.
 
 1. chicken-style strips, chop
 1. Dice onion (1), celery (1c), carrots (1c)
@@ -52,8 +53,7 @@ __NOTE__: Thaw puff pastry. Fridge overnight, counter 30m
 - Suggested Time: 75m
     - Prep: 30m
     - Cook: 45m
-- Servings: X
-- Substitutions: X
+- Servings: 6
 
 ## Citation
 

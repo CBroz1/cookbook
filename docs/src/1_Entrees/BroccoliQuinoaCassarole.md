@@ -1,6 +1,6 @@
 # Broccoli Quinoa Casserole
 
-## Ingredients
+## Shopping
 
 - Produce
     - Broccoli (2 heads)
@@ -26,7 +26,8 @@
 
 ## Prep
 
-__NOTE__: Start quinoa before prep. Start onions next. 2 person job.
+!!! note
+    Start the quinoa before prep, onions next. A two person job.
 
 1. Quinoa
     - Rinse 1.5c quinoa
@@ -51,7 +52,7 @@ __NOTE__: Start quinoa before prep. Start onions next. 2 person job.
     - Onion (1), caramelized
 1. Grate cheese (8oz, 2.5c)
 
-## Instructions
+## Cook
 
 1. Oven 400°F.
 1. Roast broccoli 20m
@@ -78,5 +79,5 @@ __NOTE__: Start quinoa before prep. Start onions next. 2 person job.
 
 ## Citation
 
-This recipe was adapted from
+Inspired by:
 [Cookie and Kate](https://cookieandkate.com/better-broccoli-casserole-recipe/).

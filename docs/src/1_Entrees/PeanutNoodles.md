@@ -10,7 +10,7 @@
     - red bell pepper (1)
     - green onions (2)
     - garlic (2)
-- Dairy
+- Dairy (none)
 - Middle
     - rice noodles (8oz)
     - peanuts (0.25c)

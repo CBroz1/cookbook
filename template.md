@@ -75,8 +75,10 @@ kitchen. Every line should be scannable, unambiguous, and actionable.
     - `Staples` - already at home; check the pantry before shopping
 - Sorting test: would you buy it on this trip? If yes, `Middle`. If it is always
     stocked, `Staples`. Keep a given item in the same category across recipes.
-- Leave an empty category as a bare bullet. The four-line scan matters more than
-    brevity.
+- An empty category still gets its bullet; the four-line scan matters more than
+    brevity. Mark it `(none)` - `- Middle (none)` - so a reader can tell
+    "nothing to buy from this aisle" from "not filled in yet". The marker is
+    required on every empty category, and must not appear on a filled one.
 - Categories are list items, never headings, and carry no trailing colon.
 - One ingredient per line, name first, quantity in parentheses: `broth (32oz)`.
     Name first keeps the list scannable.

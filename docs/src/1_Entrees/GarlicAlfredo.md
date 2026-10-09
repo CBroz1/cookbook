@@ -7,7 +7,7 @@
     - white onion (1, 1.5c, 200g)
     - garlic (4, 15g)
     - lemon juice (1tbsp)
-- Dairy
+- Dairy (none)
 - Middle
     - vegetable broth (1.5c, 240-480g)
     - cashews, raw unsalted (.5c+, 75g)

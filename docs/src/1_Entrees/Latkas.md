@@ -7,7 +7,7 @@
     - Onion (1, 8oz)
 - Dairy
     - Eggs (2)
-- Middle
+- Middle (none)
 - Staples
     - Flour (.5)
     - salt (2tsp)

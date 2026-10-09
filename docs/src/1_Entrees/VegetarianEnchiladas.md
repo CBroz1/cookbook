@@ -1,33 +1,28 @@
 # Enchiladas
 
-## Ingredients
+## Shopping
 
-- Produce:
+- Produce
     - red onion (1c)
     - red bell pepper (1)
     - broccoli (1lb)
     - baby spinach (5oz)
-- Middle:
+- Dairy
+    - Monterey Jack cheese, shredded (1c)
+- Middle
     - tomato paste (2tbsp)
     - vegetable broth (2c)
     - black beans (15oz)
-    - 8 8" whole wheat tortillas
-- Dairy:
-    - Monterey Jack cheese, shredded (1c)
-- Staples:
-    - olive oil (3tbsp)
+    - whole wheat tortillas (8, 8in)
+- Staples
+    - olive oil (5tbsp)
     - flour (3tbsp)
     - ground chili powder (1tbsp)
-    - ground cumin (1tsp)
+    - ground cumin (2tsp)
     - garlic powder (0.5tsp)
     - dried oregano (0.25tsp)
+    - cinnamon (0.25tsp)
     - salt/pepper
-    - cinnamon, pinch (optional)
-- Staples:
-    - olive oil (2tbsp)
-    - salt/pepper
-    - cumin (1tsp)
-    - cinnamon (.25tsp)
 
 ## Prep
 
@@ -60,7 +55,7 @@
     - Drained black beans
     - Cheese (.25c)
 
-## Instructions
+## Cook
 
 1. Sauce:
     1. Warm oil in a pot over medium heat.
@@ -87,21 +82,15 @@
 
 ## Notes
 
-- Sauce:
-    - Prep Time: 3m
-    - Cook Time: 7m
-    - Total Time: 10m
-    - Yield: 2c
-- Enchiladas:
-    - Prep Time: 15m
-    - Cook Time: 30m
-    - Total Time: 45m
-    - Yield: 4 servings
-- Total time: 60m
+- Suggested Time: 60m
+    - Prep: 15m
+    - Cook: 45m
+- Servings: 4
+- Yield: 2c sauce
 
 ## Citation
 
-This recipe was inspired by
+Inspired by:
 [Cookie and Kate's Enchilada Sauce](https://cookieandkate.com/enchilada-sauce-recipe/)
 and
 [Vegetarian Enchiladas](https://cookieandkate.com/vegetarian-enchiladas-recipe/).

@@ -22,7 +22,8 @@
 
 ## Prep
 
-_NOTE_: Rice takes time. Start it first.
+!!! note
+    Rice takes time. Start it first.
 
 1. Make rice (2c), rinsed
 1. Cut butternut squash (1, 2+lbs) into .75-inch cubes
@@ -67,7 +68,7 @@ _NOTE_: Rice takes time. Start it first.
 ## Notes
 
 - Suggested Time: 80m
-    - Prep: 30Xm
+    - Prep: 30m
     - Cook: 50m
 - Servings: 6-12
 

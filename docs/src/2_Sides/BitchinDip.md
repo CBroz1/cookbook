@@ -5,7 +5,7 @@
 - Produce
     - Lemon (1)
     - Garlic (4)
-- Dairy
+- Dairy (none)
 - Middle
     - nuts (1c)
 - Staples
@@ -15,7 +15,8 @@
 
 ## Prep
 
-NOTE: Pre-soak nuts >2h
+!!! note
+    Pre-soak the nuts, over 2h.
 
 1. Soak 1c nuts
 1. Peel 4 garlic

@@ -8,7 +8,7 @@
     - Parmesan
 - Middle
     - Panchetta
-- Staples
+- Staples (none)
 
 ## Prep
 

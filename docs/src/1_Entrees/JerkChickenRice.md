@@ -7,7 +7,7 @@
     - Garlic (2)
     - Green onion (1, opt)
     - Onion (.5)
-- Dairy
+- Dairy (none)
 - Middle
     - Chicken thighs (5-6) (2-3lb)
     - Chicken broth (2+c, opt)

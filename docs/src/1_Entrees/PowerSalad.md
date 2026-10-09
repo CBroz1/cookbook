@@ -62,7 +62,8 @@
 
 ## Notes
 
-- Suggested Time: 55m p - Prep: 20m
+- Suggested Time: 55m
+    - Prep: 20m
     - Cook: 35m
 - Servings: 4
 

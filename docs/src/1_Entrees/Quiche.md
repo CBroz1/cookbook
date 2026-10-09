@@ -2,7 +2,7 @@
 
 ## Shopping
 
-- Produce
+- Produce (none)
 - Dairy
     - eggs (4)
     - whole milk (.5c)
@@ -17,26 +17,36 @@
 
 ## Prep
 
+1. Thaw frozen pie crust
+1. Grease 9in pie dish
+1. Grate cheese (1c)
+1. Chop mixins (2c, opt): ham, mushrooms
+1. Set aside
+    - eggs (4)
+    - whole milk (.5c)
+    - heavy cream (.5c)
+    - salt/pepper (.25tsp)
+
 ## Cook
 
-1. Blind bake pie crust
-    - Preheat oven to 375°F.
-    - Grease a 9-inch pie dish.
-    - Optionally add pie weights or dried beans.
-    - Bake until edges starting to brown, about 15-16m.
-    - Remove weights.
-    - Prick holes all around the bottom crust with a fork.
-    - Return to oven 7-8m.
-1. Reduce oven temperature to 350°F.
-1. Mix filling with electric whisk.
+1. Oven to 375
+1. Blind bake crust
+    1. Add pie weights or dried beans
+    1. Bake until edges start to brown (15-16m)
+    1. Remove weights, prick bottom all over with a fork
+    1. Return to oven (7-8m)
+    1. Let cool
+1. Oven to 350
+1. Whisk filling
     - eggs (4)
     - whole milk (.5c)
     - heavy cream (.5c)
     - shredded cheese (1c)
-    - Other mixins (2c, opt)
+    - mixins (2c, opt)
     - salt/pepper (.25tsp)
-1. Pour filling into cooled crust.
-1. Bake until center is just about set, about 45-55m. Cool 15m.
+1. Pour filling into cooled crust
+1. Bake until center just set (45-55m)
+1. Cool (15m)
 
 ## Notes
 

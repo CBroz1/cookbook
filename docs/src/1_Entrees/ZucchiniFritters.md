@@ -17,7 +17,7 @@
     - feta (1.5c)
     - eggs (4)
     - greek yogurt (2c)
-- Middle
+- Middle (none)
 - Staples
     - kosher salt (1.5tsp)
     - nutmeg (.5tsp)

@@ -1,18 +1,18 @@
 # Black Bean Burgers
 
-## Ingredients
+## Shopping
 
 - Produce
     - Onion (2)
     - Mushrooms
     - Garlic cloves (2)
     - Cilantro (.25c)
-- Middle
-    - Black beans (30oz)
-    - Hamburger buns
 - Dairy
     - Eggs (2)
     - Pepper jack cheese slices
+- Middle
+    - Black beans (30oz)
+    - Hamburger buns
 - Staples
     - Pickles
     - Ketchup (2tbsp)
@@ -48,7 +48,7 @@
     - 1tsp smoked paprika
     - .5c breadcrumbs
 
-## Instructions
+## Cook
 
 1. Preheat oven to 325
 1. Spread beans on sheet, bake 15m to dry
@@ -71,5 +71,5 @@
 
 ## Citation
 
-Inspried by
+Inspired by:
 [Sally's Baking Addiction](https://sallysbakingaddiction.com/best-black-bean-burgers/).

@@ -22,7 +22,8 @@
 
 ## Prep
 
-_NOTE:_ Start rice
+!!! note
+    Start the rice first.
 
 1. Set up dredging
     - Flour (.33c), salt (.5tsp), pepper (.5tsp)

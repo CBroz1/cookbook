@@ -30,6 +30,7 @@
 ## Notes
 
 - Suggested Time: 10m
+- Servings: 10
 
 ## Citation
 

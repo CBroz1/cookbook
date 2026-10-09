@@ -8,7 +8,7 @@
     - garlic (4)
     - kale (1c)
     - lemon (1)
-- Dairy
+- Dairy (none)
 - Middle
     - vegetable broth (4c)
     - lentils, brown or green (1c)

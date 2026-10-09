@@ -5,8 +5,8 @@
 - Produce
     - lemon juice (2tbsp)
     - chopped parsley (2tbsp)
-- Dairy
-- Middle
+- Dairy (none)
+- Middle (none)
 - Staples
     - tahini (.25c)
     - olive oil (.33c)

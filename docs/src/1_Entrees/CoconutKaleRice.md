@@ -22,7 +22,8 @@
 
 ## Prep
 
-NOTE: Cook rice ahead of time
+!!! note
+    Cook the rice ahead of time.
 
 1. Cook/chill 2c brown rice
 1. Derib and chop kale

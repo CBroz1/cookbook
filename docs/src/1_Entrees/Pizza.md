@@ -13,7 +13,7 @@
     - pizza sauce (1c)
     - pizza dough
     - other pizza toppings
-- Staples
+- Staples (none)
 
 ## Prep
 

@@ -10,7 +10,7 @@
     - fresh thyme (1tbsp)
     - fresh rosemary (1tbsp)
     - fresh parsley (opt, 2tbsp)
-- Dairy
+- Dairy (none)
 - Middle
     - chuck roast (3lb)
     - beef broth (1.25c)

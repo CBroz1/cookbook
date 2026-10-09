@@ -6,7 +6,7 @@
     - onion, diced (0.25c)
     - garlic (1)
     - lime juice (1)
-- Dairy
+- Dairy (none)
 - Middle
     - raw shrimp (1.5lb)
     - roasted red pepper (0.25c)

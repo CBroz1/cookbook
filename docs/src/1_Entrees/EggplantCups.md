@@ -55,7 +55,6 @@ _Note_: Original recipe says to cut eggplant into 6 slices, we go thinner.
     - Prep: 35m
     - Cook: 45m
 - Servings: 6
-- Substitutions: X
 
 ## Citation
 

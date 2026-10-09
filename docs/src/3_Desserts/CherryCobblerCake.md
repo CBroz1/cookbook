@@ -10,7 +10,7 @@
     - alt milk (1.5tsp)
     - butter, unsalted (.5c)
     - eggs (2)
-- Middle
+- Middle (none)
 - Staples
     - baking powder (2tsp)
     - canola oil (0.75c)

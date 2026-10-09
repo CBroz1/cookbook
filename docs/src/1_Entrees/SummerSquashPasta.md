@@ -1,20 +1,20 @@
 # Summer Squash Pasta
 
-## Ingredients
+## Shopping
 
-- Produce:
+- Produce
     - cherry tomatoes (2c)
     - yellow squash (2 medium)
     - zucchini (1 medium)
     - fresh basil (1-2tbsp)
     - lemon (1)
     - garlic (1)
-- Dairy:
+- Dairy
     - butter (2tbsp)
     - goat cheese (1oz)
-- Middle:
+- Middle
     - whole grain pasta (.5lb)
-- Staples:
+- Staples
     - olive oil (2tbsp)
     - red pepper flakes
     - salt, pepper
@@ -32,7 +32,7 @@
     - butter (2tbsp)
     - red pepper flakes
 
-## Instructions
+## Cook
 
 1. Veg:
     1. Toss tomatoes, squash, and zucc w/olive oil, salt, and pepper.
@@ -50,11 +50,11 @@
 ## Notes
 
 - Suggested Time: 35m
-    - Prep Time: 10m
-    - Cook Time: 25m
+    - Prep: 10m
+    - Cook: 25m
 - Servings: 4
 
 ## Citation
 
-This recipe was inspired by
+Inspired by:
 [Cookie and Kate](https://cookieandkate.com/creamy-cherry-tomato-summer-squash-pasta/).

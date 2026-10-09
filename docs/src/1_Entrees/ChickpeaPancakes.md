@@ -37,7 +37,8 @@
 
 ## Cook
 
-_NOTE:_ Always spray pan first
+!!! warning
+    Always spray the pan first.
 
 1. Oven to 350°
 1. Skillet, medium-high, 2 Tbsp. olive oil
@@ -59,6 +60,10 @@ _NOTE:_ Always spray pan first
 
 ## Notes
 
+- Suggested Time: 45m
+    - Prep: 15m
+    - Cook: 20m
+    - Rest: 10m
 - Servings: 2
 
 ## Citation

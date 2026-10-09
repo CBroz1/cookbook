@@ -5,7 +5,7 @@
 - Produce
     - fresh parsley (4tsp)
     - lemon (opt)
-- Dairy
+- Dairy (none)
 - Middle
     - pecans (0.25c)
     - salmon filets (4)
@@ -35,7 +35,8 @@
 
 ## Cook
 
-__NOTE__: Recipe says 12-15m, but usually 17m.
+!!! note
+    Source says 12-15m; usually takes 17m.
 
 1. Oven 400
 1. Line high-rim sheet

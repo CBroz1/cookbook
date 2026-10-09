@@ -2,7 +2,7 @@
 
 ## Shopping
 
-- Produce
+- Produce (none)
 - Dairy
     - egg yolk (1)
 - Middle

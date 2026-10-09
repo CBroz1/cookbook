@@ -1,7 +1,7 @@
 # Vegan Sushi
 
-__NOTE:__ Salmon instructions indicate use as sushi. Original recipe is for lox
-replacement.
+!!! note
+    The salmon steps here are for sushi. The original is a lox replacement.
 
 ## Shopping
 
@@ -15,7 +15,7 @@ replacement.
     - lime (2)
     - mango (opt)
     - watermelon (1)
-- Dairy
+- Dairy (none)
 - Middle
     - beetroot powder (2tbsp)
     - caper brine (3tbsp)
@@ -125,7 +125,9 @@ replacement.
 
 ## Notes
 
-- Suggested Time: 3+ hours
+- Suggested Time: 3h
+    - Rest: overnight
+- Servings: 8-10
 
 ## Citation
 

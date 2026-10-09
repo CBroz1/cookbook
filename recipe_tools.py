@@ -605,20 +605,28 @@ def lint_recipe(path: Path) -> list[Finding]:
     # E003 Shopping categories
     sname = rec._shopping_name()
     seen: list[str] = []
+    # Track each category's line, its "(none)" marker and its item count,
+    # so an empty category without the marker can be told from a filled
+    # one that wrongly carries it.
+    cats: list[list] = []
     for lineno, ln in rec.section_lines(sname):
         m = re.match(r"^-\s+(\w+)(:)?\s*(\(none\))?\s*$", ln)
-        if not m:
-            continue
-        cat, colon, none = m.group(1), m.group(2), m.group(3)
-        if cat not in CATEGORIES:
-            continue
-        seen.append(cat)
-        if colon:
+        if m and m.group(1) in CATEGORIES:
+            cat, colon, marker = m.group(1), m.group(2), m.group(3)
+            seen.append(cat)
+            cats.append([lineno, cat, bool(marker), 0])
+            if colon:
+                add("error", lineno, "E003",
+                    f"category '{cat}' has a trailing colon")
+        elif cats and re.match(r"^\s{4}-\s+\S", ln):
+            cats[-1][3] += 1
+    for lineno, cat, marker, n in cats:
+        if n == 0 and not marker:
             add("error", lineno, "E003",
-                f"category '{cat}' has a trailing colon")
-        if none:
+                f"empty category '{cat}' needs the '(none)' marker")
+        elif n and marker:
             add("error", lineno, "E003",
-                f"category '{cat}' uses '(none)'; leave it bare")
+                f"category '{cat}' has items but is marked '(none)'")
     if seen != CATEGORIES:
         ln = rec.sections.get(sname, (0, 0))[0] + 1
         add("error", ln, "E003",
@@ -707,6 +715,19 @@ def lint_recipe(path: Path) -> list[Finding]:
             if required not in labels:
                 ln = rec.sections["Notes"][0] + 1
                 add("error", ln, "E011", f"Notes is missing '{required}'")
+        # E014: a time label whose value is not a duration. Catches a
+        # mangled line such as "Suggested Time: 55m p - Prep: 20m", which
+        # parses as a known label and would otherwise pass silently.
+        for lineno, ln in rec.section_lines("Notes"):
+            m = re.match(r"^\s*-\s+(Suggested Time|Prep|Cook|Rest)\s*:\s*(\S.*)$", ln)
+            if (
+                m
+                and _parse_minutes(m.group(2)) is None
+                # "overnight" is more honest than inventing a number.
+                and not re.fullmatch(r"overnight", m.group(2).strip(), re.I)
+            ):
+                add("error", lineno, "E014",
+                    f"{m.group(1)} value '{m.group(2)}' is not a duration")
         if not ({"Servings", "Yield"} & set(labels)):
             ln = rec.sections["Notes"][0] + 1
             add("error", ln, "E011", "Notes needs 'Servings' or 'Yield'")

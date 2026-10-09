@@ -9,8 +9,8 @@
     - green onion (0.25c)
     - ginger (1tsp)
     - lime (1)
-- Dairy
-- Middle
+- Dairy (none)
+- Middle (none)
 - Staples
     - quinoa (0.75c)
     - peanuts, roasted/salted (0.25c,opt)

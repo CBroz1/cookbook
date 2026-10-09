@@ -1,6 +1,6 @@
 # Coconut Curry
 
-## Ingredients
+## Shopping
 
 - Produce
     - Kale (8oz)
@@ -21,7 +21,7 @@
     - Sugar (4tsp)
     - Butter (2tbsp)
 
-## Preparation
+## Prep
 
 1. Cook 1c rice in a rice cooker.
 1. Kale: Wash, dry, derib.
@@ -37,7 +37,7 @@
     - Paprika (2tsp)
     - Chili Flakes (2tsp)
 
-## Instructions
+## Cook
 
 1. Large pan, med-high heat.
     1. Add kale and season with salt and pepper.

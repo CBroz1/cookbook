@@ -1,6 +1,7 @@
 # Miso Soba
 
-__NOTE__: Doubled from original recipe.
+!!! note
+    Doubled from the original recipe.
 
 ## Shopping
 
@@ -11,7 +12,7 @@ __NOTE__: Doubled from original recipe.
     - garlic (2)
     - lemon (2)
     - mint (10g)
-- Dairy
+- Dairy (none)
 - Middle
     - cashews (70g)
     - miso paste (2tbsp)

@@ -1,6 +1,6 @@
 # Falafel
 
-## Ingredients
+## Shopping
 
 - Produce
     - Garlic (2)
@@ -9,6 +9,7 @@
     - Tomato, roma
     - Jalapeno
     - Green onion (2)
+    - Spinach (2c)
 - Dairy
     - Eggs (1)
     - Parmesan (0.25c)
@@ -25,7 +26,8 @@
 
 ## Prep
 
-NOTE: Quinoa takes time
+!!! note
+    Quinoa takes time. Start it first.
 
 1. Cook .5c quinoa
 1. Chickpeas, drain and rinse
@@ -33,11 +35,9 @@ NOTE: Quinoa takes time
 1. In food processor
     - Jalapeno
     - 2 green onion
-
-- 2 garlic
-- Chickpeas
-- 2c spinach
-
+    - 2 garlic
+    - Chickpeas
+    - 2c spinach
 1. Grate .25c parm
 1. 1 egg
 1. Spice mix
@@ -45,7 +45,7 @@ NOTE: Quinoa takes time
     - paprika (0.5tsp)
     - dash salt and pepper
 
-## Instructions
+## Cook
 
 1. Food processor, pulse until fine chopped
     - 15oz chickpeas
@@ -68,5 +68,5 @@ NOTE: Quinoa takes time
 
 ## Citation
 
-Inspried by
+Inspired by:
 [Woman's Day](https://www.womansday.com/food-recipes/a32676061/chickpea-spinach-and-quinoa-patties-recipe/).

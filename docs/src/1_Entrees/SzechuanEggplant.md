@@ -1,7 +1,7 @@
 # Szechuan Eggplant
 
-__NOTE__: Recipe written with eggplant in mind, but works well with tofu and
-green beans.
+!!! note
+    Written for eggplant, but works well with tofu and green beans.
 
 ## Shopping
 
@@ -9,8 +9,8 @@ green beans.
     - Japanese Eggplant (1.5lb)
     - garlic (4)
     - ginger (2tsp)
-- Dairy
-- Middle
+- Dairy (none)
+- Middle (none)
 - Staples
     - salt (2tsp)
     - cornstarch (2tbsp)

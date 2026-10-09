@@ -7,7 +7,7 @@
 - Dairy
     - Plain Yog (1c)
     - Eggs (2)
-- Middle
+- Middle (none)
 - Staples
     - Flour (1.8c)
     - Baking powder (1tsp)
@@ -22,7 +22,8 @@
 
 ## Prep
 
-NOTE: Let eggs to room temp
+!!! note
+    Bring the eggs to room temperature.
 
 1. Grease muffin tin w/butter
 1. Beat 2 eggs

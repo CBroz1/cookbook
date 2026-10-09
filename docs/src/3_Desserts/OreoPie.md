@@ -1,22 +1,23 @@
 # Oreo Pie
 
-_NOTE:_ Calls for stand mixer and tart pan, but can be done without.
+!!! note
+    Calls for a stand mixer and tart pan, but works without them.
 
 ## Shopping
 
-- Produce
+- Produce (none)
+- Dairy
     - butter (4tbsp)
     - cream cheese (8oz)
     - greek yogurt or sour cream (0.5c)
     - heavy cream (1.25c)
-- Dairy
 - Middle
     - Package of Oreos
     - white chocolate (1c)
     - semi-sweet chocolate (3oz)
+- Staples
     - powdered sugar (0.5c)
     - vanilla extract (1.5tsp)
-- Staples
 
 ## Prep
 

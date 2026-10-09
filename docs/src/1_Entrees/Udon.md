@@ -9,7 +9,7 @@
     - baby spinach (3c)
     - garlic (2)
     - ginger (1tbsp)
-- Dairy
+- Dairy (none)
 - Middle
     - udon, vacuum-packed (14oz)
 - Staples

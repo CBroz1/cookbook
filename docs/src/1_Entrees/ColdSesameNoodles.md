@@ -9,7 +9,7 @@
     - cucumber (.5c)
     - bean sprouts (.5c)
     - garlic (2)
-- Dairy
+- Dairy (none)
 - Middle
     - noodles (8oz, 250g)
     - Toasted sesame seeds
@@ -48,7 +48,8 @@
 
 ## Cook
 
-_NOTE_: Reserve pasta water (3tbsp)
+!!! warning
+    Reserve pasta water (3tbsp).
 
 1. Noodles
     1. Cook the noodles al dente, reserve water (3tbsp)

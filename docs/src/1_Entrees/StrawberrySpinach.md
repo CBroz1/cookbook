@@ -53,7 +53,6 @@
     - Prep: 10m
     - Cook: 20m
 - Servings: 1
-- Substitutions: X
 
 ## Citation
 
