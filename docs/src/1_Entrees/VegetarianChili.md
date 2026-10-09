@@ -9,6 +9,7 @@
     - celery (2)
     - garlic (4)
     - sliced avocado (opt)
+    - fresh cilantro (2tbsp)
 - Dairy
     - sour cream (opt)
     - cheddar cheese (opt)
@@ -60,7 +61,7 @@
 1. Remove bay leaf
 1. Blend 1.5c
 1. Add red wine vinegar (1-2tsp), stir
-1. Garnish with cheese, avocado, tortilla
+1. Garnish with cilantro (2tbsp), cheese, sour cream, avocado, tortilla
 
 ## Notes
 

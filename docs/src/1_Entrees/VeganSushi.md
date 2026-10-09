@@ -117,7 +117,7 @@
     1. Lay (half) sheet nori, shiny side down
     1. Spread rice with wooden spoon
     1. Cover with 1cm layer, leave edge clear
-    1. Add toppings, roll
+    1. Add toppings - avocado (opt), mango (opt) - and roll
     1. To cut, wet knife
 1. Nigiri
     1. Take rice (3tbsp) and squeeze into a log

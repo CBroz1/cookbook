@@ -3,6 +3,8 @@
 ## Shopping
 
 - Produce
+    - eggplant (2, 2lb)
+    - garlic (2)
     - lemon juice (2tbsp)
     - chopped parsley (2tbsp)
 - Dairy (none)
@@ -37,9 +39,9 @@
     - Lemon juice (2tbsp)
 1. Slow drizzle in olive oil (.33c)
 1. Stir in
-    - Parsley (2tbsp)
     - salt (.75tsp)
     - ground cumin (.25tsp)
+1. Top with parsley (2tbsp) and smoked paprika (pinch)
 
 ## Notes
 

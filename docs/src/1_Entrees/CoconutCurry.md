@@ -1,5 +1,8 @@
 # Coconut Curry
 
+!!! note
+    Doubled from the original recipe.
+
 ## Shopping
 
 - Produce
@@ -39,7 +42,7 @@
 
 ## Cook
 
-1. Large pan, med-high heat.
+1. Large pan, med-high heat, vegetable oil (2tbsp)
     1. Add kale and season with salt and pepper.
     1. Cook, stirring occasionally, until tender (5-7m).
     1. Transfer to a plate.

@@ -17,7 +17,7 @@
     - Oil (.3c)
     - Honey or maple syrup (.5c)
     - Vanilla extract (2tsp)
-    - Sugar (1tbsp)
+    - Sugar (1tbsp, for tops)
     - Butter
 
 ## Prep
@@ -52,6 +52,7 @@
     1. Mix well
 1. Pour wet in dry
 1. Fold in blueberries
+1. Sprinkle tops with sugar (1tbsp)
 1. Bake 16-19m
 
 ## Notes

@@ -173,8 +173,9 @@ Caveats render as MkDocs callouts, via the `admonition` extension enabled in
     sublist rather than wrapping one sentence across lines.
 1. No prose paragraphs in Prep or Cook. Caveats go in a `!!! note` callout under
     the heading.
-1. Keep the source's measurements. Do not silently convert or rescale; if you do
-    rescale, say so in a `!!! note` under the title.
+1. Keep the source's measurements. Do not silently convert or rescale. An
+    intentional change must be recorded in a `!!! note`; without one, a
+    difference from the source is treated as a typo and corrected.
 
 ### Quantities and units
 

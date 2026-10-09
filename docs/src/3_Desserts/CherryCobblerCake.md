@@ -45,7 +45,7 @@
     1. Vanilla extract (1tsp)
 1. Combine wet, mix
     1. Eggs (2)
-    1. Oil (.75c)
+    1. Canola oil (.75c)
     1. Greek yogurt (.75c)
     1. Sugar (1c)
     1. Lemon juice (2tbsp)

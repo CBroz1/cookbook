@@ -10,7 +10,7 @@
 - Middle (none)
 - Staples
     - Flour (.5c)
-    - salt (2tsp)
+    - salt (1tsp, plus sprinkling)
     - pepper (.5tsp)
     - baking powder (1tsp)
     - oil, for frying
@@ -36,7 +36,7 @@
 1. Add, mix until absorbed
     - Eggs (2)
     - Flour (.5c)
-    - salt (2tsp)
+    - salt (1tsp, plus sprinkling)
     - pepper (.5tsp)
     - baking powder (1tsp)
 1. Shape into patties - press out with tablespoon

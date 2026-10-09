@@ -54,7 +54,7 @@
 - Suggested Time: 20m
     - Prep: 10m
     - Cook: 10m
-- Yield: 4c
+- Yield: 2c
 
 ## Citation
 

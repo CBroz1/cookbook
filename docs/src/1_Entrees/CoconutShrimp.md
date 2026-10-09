@@ -1,5 +1,8 @@
 # Coconut Shrimp
 
+!!! note
+    Bok choy with soy and rice vinegar is my addition; not in the original.
+
 ## Shopping
 
 - Produce

@@ -15,7 +15,7 @@
     - almonds, raw sliced (.5c)
     - dried cherries or cranberries (.33c)
 - Staples
-    - salt (.75tsp)
+    - salt (.5tsp)
     - olive oil (.33c)
     - red wine vinegar (1.33tbsp)
     - Dijon mustard (1tbsp)
@@ -26,7 +26,7 @@
     1. Rinsed
     1. Rice cooker, 3c water, salt (.25tsp)
 1. Derib, bite-size kale
-    1. Bowl with salt (.25tsp)
+    1. Bowl with salt (dash)
     1. Massage
 1. Rough chop cherries/cranberries (.33c)
 1. Mix dressing

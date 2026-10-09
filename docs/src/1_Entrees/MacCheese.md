@@ -33,7 +33,7 @@
 ## Cook
 
 1. Oven to 350
-1. Cook pasta
+1. Cook elbow macaroni (16oz)
     1. 1m shy of al dente
     1. Coat olive oil to prevent sticking
 1. Make roux in pot, med heat
@@ -55,7 +55,7 @@
 
 ## Notes
 
-- Suggested Time: 60m
+- Suggested Time: 50m
     - Prep: 20m
     - Cook: 30m
 - Servings: 12

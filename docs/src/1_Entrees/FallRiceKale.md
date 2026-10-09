@@ -12,6 +12,7 @@
     - goat cheese (4oz)
 - Middle
     - wild rice (2c)
+    - pepitas (.5c)
 - Staples
     - Dijon mustard (1tsp)
     - apple cider vinegar (2tbsp)

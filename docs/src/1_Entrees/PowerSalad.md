@@ -9,6 +9,7 @@
     - avocados (2)
     - lime juice (about 2 limes) (.25c)
     - jalapeño (1)
+    - cilantro (handful)
     - pepitas (.25c)
 - Dairy
     - crumbled feta (.33c)
@@ -57,6 +58,7 @@
     1. Lime juice (.25c)
     1. Jalapeño (1)
     1. Coriander (.5tsp)
+    1. Cilantro (handful)
     1. Salt (.25tsp)
 1. Combine kale, quinoa, dressing, beans, pepitas, feta, sweet potatoes
 

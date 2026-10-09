@@ -9,6 +9,7 @@
     - green onion (0.25c)
     - ginger (1tsp)
     - lime (1)
+    - cilantro (.5c)
 - Dairy (none)
 - Middle (none)
 - Staples
@@ -27,6 +28,7 @@
     1. Rinse
     1. Quinoa (.75c), water (1.5c)
 1. Thinly slice, bowl
+    1. carrot (2), grate (1c)
     1. green onion (0.25c)
     1. snow peas (1c)
     1. Cabbage (2c)
@@ -43,7 +45,7 @@
 
 ## Cook
 
-1. Mix veggies, quinoa, sauce
+1. Mix veggies, quinoa, cilantro (.5c), sauce
 1. Garnish with peanuts
 
 ## Notes

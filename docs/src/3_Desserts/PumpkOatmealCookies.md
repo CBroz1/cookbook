@@ -14,7 +14,7 @@
     - unsalted butter (1c, 226g)
     - maple syrup (3tbsp, 45ml)
     - brown sugar (0.75c, 150g)
-    - granulated sugar (0.25c, 50g)
+    - granulated sugar (0.5c, 100g)
     - baking soda (1tsp)
     - ground cinnamon (2tsp)
     - pumpkin pie spice\* (2tsp)
@@ -42,7 +42,7 @@
     1. melted butter (1c, 226g)
     1. maple syrup (3tbsp, 45ml)
     1. brown sugar, packed (0.75c, 150g)
-    1. granulated sugar (0.25c, 50g)
+    1. granulated sugar (0.5c, 100g)
     1. egg yolk (1)
     1. pumpkin puree (0.75c, 170g)
     1. vanilla extract (2tsp)
@@ -53,7 +53,7 @@
 
 ## Notes
 
-- Suggested Time: 30m
+- Suggested Time: 28m
     - Prep: 15m
     - Cook: 13m
 - Servings: 30 cookies
