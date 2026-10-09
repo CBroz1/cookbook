@@ -177,12 +177,13 @@ Caveats render as MkDocs callouts, via the `admonition` extension enabled in
 ### Quantities and units
 
 - Decimals, never fractions: `.5c`, not `1/2 c`.
-- No space between number and unit: `2tbsp`, `.25tsp`, `1.5lbs`.
-- Abbreviations: `c`, `tbsp`, `tsp`, `oz`, `lb`/`lbs`, `g`, `ml`, `s` seconds,
-    `m` minutes, `h` hours.
+- No space between number and unit: `2tbsp`, `.25tsp`, `1.5lb`.
+- Abbreviations: `c`, `tbsp`, `tsp`, `oz`, `lb`, `g`, `ml`, `s` seconds, `m`
+    minutes, `h` hours.
+- Never pluralise a unit: `2c` and `2lb`, never `2cs` or `2lbs`.
 - Counts take no unit: `garlic (4)`, `eggs (2)`.
 - Two useful forms go in one parenthetical, comma-separated:
-    `broccoli (2lbs, 3-4)`, `flour (2c, 258g)`.
+    `broccoli (2lb, 3-4)`, `flour (2c, 258g)`.
 - Oven temperature is a bare Fahrenheit number: `Oven to 400`.
 - Ranges use a hyphen with no spaces: `7-10m`, `425-450`.
 

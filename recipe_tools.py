@@ -55,7 +55,7 @@ UNIT_WORDS = [
     (r"millilitres?", "ml"),
     (r"kilograms?", "kg"),
     (r"grams?", "g"),
-    (r"pounds?", "lbs"),
+    (r"pounds?", "lb"),
     (r"ounces?", "oz"),
     (r"minutes?", "m"),
     (r"mins?", "m"),
@@ -65,7 +65,7 @@ UNIT_WORDS = [
     (r"hrs?", "h"),
     (r"cups?", "c"),
 ]
-ABBREVS = ["tbsp", "tsp", "oz", "lbs", "lb", "ml", "kg", "g", "c"]
+ABBREVS = ["tbsp", "tsp", "oz", "lb", "ml", "kg", "g", "c"]
 
 # A quantity token: 2, 1.5 or .5. The lookbehind keeps it from biting
 # into a longer word or a decimal that is already matched.
@@ -226,6 +226,195 @@ def extract_source(page_html: str, url: str) -> dict:
     }
 
 
+STUB_MARKER = "--- PASTE PAGE TEXT BELOW THIS LINE ---"
+
+_ING_HEAD = re.compile(
+    r"^\s*(ingredients?|what you.?ll need)\s*:?\s*$", re.I
+)
+_INST_HEAD = re.compile(
+    r"^\s*(directions?|instructions?|method|preparation|steps|"
+    r"how to make[^:]*)\s*:?\s*$",
+    re.I,
+)
+_END_HEAD = re.compile(
+    r"^\s*(notes?|nutrition.*|special equipment|equipment|make.?ahead.*|"
+    r"storage|comments?|reviews?|related.*|you might also like|"
+    r"more recipes.*|leave a (reply|comment)|rate this recipe|"
+    r"did you make this.*)\s*:?\s*$",
+    re.I,
+)
+# Chrome and site furniture that survives a copy/paste.
+_JUNK = re.compile(
+    r"^\s*(save|rate|print|share|pin|jump to .*|view all|get the app|"
+    r"keep screen awake|advertisement|close|menu|search|sign up|log in|"
+    r"subscribe|follow|photo|image credit)\s*:?\s*$",
+    re.I,
+)
+_QTY_HINT = re.compile(
+    r"(^\s*[\d\u00bc-\u00be\u2150-\u215e]|"
+    r"\b(cups?|tablespoons?|teaspoons?|ounces?|pounds?|cloves?|cans?|"
+    r"packages?|pinch|dash|tsp|tbsp|oz|lbs?|ml|g|kg|sprigs?|bunch|"
+    r"handful|to taste)\b)",
+    re.I,
+)
+_TIME_LABEL = re.compile(
+    r"^\s*(prep|cook|total|active|rest|chill|bake|inactive)\s*time\s*:?\s*(.*)$",
+    re.I,
+)
+_YIELD_LABEL = re.compile(r"^\s*(yield|servings?|makes)\s*:?\s*(.*)$", re.I)
+
+
+def _dur_minutes(text: str) -> int | None:
+    """Parse '58 mins', '1 hr 10 mins', '2 hours' into minutes."""
+    if not text:
+        return None
+    total = 0
+    for num, unit in re.findall(
+        r"(\d+(?:\.\d+)?)\s*(h(?:ou)?rs?|hr|mins?|minutes?|m\b)", text, re.I
+    ):
+        n = float(num)
+        total += int(n * 60) if unit.lower().startswith("h") else int(n)
+    return total or None
+
+
+def _looks_like_ingredient(line: str) -> bool:
+    if len(line) > 160 or line.endswith("."):
+        return False
+    return bool(_QTY_HINT.search(line))
+
+
+def extract_pasted_text(body: str, url: str = "") -> dict:
+    """Pull a recipe out of page text copied from a browser.
+
+    Copy/paste carries nav menus, a story, photo credits and comments.
+    The recipe card is found by scoring every 'Ingredients' heading on
+    how many quantity-bearing lines follow it, so a nav entry with the
+    same label does not win.
+    """
+    raw = [ln.strip() for ln in body.splitlines()]
+    # Lines repeated three or more times are furniture or photo credits.
+    counts: dict[str, int] = {}
+    for ln in raw:
+        if ln:
+            counts[ln] = counts.get(ln, 0) + 1
+    def _is_head(ln: str) -> bool:
+        return bool(
+            _ING_HEAD.match(ln) or _INST_HEAD.match(ln) or _END_HEAD.match(ln)
+        )
+
+    # Headings are exempt: nav menus repeat "Ingredients" many times, and
+    # dropping it would take the real card's heading with it.
+    lines = [
+        ln
+        for ln in raw
+        if ln
+        and not _JUNK.match(ln)
+        and (_is_head(ln) or counts.get(ln, 0) < 3)
+    ]
+
+    ing_heads = [i for i, ln in enumerate(lines) if _ING_HEAD.match(ln)]
+    inst_heads = [i for i, ln in enumerate(lines) if _INST_HEAD.match(ln)]
+
+    # The card is the ingredient heading NEAREST ABOVE an instruction
+    # heading. Nav menus repeat "Ingredients" far from the card, and
+    # their blocks would otherwise swallow the ratings and the story and
+    # outscore the real list.
+    best = None
+    for j in inst_heads:
+        above = [i for i in ing_heads if i < j]
+        if not above:
+            continue
+        i = max(above)
+        if j - i > 60:  # too far apart to be one card
+            continue
+        block = lines[i + 1 : j]
+        score = sum(1 for ln in block if _looks_like_ingredient(ln))
+        if score >= 2 and (best is None or score > best[0]):
+            best = (score, i, j)
+
+    if best is None:  # no instruction heading; take the densest block
+        for i in ing_heads:
+            stop = min(i + 40, len(lines))
+            block = lines[i + 1 : stop]
+            score = sum(1 for ln in block if _looks_like_ingredient(ln))
+            if score >= 3 and (best is None or score > best[0]):
+                best = (score, i, None)
+
+    ingredients: list[str] = []
+    instructions: list[str] = []
+    if best:
+        _score, i, j = best
+        stop = j if j is not None else min(i + 60, len(lines))
+        for ln in lines[i + 1 : stop]:
+            if _END_HEAD.match(ln):
+                break
+            if ln.endswith(":"):  # "For Fritters:" style subheading
+                continue
+            # Inside the bounded card, a short line without a quantity is
+            # still an ingredient ("Freshly ground black pepper").
+            if _looks_like_ingredient(ln) or len(ln.split()) <= 8:
+                ingredients.append(ln)
+        if j is not None:
+            for ln in lines[j + 1 :]:
+                if _END_HEAD.match(ln) or _ING_HEAD.match(ln):
+                    break
+                if len(ln) > 25 or re.match(r"^\s*\d+[.)]", ln):
+                    instructions.append(re.sub(r"^\s*\d+[.)]\s*", "", ln))
+
+    # Times and yield: same line, or label then value on the next line.
+    times: dict[str, int] = {}
+    yields: list[str] = []
+    for idx, ln in enumerate(lines):
+        m = _TIME_LABEL.match(ln)
+        if m:
+            val = m.group(2).strip() or (
+                lines[idx + 1] if idx + 1 < len(lines) else ""
+            )
+            mins = _dur_minutes(val)
+            if mins:
+                times.setdefault(m.group(1).lower(), mins)
+            continue
+        m = _YIELD_LABEL.match(ln)
+        if m:
+            val = m.group(2).strip() or (
+                lines[idx + 1] if idx + 1 < len(lines) else ""
+            )
+            if val and not _TIME_LABEL.match(val) and len(val) < 60:
+                yields.append(val)
+
+    rec = {
+        "url": url,
+        "extracted_via": "pasted-text",
+        "name": "",
+        "ingredients": ingredients,
+        "instructions": instructions,
+        "prep_minutes": times.get("prep"),
+        "cook_minutes": times.get("cook") or times.get("bake"),
+        "total_minutes": times.get("total"),
+        "yield": yields[0] if yields else None,
+    }
+    if not ingredients:
+        rec["note"] = (
+            "Could not locate an ingredient block. Paste the recipe card "
+            "itself, or transcribe by hand."
+        )
+    return rec
+
+
+def read_stub(path: Path) -> tuple[dict, str]:
+    """Split a staged paste file into its headers and pasted body."""
+    text = path.read_text(encoding="utf-8", errors="replace")
+    if STUB_MARKER not in text:
+        return {}, text
+    head, _, body = text.partition(STUB_MARKER)
+    headers = {}
+    for ln in head.splitlines():
+        m = re.match(r"^\s*([A-Z]+)\s*:\s*(.*)$", ln)
+        if m:
+            headers[m.group(1).lower()] = m.group(2).strip()
+    return headers, body
+
+
 def http_get(url: str, timeout: int = 25) -> str:
     req = urllib.request.Request(
         url,
@@ -271,6 +460,13 @@ def normalize_text(text: str) -> str:
     alts = "|".join(ABBREVS)
     out = re.sub(
         NUM + r"\s+(" + alts + r")(?![\w])",
+        r"\1\2",
+        out,
+    )
+
+    # "2tbsps" / "2cs" -> "2tbsp" / "2c". The unit never takes a plural.
+    out = re.sub(
+        NUM + r"(tbsp|tsp|oz|lb|ml|kg|g|c)s(?![\w])",
         r"\1\2",
         out,
     )
@@ -469,6 +665,10 @@ def lint_recipe(path: Path) -> list[Finding]:
                     f"spelled-out unit; use '{abbr}'")
                 break
 
+        # E013 pluralised unit abbreviation
+        if re.search(NUM + r"(?:tbsp|tsp|oz|lb|ml|kg|c)s(?![\w])", ln):
+            add("error", i, "E013", "unit abbreviation is pluralised")
+
         # E008 placeholders
         if re.search(r":\s*X\s*$", ln) or re.search(r"\d+X", ln):
             add("error", i, "E008", "unfilled placeholder 'X'")
@@ -635,15 +835,19 @@ def find_mdformat_python() -> str | None:
     The repo's hook pins mdformat plus mdformat-mkdocs and
     mdformat-gfm. An interpreter with plain mdformat produces different
     output, so anything missing a plugin is rejected rather than used.
+
+    Version parity was checked against the whole corpus: mdformat
+    1.0.0 with mdformat-mkdocs 5.3.0 and 0.7.17 with 3.1.0 produce
+    byte-identical output, so either stack is acceptable.
     """
     candidates: list[str] = []
     env = os.environ.get("COOKBOOK_MDFORMAT_PYTHON")
     if env:
         candidates.append(env)
+    candidates.append(sys.executable)
     cache = Path.home() / ".cache" / "pre-commit"
     if cache.is_dir():
         candidates += [str(p) for p in sorted(cache.glob("repo*/py_env*/bin/python"))]
-    candidates.append(sys.executable)
     probe = "import " + ", ".join(MDFORMAT_MODULES)
     for cand in candidates:
         if not Path(cand).exists():
@@ -675,7 +879,18 @@ def run_fmt(paths: list[Path], check: bool = False) -> int:
     if check:
         cmd.append("--check")
     cmd += [str(p) for p in paths]
-    return subprocess.run(cmd).returncode
+    r = subprocess.run(cmd, capture_output=True, text=True)
+    # mdformat-mkdocs 5.x bundles admonition support, so installing
+    # mdformat-admon alongside it makes mdformat announce a renderer
+    # conflict on every run. Output is unaffected - parity with the
+    # hook's stack was verified over the whole corpus - so drop the
+    # noise but keep everything else.
+    noise = re.compile(r"^(Warning: )?Plugin conflict\.")
+    for stream, sink in ((r.stdout, sys.stdout), (r.stderr, sys.stderr)):
+        kept = [ln for ln in (stream or "").splitlines() if not noise.match(ln)]
+        if kept:
+            sink.write("\n".join(kept) + "\n")
+    return r.returncode
 
 
 # --------------------------------------------------------------------
@@ -769,20 +984,42 @@ def _recipe_paths(repo: Path, args_paths: list[str]) -> list[Path]:
     return sorted((repo / "docs" / "src").glob("*/*.md"))
 
 
+# Markers of a bot interstitial. Deliberately excludes
+# "challenge-platform": Cloudflare injects that script into normal pages
+# too, so matching it would reject real recipes.
+CHALLENGE = re.compile(
+    r"<title>\s*(just a moment|security verification|attention required)"
+    r"|cf-browser-verification"
+    r"|enable javascript and cookies to continue",
+    re.I,
+)
+
+
 def cmd_fetch(args) -> int:
     try:
         page = http_get(args.url)
     except urllib.error.HTTPError as e:
         sys.stderr.write(
             f"fetch: HTTP {e.code} {e.reason} for {args.url}\n"
-            "This host blocks scripted requests. Use the WebFetch "
-            "fallback, save the text, then run:\n"
-            f"  recipe_tools.py parse <saved-file> --url {args.url}\n"
+            "This host blocks every scripted request, WebFetch included, "
+            "so it needs a real browser:\n"
+            "  ./copy_from_web.sh -s <recipe>   # opens the page source\n"
+            "  ./copy_from_web.sh -p <recipe>   # clipboard -> stub\n"
         )
         return 3
     except Exception as e:  # noqa: BLE001 - surface any transport error
         sys.stderr.write(f"fetch: {type(e).__name__}: {e}\n")
         return 3
+    # A 200 can still be an interstitial rather than the recipe.
+    if CHALLENGE.search(page[:4000]):
+        sys.stderr.write(
+            f"fetch: {args.url} returned a bot-challenge page, not the "
+            "recipe.\nUse the browser path: copy_from_web.sh -s <recipe>\n"
+        )
+        return 3
+    if args.html:
+        Path(args.html).write_text(page, encoding="utf-8")
+        print(f"wrote {args.html} ({len(page)} bytes)")
     rec = extract_source(page, args.url)
     _emit_json(rec, args.out)
     if rec["extracted_via"] == "none":
@@ -792,15 +1029,147 @@ def cmd_fetch(args) -> int:
 
 
 def cmd_parse(args) -> int:
-    raw = Path(args.file).read_text(encoding="utf-8", errors="replace")
+    path = Path(args.file)
+    headers, body = read_stub(path)
+    url = args.url or headers.get("url", "")
+
+    if headers and not body.strip():
+        sys.stderr.write(
+            f"parse: {path} is staged but empty.\n"
+            f"Paste the page text below the marker line, then re-run.\n"
+        )
+        return 5
+
+    raw = body if headers else path.read_text(encoding="utf-8", errors="replace")
+
     if raw.lstrip().startswith("{"):
         rec = json.loads(raw)
-        rec.setdefault("url", args.url or "")
-    else:
-        rec = extract_source(raw, args.url or "")
+        rec.setdefault("url", url)
+    elif "<script" in raw or "<html" in raw.lower():
+        rec = extract_source(raw, url)
         if rec["extracted_via"] == "none":
-            rec["raw_text"] = _strip_tags(raw) if "<" in raw else raw.strip()
+            rec = extract_pasted_text(_strip_tags(raw), url)
+    else:
+        rec = extract_pasted_text(raw, url)
+
+    if headers.get("recipe"):
+        rec["recipe"] = headers["recipe"]
+    if not rec.get("name") and headers.get("title"):
+        rec["name"] = headers["title"]
     _emit_json(rec, args.out)
+    if not rec.get("ingredients"):
+        sys.stderr.write("parse: no ingredients found; see 'note' in output\n")
+        return 4
+    return 0
+
+
+CANONICAL = (
+    re.compile(r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\']([^"\']+)', re.I),
+    re.compile(r'property=["\']og:url["\'][^>]+content=["\']([^"\']+)', re.I),
+    re.compile(r'content=["\']([^"\']+)["\'][^>]+property=["\']og:url["\']', re.I),
+)
+
+
+def page_identity(text: str) -> str | None:
+    """The URL a saved page claims to be, from canonical or og:url."""
+    for pat in CANONICAL:
+        m = pat.search(text)
+        if m:
+            return m.group(1).strip().rstrip("/")
+    return None
+
+
+def _host(url: str) -> str:
+    h = re.sub(r"^https?://", "", url).split("/")[0]
+    return h[4:] if h.startswith("www.") else h
+
+
+def cmd_check(args) -> int:
+    """Confirm a saved page is the page it was meant to be.
+
+    Catches two things the eye misses in a bulk collection: a bot
+    interstitial saved as if it were the recipe, and the wrong page
+    captured because the clipboard still held the previous one.
+    """
+    text = Path(args.file).read_text(encoding="utf-8", errors="replace")
+    if CHALLENGE.search(text[:4000]):
+        print(f"{args.file}: interstitial, not a recipe page")
+        return 3
+    got = page_identity(text)
+    want = args.url.split("#")[0].rstrip("/")
+    if not got:
+        print(f"{args.file}: no canonical url in the page; cannot verify")
+        return 2
+    if _host(got) != _host(want):
+        print(f"{args.file}: WRONG PAGE\n  page says: {got}\n  expected : {want}")
+        return 1
+    if got != want:
+        print(f"{args.file}: host matches, path moved (redirect?)\n"
+              f"  page says: {got}\n  expected : {want}")
+        return 0
+    print(f"{args.file}: ok")
+    return 0
+
+
+def cmd_sources(args) -> int:
+    """List every recipe and its source URL, tab separated.
+
+    Exists so shell callers reuse this parser instead of re-deriving it
+    from index.md with grep.
+    """
+    repo = Path(args.repo)
+    srcs = _index_sources(repo)
+    for p in sorted((repo / "docs" / "src").glob("*/*.md")):
+        rel = f"{p.parent.name}/{p.name}"
+        url = srcs.get(rel, "")
+        if args.with_url and not url:
+            continue
+        print(f"{rel}\t{url}")
+    return 0
+
+
+def cmd_stage(args) -> int:
+    """Create paste stubs for recipes whose source blocks scripted GETs."""
+    repo = Path(args.repo)
+    outdir = Path(args.dir)
+    outdir.mkdir(parents=True, exist_ok=True)
+    sources = _index_sources(repo)
+
+    if args.recipe:
+        wanted = list(args.recipe)
+    else:
+        wanted = [
+            f"{p.parent.name}/{p.name}"
+            for p in sorted((repo / "docs" / "src").glob("*/*.md"))
+        ]
+
+    made, skipped = 0, []
+    for rel in wanted:
+        url = sources.get(rel, "")
+        if not url:
+            skipped.append(f"{rel} (no source URL in index.md)")
+            continue
+        stub = outdir / (Path(rel).stem + ".txt")
+        if stub.exists() and not args.force:
+            _h, body = read_stub(stub)
+            if body.strip():
+                skipped.append(f"{stub.name} (already pasted)")
+                continue
+        stub.write_text(
+            f"URL: {url}\n"
+            f"RECIPE: {rel}\n"
+            f"TITLE:\n"
+            f"\n"
+            f"Open the URL, select the recipe card, and paste it below the\n"
+            f"marker. Surrounding story text is fine - it gets ignored.\n"
+            f"\n"
+            f"{STUB_MARKER}\n",
+            encoding="utf-8",
+        )
+        made += 1
+    print(f"{outdir}: {made} stub(s) written")
+    for sk in skipped:
+        print(f"  skipped {sk}")
     return 0
 
 
@@ -940,6 +1309,7 @@ def main(argv: list[str] | None = None) -> int:
     p = sub.add_parser("fetch", help="URL -> source record JSON")
     p.add_argument("url")
     p.add_argument("-o", "--out")
+    p.add_argument("--html", help="also save the raw page to this path")
     p.set_defaults(func=cmd_fetch)
 
     p = sub.add_parser("parse", help="saved page or JSON -> source record")
@@ -947,6 +1317,24 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--url", default="")
     p.add_argument("-o", "--out")
     p.set_defaults(func=cmd_parse)
+
+    p = sub.add_parser("check", help="is this saved page the right page?")
+    p.add_argument("file")
+    p.add_argument("--url", required=True)
+    p.set_defaults(func=cmd_check)
+
+    p = sub.add_parser("sources", help="list recipes and their source URLs")
+    p.add_argument("--with-url", action="store_true",
+                   help="skip recipes that have no source URL")
+    p.set_defaults(func=cmd_sources)
+
+    p = sub.add_parser("stage", help="write paste stubs for blocked sources")
+    p.add_argument("dir", help="directory for the .txt stubs")
+    p.add_argument("--recipe", action="append",
+                   help="e.g. 1_Entrees/TomatoSoup.md; repeatable")
+    p.add_argument("--force", action="store_true",
+                   help="overwrite a stub even if it already has pasted text")
+    p.set_defaults(func=cmd_stage)
 
     p = sub.add_parser("normalize", help="apply house units and decimals")
     p.add_argument("files", nargs="*")

@@ -55,7 +55,7 @@ Each recipe is a markdown file with three sections:
 |                [Pizza](./1_Entrees/Pizza.md)                 |                              [The Food Charlatan](https://thefoodcharlatan.com/homemade-pizza-recipe/)                               |
 |               [Pot Pie](./1_Entrees/PotPie.md)               |                        [Sarah's Vegan Kitchen](https://sarahsvegankitchen.com/recipes/vegan-chicken-pot-pie/)                        |
 |               [Salmon](./1_Entrees/Salmon.md)                |                             [The Chunky Chef](https://www.thechunkychef.com/baked-crusted-dijon-salmon/)                             |
-|        [Shrimp Moqueca](./1_Entrees/ShrimpMoqueca.md)        |                      [I Breathe I'm Hungry](https://www.ibreatheimhungry.com/brazilian-shrimp-stew-moqueca-de/)                      |
+|        [Shrimp Moqueca](./1_Entrees/ShrimpMoqueca.md)        |                     [I Breathe I'm Hungry](https://www.ibreatheimhungry.com/brazilian-shrimp-stew-moqueca-keto/)                     |
 |              [Spicy Udon](./1_Entrees/Udon.md)               |                [Seasons & Suppers](https://www.seasonsandsuppers.ca/15-minute-spicy-udon-vegetable-stir-fry/#recipe)                 |
 | [Strawberry Spinach Salad](./1_Entrees/StrawberrySpinach.md) |                [Cookie and Kate](https://cookieandkate.com/strawberry-and-spinach-salad-with-quinoa-and-goat-cheese/)                |
 |   [Summer Squash Pasta](./1_Entrees/SummerSquashPasta.md)    |                        [Cookie and Kate](https://cookieandkate.com/creamy-cherry-tomato-summer-squash-pasta/)                        |
@@ -66,21 +66,21 @@ Each recipe is a markdown file with three sections:
 |     [Veg Enchilada](./1_Entrees/VegetarianEnchiladas.md)     |   C&K [Dish](https://cookieandkate.com/vegetarian-enchiladas-recipe/), [Sauce](https://cookieandkate.com/enchilada-sauce-recipe/)    |
 |           [Vegan Sushi](./1_Entrees/VeganSushi.md)           | [Carrot](https://www.theedgyveg.com/2020/01/07/vegan-smoked-salmon/) & [Tuna](https://veganvvocals.com/2021/08/13/vegan-tuna-sushi/) |
 |      [Vegetarian Chili](./1_Entrees/VegetarianChili.md)      |                                [Cookie and Kate](https://cookieandkate.com/vegetarian-chili-recipe/)                                 |
-|     [Zucchini Fritters](./1_Entrees/ZucchiniFritters.md)     |              [Serious Eats](https://www.seriouseats.com/kolokithokeftedes-greek-zucchini-fritters-with-tzatziki-recipe)              |
+|     [Zucchini Fritters](./1_Entrees/ZucchiniFritters.md)     |                         [Serious Eats](https://www.seriouseats.com/greek-zucchini-fritters-recipe-11765525)                          |
 |      [Potato Leak Soup](./1_Entrees/PotatoLeakSoup.md)       |                           [Once Upon a Chef](https://www.onceuponachef.com/recipes/potato-leek-soup.html)                            |
 |        [Coconut Shrimp](./1_Entrees/CoconutShrimp.md)        |                               [Sally's Baking](https://sallysbakingaddiction.com/easy-coconut-shrimp/)                               |
-| [Tomato Soup](./1_Entrees/TomatoSoup.md) | [Cookie and Kate](https://cookieandkate.com/classic-tomato-soup-recipe/) |
-| [Quiche](./1_Entrees/Quiche.md) | [Sally's Baking Addiction](https://sallysbakingaddiction.com/quiche-recipe/#tasty-recipes-70031) |
-| [Pot Roast](./1_Entrees/PotRoast.md) | [Cooking Classy](https://www.cookingclassy.com/slow-cooker-pot-roast/#jump-to-recipe) |
-| [Power Salad](./1_Entrees/PowerSalad.md) | [Cookie and Kate](https://cookieandkate.com/southwestern-kale-power-salad/) |
+|           [Tomato Soup](./1_Entrees/TomatoSoup.md)           |                               [Cookie and Kate](https://cookieandkate.com/classic-tomato-soup-recipe/)                               |
+|               [Quiche](./1_Entrees/Quiche.md)                |                   [Sally's Baking Addiction](https://sallysbakingaddiction.com/quiche-recipe/#tasty-recipes-70031)                   |
+|             [Pot Roast](./1_Entrees/PotRoast.md)             |                        [Cooking Classy](https://www.cookingclassy.com/slow-cooker-pot-roast/#jump-to-recipe)                         |
+|           [Power Salad](./1_Entrees/PowerSalad.md)           |                             [Cookie and Kate](https://cookieandkate.com/southwestern-kale-power-salad/)                              |
 
 ### Sides<a name="sides"></a>
 
-|                   Page                   |                                                      Link                                                      |
-| :--------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
-| [Baba Ganoush](./2_Sides/BabaGanoush.md) |     [Cookie and Kate](https://cookieandkate.com/epic-baba-ganoush-recipe/#tasty-recipes-26511-jump-target)     |
-| [Bitchin Sauce](./2_Sides/BitchinDip.md) |       [Blissful Basil](https://www.blissfulbasil.com/bitchin-sauce-copycat/#wprm-recipe-container-30640)       |
-|             [Brussels](./2_Sides/Brussels.md)              |                                                            Family Recipe                                                             |
+|                   Page                   |                                                     Link                                                      |
+| :--------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| [Baba Ganoush](./2_Sides/BabaGanoush.md) |    [Cookie and Kate](https://cookieandkate.com/epic-baba-ganoush-recipe/#tasty-recipes-26511-jump-target)     |
+| [Bitchin Sauce](./2_Sides/BitchinDip.md) |      [Blissful Basil](https://www.blissfulbasil.com/bitchin-sauce-copycat/#wprm-recipe-container-30640)       |
+|    [Brussels](./2_Sides/Brussels.md)     |                                                 Family Recipe                                                 |
 |   [Cornbread](./2_Sides/Cornbread.md)    | [Le Crème de Crumb](https://www.lecremedelacrumb.com/best-super-moist-cornbread/#wprm-recipe-container-27011) |
 
 ### Desserts<a name="desserts"></a>
