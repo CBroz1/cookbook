@@ -89,10 +89,10 @@ Each recipe is a markdown file with three sections:
 | :----------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
 |    [Blueberry Muffins](./3_Desserts/BlueberryMuffins.md)     |                             [Cookie and Kate](https://cookieandkate.com/healthy-blueberry-muffins/)                             |
 |   [Cherry Cobbler Cake](./3_Desserts/CherryCobblerCake.md)   |                 [The Baking Chocolatess](https://www.thebakingchocolatess.com/sour-cherry-cobbler-coffee-cake/)                 |
-|     [Nutella brownies](./3_Desserts/NutellaBrownies.md)      |                         [Sally's Baking Addiction](https://sallysbakingaddiction.com/nutella-brownies/)                         |
+|     [Nutella Brownies](./3_Desserts/NutellaBrownies.md)      |                         [Sally's Baking Addiction](https://sallysbakingaddiction.com/nutella-brownies/)                         |
 |             [Oreo Pie](./3_Desserts/OreoPie.md)              |                              [Pies and Tacos](https://www.piesandtacos.com/cookies-and-cream-pie/)                              |
 | [Pumpk Oatmeal Cookies](./3_Desserts/PumpkOatmealCookies.md) | [Sally's Baking Addiction](https://sallysbakingaddiction.com/chewy-pumpkin-oatmeal-chocolate-chip-cookies/#tasty-recipes-67515) |
-|          [S’mores bars](./3_Desserts/SmoresBars.md)          |               [Averie Cooks](https://www.averiecooks.com/soft-and-gooey-loaded-smores-bars/#mv-creation-778-jtr)                |
+|          [S'mores Bars](./3_Desserts/SmoresBars.md)          |               [Averie Cooks](https://www.averiecooks.com/soft-and-gooey-loaded-smores-bars/#mv-creation-778-jtr)                |
 
 ## Links - Want Try<a name="links---want-try"></a>
 
