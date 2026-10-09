@@ -1,5 +1,8 @@
 # Farro Kale Goat Cheese Salad
 
+!!! note
+    Salt reduced from original recipe (.75tsp -> .5tsp).
+
 ## Shopping
 
 - Produce
@@ -12,7 +15,7 @@
     - almonds, raw sliced (.5c)
     - dried cherries or cranberries (.33c)
 - Staples
-    - salt (.5tsp)
+    - salt (.75tsp)
     - olive oil (.33c)
     - red wine vinegar (1.33tbsp)
     - Dijon mustard (1tbsp)

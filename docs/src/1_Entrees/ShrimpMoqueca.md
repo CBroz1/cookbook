@@ -1,11 +1,15 @@
 # Shrimp Moqueca
 
+!!! note
+    Original recipe garnishes with fresh cilantro. I skip.
+
 ## Shopping
 
 - Produce
     - onion, diced (0.25c)
     - garlic (1)
     - lime juice (1)
+    - fresh cilantro (.25c, opt)
 - Dairy (none)
 - Middle
     - raw shrimp (1.5lb)
@@ -35,6 +39,7 @@
 1. Add tomatoes (14oz), shrimp (1.5lb), simmer until shrimp opaque, 3m
 1. Add coconut milk (1c), Sriracha (2tbsp), heat through, do not boil
 1. Add lime juice (2tbsp), salt and pepper to taste
+1. Opt: Garnish with chopped cilantro (.25c)
 
 ## Notes
 

@@ -3,7 +3,7 @@
 ## Shopping
 
 - Produce
-    - fresh parsley (4tsp)
+    - fresh parsley (4tsp, plus garnish)
     - lemon (opt)
 - Dairy (none)
 - Middle

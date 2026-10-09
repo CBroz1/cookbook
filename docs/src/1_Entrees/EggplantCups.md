@@ -19,7 +19,8 @@
 
 ## Prep
 
-_Note_: Original recipe says to cut eggplant into 6 slices, we go thinner.
+!!! note
+    Source cuts the eggplant into 6 slices; I go thinner.
 
 1. Trim eggplant, slice thin
 1. Bowl
@@ -54,7 +55,7 @@ _Note_: Original recipe says to cut eggplant into 6 slices, we go thinner.
 - Suggested Time: 80m
     - Prep: 35m
     - Cook: 45m
-- Servings: 6
+- Servings: 6 (makes 12)
 
 ## Citation
 

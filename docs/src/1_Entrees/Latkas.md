@@ -9,10 +9,11 @@
     - Eggs (2)
 - Middle (none)
 - Staples
-    - Flour (.5)
+    - Flour (.5c)
     - salt (2tsp)
     - pepper (.5tsp)
     - baking powder (1tsp)
+    - oil, for frying
 
 ## Prep
 
@@ -34,7 +35,7 @@
     1. Pour off liquid, leaving potato starch
 1. Add, mix until absorbed
     - Eggs (2)
-    - Flour (.5)
+    - Flour (.5c)
     - salt (2tsp)
     - pepper (.5tsp)
     - baking powder (1tsp)

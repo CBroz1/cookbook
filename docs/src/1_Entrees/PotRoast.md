@@ -33,11 +33,11 @@
 ## Cook
 
 1. Sear
-    1. Large pot, med-high heat, 1tbsp oil
+    1. Large pot, med-high heat, olive oil (1tbsp)
     1. Sear roast. Dry, salt/pepper, 4-5m/side
     1. Transfer roast to slow cooker
 1. Saute
-    1. Return pot to heat, .5tbsp oil
+    1. Return pot to heat, olive oil (.5tbsp)
     1. Saute onion, 2m
     1. Add garlic, saute 30s
     1. Pour onion mixture over roast in slow cooker

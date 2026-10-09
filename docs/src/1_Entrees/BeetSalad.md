@@ -16,7 +16,7 @@
     - red wine vinegar (2tbsp)
     - honey (1tbsp)
     - Dijon mustard (1tbsp)
-    - salt (.5tsp)
+    - salt (.25tsp)
     - pepper
 
 ## Prep
@@ -40,7 +40,8 @@
 ## Cook
 
 1. Oven to 375
-1. Beets to baking sheet, toss with oil and salt, roast 35-40m
+1. Beets to baking sheet, toss with olive oil (1tbsp) and salt (.25tsp)
+1. Roast 35-40m
 1. Add beets to salad
 1. Toss with dressing
 

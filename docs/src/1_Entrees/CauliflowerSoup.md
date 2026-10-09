@@ -22,7 +22,7 @@
 1. Cauli (2lb) into bite-size florets - to lined baking sheet
 1. Chop red onion (1)
 1. Press garlic (2)
-1. Chop garnish green (2tbsp, opt)
+1. Chop parsley, chives and/or green onion (2tbsp, opt)
 1. Juice lemon (1tbsp)
 1. Set aside
     - veg broth (32oz)

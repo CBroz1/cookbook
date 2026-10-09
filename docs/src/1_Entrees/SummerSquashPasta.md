@@ -30,6 +30,7 @@
     - lemon juice (2tbsp)
     - goat cheese (1oz) crumbled
     - butter (2tbsp)
+    - garlic (1), pressed
     - red pepper flakes
 
 ## Cook

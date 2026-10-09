@@ -691,7 +691,7 @@ def lint_recipe(path: Path) -> list[Finding]:
             add("error", i, "E009", f"line is {len(ln)} chars (max {MAX_LINE})")
 
         # E010 legacy NOTE styles
-        if re.match(r"^\s*(_{1,2}|\*{1,2})?NOTE", ln):
+        if re.match(r"^\s*(_{1,2}|\*{1,2})?NOTE", ln, re.I):
             add("error", i, "E010",
                 "legacy NOTE; use a '!!! note' callout")
 
@@ -751,7 +751,7 @@ def lint_recipe(path: Path) -> list[Finding]:
     steps = rec.steps_text().lower()
     for lineno, _cat, item in rec.shopping_items():
         head = re.split(r"[(,]", item)[0].strip().lower()
-        head = re.sub(r"[^a-z\s]", "", head)
+        head = re.sub(r"[^a-z\s]", " ", head)
         words = [w for w in head.split() if len(w) > 3]
         if not words:
             continue
