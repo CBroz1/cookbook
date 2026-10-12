@@ -34,8 +34,9 @@ theme:
         search:    83 # s
     features:
       - toc.integrate
-      - navigation.sections
-      - navigation.expand
+      # navigation.sections renders top-level sections as always-open
+      # groups, and navigation.expand opens every subsection. Both are
+      # omitted so the sidebar starts fully collapsed.
       - navigation.top
       - navigation.instant   # saves loading time - 1 browser page
       - navigation.tracking  # even with above, changes URL by section
