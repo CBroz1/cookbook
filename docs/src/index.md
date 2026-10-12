@@ -54,7 +54,6 @@ Each recipe is a markdown file with five sections:
     - [Corn Chowder](./1_Entrees/2_Summer/CornChowder.md)
     - [Crunchwraps](./1_Entrees/2_Summer/Crunchwraps.md)
     - [Eggplant Cups](./1_Entrees/2_Summer/EggplantCups.md)
-    - [Falafel](./1_Entrees/2_Summer/Falafel.md)
     - [Kolokithokeftedes (Zucchini Fritters)](./1_Entrees/2_Summer/ZucchiniFritters.md)
     - [Peanut Noodles](./1_Entrees/2_Summer/PeanutNoodles.md)
     - [Pizza](./1_Entrees/2_Summer/Pizza.md)
