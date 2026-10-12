@@ -1,7 +1,10 @@
 # Vegan Sushi
 
 !!! note
-    The salmon steps here are for sushi. The original is a lox replacement.
+    Two sources interleaved: carrot salmon from Edgy Veg, watermelon tuna and the
+    rice from Vegan Vocals. The salmon steps here are for sushi; the original is a
+    lox replacement. Comparing against either source alone will flag the other half
+    as missing.
 
 ## Shopping
 
@@ -44,7 +47,7 @@
 1. Cut carrots (3), in half, not peel
 1. Mix salmon brine
     1. hot water (0.75c)
-    1. nori powder (1tbsp)
+    1. nori powder (1tsp)
     1. caper brine (3tbsp)
     1. rice vinegar (2tbsp)
     1. miso paste (1tbsp)
