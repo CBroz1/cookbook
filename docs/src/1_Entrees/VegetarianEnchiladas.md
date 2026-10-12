@@ -1,4 +1,4 @@
-# Enchiladas
+# Vegetarian Enchiladas
 
 ## Shopping
 
