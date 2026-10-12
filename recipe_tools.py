@@ -1170,7 +1170,14 @@ def cmd_index(args) -> int:
         pages = sorted(d.glob("*.md"))
         if not pages:
             continue
-        blocks.append(f"### {d.name.split('_', 1)[1]}\n")
+        # "4_WantToTry" -> "Want to Try"
+        words = re.sub(r"(?<=[a-z])(?=[A-Z])", " ", d.name.split("_", 1)[1])
+        small = {"to", "and", "of", "with", "the", "a", "in", "on"}
+        name = " ".join(
+            w if i == 0 or w.lower() not in small else w.lower()
+            for i, w in enumerate(words.split())
+        )
+        blocks.append(f"### {name}\n")
         for page in pages:
             blocks.append(f"- [{recipe_title(page)}](./{d.name}/{page.name})")
         blocks.append("")
@@ -1221,9 +1228,11 @@ def cmd_stage(args) -> int:
 
     made, skipped = 0, []
     for rel in wanted:
-        url = sources.get(rel, "")
+        # A recipe being collected for the first time has no file yet, so
+        # no Citation to read - take the URL from the command line.
+        url = args.url or sources.get(rel, "")
         if not url:
-            skipped.append(f"{rel} (no source URL in index.md)")
+            skipped.append(f"{rel} (no Citation URL; pass --url)")
             continue
         stub = outdir / (Path(rel).stem + ".txt")
         if stub.exists() and not args.force:
@@ -1411,6 +1420,7 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("dir", help="directory for the .txt stubs")
     p.add_argument("--recipe", action="append",
                    help="e.g. 1_Entrees/TomatoSoup.md; repeatable")
+    p.add_argument("--url", help="source URL, for a recipe not yet written")
     p.add_argument("--force", action="store_true",
                    help="overwrite a stub even if it already has pasted text")
     p.set_defaults(func=cmd_stage)

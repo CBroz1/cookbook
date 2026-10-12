@@ -76,38 +76,25 @@ Each recipe is a markdown file with five sections:
 - [Pumpkin Oatmeal Chocolate Chip Cookies](./3_Desserts/PumpkOatmealCookies.md)
 - [S'mores Bars](./3_Desserts/SmoresBars.md)
 
+### Want to Try
+
+- [Beet Pasta](./4_WantToTry/BeetTzatzikiPasta.md)
+- [Roasted Cauliflower Dip](./4_WantToTry/CauliflowerDip.md)
+- [Chicken Pot Pie](./4_WantToTry/ChickenPotPie.md)
+- [Herbed Quinoa Chickpea Salad](./4_WantToTry/ChickpeaQuinoaSalad.md)
+- [Coconut-Gochujang Glazed Chicken](./4_WantToTry/CoconutGochujangChicken.md)
+- [Mediterranean Couscous Salad](./4_WantToTry/CouscousSalad.md)
+- [Pearl Couscous Skillet](./4_WantToTry/CouscousSkillet.md)
+- [Dal Palak](./4_WantToTry/DalPalak.md)
+- [Edamame Hummus](./4_WantToTry/EdamameHummus.md)
+- [Lo Mein](./4_WantToTry/LoMein.md)
+- [Miso Maple Tofu](./4_WantToTry/MisoMapleTofu.md)
+- [Orange Tofu](./4_WantToTry/OrangeTofu.md)
+- [Spaghetti with Lentils and Marinara](./4_WantToTry/PastaLentils.md)
+- [Creamy Pumpkin Marinara](./4_WantToTry/PumpkinMarinara.md)
+- [Steel-Cut Oat Risotto with Butternut Squash and Kale](./4_WantToTry/RisottoSquashKale.md)
+- [Vegan Stuffed Peppers](./4_WantToTry/StuffedPeppers.md)
+- [Vegan Nacho Cheese Sauce](./4_WantToTry/VeganNachoCheese.md)
+- [Veggie Meatballs with Tahini Sauce](./4_WantToTry/VeggieMeatballs.md)
+
 <!-- recipes end -->
-
-## Want to try
-
-Not yet written up. New recipes land in `docs/src/4_New/` and move into a course
-folder once they have been cooked a few times.
-
-- Beet Tzasiki Pasta -
-    [Show Me the Yummy](https://showmetheyummy.com/beet-pasta-recipe/)
-- Cauliflower Dip -
-    [Heartbeet Kitchen](https://heartbeetkitchen.com/creamy-roasted-cauliflower-dip/)
-- Chickpea Quinoa -
-    [Cookie and Kate](https://cookieandkate.com/herbed-quinoa-chickpea-salad-recipe/)
-- Couscous Salad -
-    [Cookie and Kate](https://cookieandkate.com/mediterranean-couscous-salad-recipe/)
-- Edamame Hummus -
-    [Food Network](https://www.foodnetwork.com/recipes/food-network-kitchen/edamame-hummus-recipe-1928183)
-- Garlic Noodles -
-    [NYT](https://cooking.nytimes.com/recipes/1023012-san-francisco-style-vietnamese-american-garlic-noodles)
-- Lo Mein -
-    [Ahead of Thyme](https://www.aheadofthyme.com/2017/04/easy-15-minute-lo-mein/)
-- Pasta Lentils -
-    [Cookie and Kate](https://cookieandkate.com/hearty-spaghetti-with-lentils-marinara/)
-- Pumpkin Marinara -
-    [Cookie and Kate](https://cookieandkate.com/creamy-pumpkin-marinara-recipe/)
-- Ricotta Stuffed Zucchini -
-    [Sip and Feast](https://www.sipandfeast.com/ricotta-stuffed-zucchini/#recipe)
-- Risotto Squash Kale -
-    [Cookie and Kate](https://cookieandkate.com/steel-cut-oat-risotto-recipe/)
-- Stuffed Peppers -
-    [Ahead of Thyme](https://www.aheadofthyme.com/easy-vegan-stuffed-bell-peppers/)
-- Vegan Nacho Cheese -
-    [Nora Cooks](https://www.noracooks.com/easy-vegan-nacho-cheese-sauce/)
-- Veggie Meatballs -
-    [Ahead of Thyme](https://www.aheadofthyme.com/2016/03/quinoa-cauliflower-and-chickpea-vegetarian-meatballs-with-tahini-sauce/)

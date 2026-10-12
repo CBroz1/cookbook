@@ -70,6 +70,7 @@
 - Suggested Time: 20m
     - Prep: 10m
     - Cook: 10m
+- Servings: 4
 
 ## Citation
 

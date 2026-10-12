@@ -75,5 +75,4 @@
 
 ## Citation
 
-Inspired by:
-[Kitchen Stories](https://www.kitchenstories.com/en/recipes/soba-noodles-with-miso-marinated-tofu-and-vegetables)
+Inspired by: Kitchen Stories (original page no longer available)

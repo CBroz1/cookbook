@@ -134,10 +134,22 @@ mark_attempted() {  # $1 base, $2 rel path, $3 reason
 }
 
 # Every recipe that has a source URL, as "base<TAB>rel<TAB>url".
+# Staged stubs are included too, so a recipe being collected for the first
+# time - which has no file and so no Citation yet - still gets swept.
 worklist() {
+  local seen=" "
   "$PYTHON" "$TOOL" sources --with-url | while IFS=$'\t' read -r rel url; do
     local b; b=$(basename "$rel" .md)
     printf '%s\t%s\t%s\n' "$b" "$rel" "$url"
+  done
+  for f in "$DIR"/*.txt; do
+    [[ -e $f ]] || continue
+    local b u r
+    b=$(basename "$f" .txt)
+    "$PYTHON" "$TOOL" sources | grep -q "/$b\.md" && continue
+    u=$(sed -n 's/^URL:[[:space:]]*//p' "$f" | head -1)
+    r=$(sed -n 's/^RECIPE:[[:space:]]*//p' "$f" | head -1)
+    [[ -n $u ]] && printf '%s\t%s\t%s\n' "$b" "${r:-$b.md}" "$u"
   done
 }
 

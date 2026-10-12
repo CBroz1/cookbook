@@ -56,5 +56,4 @@
 
 ## Citation
 
-Inspired by:
-[Cookie and Kate](https://cookieandkate.com/strawberry-and-spinach-salad-with-quinoa-and-goat-cheese/)
+Inspired by: Cookie and Kate
