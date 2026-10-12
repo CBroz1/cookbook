@@ -54,6 +54,7 @@ plugins:
       nav_file: navigation.md
   - exclude-search:
       exclude:
+        - "navigation.md"
         - "*/navigation.md"
 
 markdown_extensions:

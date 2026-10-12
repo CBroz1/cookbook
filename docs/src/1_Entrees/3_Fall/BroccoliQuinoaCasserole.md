@@ -1,15 +1,18 @@
 # Broccoli Quinoa Casserole
 
+!!! note
+    Added to the source: caramelized onion, and optional sun dried tomatoes and
+    seitan bacon. Panko stands in for the source's slice of processed bread.
+
 ## Shopping
 
 - Produce
     - Broccoli (2 heads)
     - Yellow onion (1)
     - Garlic (2)
-    - Fresh thyme (1tbsp)
 - Dairy
     - Unsalted butter (6tbsp)
-    - Milk (1.5c)
+    - Milk (1c)
     - Cheddar cheese (8oz)
 - Middle
     - Sun dried tomatoes (opt)
@@ -17,9 +20,7 @@
     - Quinoa (1.5c)
     - Broth (3c)
 - Staples
-    - All-purpose flour (.25c)
     - Panko breadcrumbs (1c)
-    - Nutmeg (.25tsp)
     - Red pepper flakes (.25tsp)
     - Olive oil (2tbsp)
     - Salt and pepper
@@ -60,6 +61,7 @@
     - Butter (1tbsp), garlic (1)
     - Toss until browned and crisp
 1. Add to quinoa
+    - Milk (1c)
     - Caramelized onion (1)
     - Sun dried tomatoes (opt)
     - Seitan bacon (opt)

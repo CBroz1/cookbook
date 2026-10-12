@@ -208,6 +208,47 @@ def extract_source(page_html: str, url: str) -> dict:
                 "yield": str(y) if y else None,
             }
 
+    # Fallback: schema.org microdata. Older recipe plugins mark the card
+    # up with itemprop attributes and publish no JSON-LD Recipe at all.
+    micro_ing = re.findall(
+        r'itemprop=["\'](?:recipeIngredient|ingredients)["\'][^>]*>(.*?)</',
+        page_html, re.S | re.I,
+    )
+    if micro_ing:
+        micro_steps = re.findall(
+            r'itemprop=["\']recipeInstructions["\'][^>]*>(.*?)</li>',
+            page_html, re.S | re.I,
+        )
+
+        def _meta(prop: str) -> str | None:
+            m = re.search(
+                r'itemprop=["\']' + prop + r'["\'][^>]*?(?:datetime|content)='
+                r'["\']([^"\']+)',
+                page_html, re.I,
+            ) or re.search(
+                r'itemprop=["\']' + prop + r'["\'][^>]*>([^<]+)',
+                page_html, re.I,
+            )
+            return m.group(1).strip() if m else None
+
+        y = _meta("recipeYield")
+        name = re.search(
+            r'itemprop=["\']name["\'][^>]*>([^<]+)', page_html, re.I
+        )
+        return {
+            "url": url,
+            "extracted_via": "microdata",
+            "name": _strip_tags(name.group(1)) if name else "",
+            "ingredients": [_strip_tags(i) for i in micro_ing if _strip_tags(i)],
+            "instructions": [
+                _strip_tags(i) for i in micro_steps if _strip_tags(i)
+            ],
+            "prep_minutes": _iso_to_minutes(_meta("prepTime")),
+            "cook_minutes": _iso_to_minutes(_meta("cookTime")),
+            "total_minutes": _iso_to_minutes(_meta("totalTime")),
+            "yield": _strip_tags(y) if y else None,
+        }
+
     title = re.search(r"<title[^>]*>(.*?)</title>", page_html, re.S | re.I)
     return {
         "url": url,
@@ -922,6 +963,26 @@ TABLE_HEAD = "| Recipe | Source | Checked | Status | Lint | Summary |"
 TABLE_RULE = "| :----- | :----- | :------ | :----- | :--- | :------ |"
 
 
+def recipe_files(repo: Path) -> list[Path]:
+    """Every recipe file, at any depth under docs/src.
+
+    Course folders are nested by season - 1_Entrees/2_Summer/Foo.md - so
+    this walks the tree rather than assuming one level. index.md and the
+    literate-nav files are not recipes.
+    """
+    src = repo / "docs" / "src"
+    return sorted(
+        p
+        for p in src.rglob("*.md")
+        if p.name not in ("index.md", "navigation.md")
+    )
+
+
+def recipe_rel(repo: Path, path: Path) -> str:
+    """A recipe's path relative to docs/src, used as its key throughout."""
+    return path.relative_to(repo / "docs" / "src").as_posix()
+
+
 def _recipe_sources(repo: Path) -> dict[str, str]:
     """Map recipe path -> source URL, read from each recipe's Citation.
 
@@ -930,8 +991,8 @@ def _recipe_sources(repo: Path) -> dict[str, str]:
     every URL lived in two places and could drift.
     """
     out: dict[str, str] = {}
-    for p in sorted((repo / "docs" / "src").glob("*/*.md")):
-        rel = f"{p.parent.name}/{p.name}"
+    for p in recipe_files(repo):
+        rel = recipe_rel(repo, p)
         text = p.read_text(encoding="utf-8")
         m = re.search(r"^## Citation\s*$(.*)", text, re.M | re.S)
         url = ""
@@ -1004,7 +1065,7 @@ def checklist_upsert(path: Path, recipe: str, status: str, summary: str,
 def _recipe_paths(repo: Path, args_paths: list[str]) -> list[Path]:
     if args_paths:
         return [Path(p) for p in args_paths]
-    return sorted((repo / "docs" / "src").glob("*/*.md"))
+    return recipe_files(repo)
 
 
 # Markers of a bot interstitial. Deliberately excludes
@@ -1146,12 +1207,22 @@ def recipe_title(path: Path) -> str:
     return path.stem
 
 
+def _pretty(name: str) -> str:
+    """"4_WantToTry" -> "Want to Try"."""
+    words = re.sub(r"(?<=[a-z])(?=[A-Z])", " ", name.split("_", 1)[1])
+    small = {"to", "and", "of", "with", "the", "a", "in", "on"}
+    return " ".join(
+        w if i == 0 or w.lower() not in small else w.lower()
+        for i, w in enumerate(words.split())
+    )
+
+
 def cmd_index(args) -> int:
     """Regenerate the recipe lists in index.md from the files themselves.
 
-    Titles come from each recipe's H1, so a name lives in exactly one
-    place. The mkdocs nav is generated too, which leaves nothing to keep
-    in step by hand.
+    Courses may be split into season subfolders. A season with no recipes
+    is omitted, and a course whose only season is Anytime collapses to a
+    plain list rather than nesting one pointless level.
     """
     repo = Path(args.repo)
     idx = repo / "docs" / "src" / "index.md"
@@ -1163,33 +1234,58 @@ def cmd_index(args) -> int:
         )
         return 2
 
-    blocks = []
-    for d in sorted((repo / "docs" / "src").glob("[0-9]_*")):
-        if not d.is_dir():
-            continue
-        pages = sorted(d.glob("*.md"))
-        if not pages:
-            continue
-        # "4_WantToTry" -> "Want to Try"
-        words = re.sub(r"(?<=[a-z])(?=[A-Z])", " ", d.name.split("_", 1)[1])
-        small = {"to", "and", "of", "with", "the", "a", "in", "on"}
-        name = " ".join(
-            w if i == 0 or w.lower() not in small else w.lower()
-            for i, w in enumerate(words.split())
-        )
-        blocks.append(f"### {name}\n")
-        for page in pages:
-            blocks.append(f"- [{recipe_title(page)}](./{d.name}/{page.name})")
-        blocks.append("")
-    body = "\n".join(blocks).rstrip()
+    out: list[str] = []
+    n = 0
+    src = repo / "docs" / "src"
 
+    def pages_in(d: Path) -> list[Path]:
+        """Recipe files directly in d, in alphabetical order by title.
+
+        Sorted on the displayed title rather than the filename: Salmon.md
+        shows as "Baked Crusted Dijon Salmon" and belongs under B.
+        navigation.md is nav, not a recipe.
+        """
+        return sorted(
+            (q for q in d.glob("*.md") if q.name != "navigation.md"),
+            key=lambda q: recipe_title(q).casefold(),
+        )
+
+    for course in sorted(d for d in src.glob("[0-9]_*") if d.is_dir()):
+        seasons = sorted(d for d in course.glob("[0-9]_*") if d.is_dir())
+        seasons = [d for d in seasons if pages_in(d)]
+        loose = pages_in(course)
+        if not seasons and not loose:
+            continue
+        out.append(f"### {_pretty(course.name)}\n")
+
+        def links(pages: list[Path], indent: str = "") -> None:
+            for page in pages:
+                rel = page.relative_to(src).as_posix()
+                out.append(f"{indent}- [{recipe_title(page)}](./{rel})")
+
+        # Flat when there are no seasons, or Anytime is the only one.
+        flat = [d.name for d in seasons] in ([], ["0_Anytime"])
+        if flat:
+            pages = loose + (pages_in(seasons[0]) if seasons else [])
+            links(sorted(pages, key=lambda q: recipe_title(q).casefold()))
+            n += len(pages)
+        else:
+            links(loose)
+            n += len(loose)
+            for d in seasons:
+                out.append(f"- {_pretty(d.name)}")
+                pages = pages_in(d)
+                links(pages, indent="    ")
+                n += len(pages)
+        out.append("")
+
+    body = "\n".join(out).rstrip()
     head, _, rest = text.partition(INDEX_START)
     _, _, tail = rest.partition(INDEX_END)
     idx.write_text(
         f"{head}{INDEX_START}\n\n{body}\n\n{INDEX_END}{tail}",
         encoding="utf-8",
     )
-    n = sum(1 for b in blocks if b.startswith("- ["))
     print(f"{idx}: {n} recipes listed")
     return 0
 
@@ -1202,8 +1298,8 @@ def cmd_sources(args) -> int:
     """
     repo = Path(args.repo)
     srcs = _recipe_sources(repo)
-    for p in sorted((repo / "docs" / "src").glob("*/*.md")):
-        rel = f"{p.parent.name}/{p.name}"
+    for p in recipe_files(repo):
+        rel = recipe_rel(repo, p)
         url = srcs.get(rel, "")
         if args.with_url and not url:
             continue
@@ -1222,8 +1318,8 @@ def cmd_stage(args) -> int:
         wanted = list(args.recipe)
     else:
         wanted = [
-            f"{p.parent.name}/{p.name}"
-            for p in sorted((repo / "docs" / "src").glob("*/*.md"))
+            recipe_rel(repo, p)
+            for p in recipe_files(repo)
         ]
 
     made, skipped = 0, []
@@ -1332,8 +1428,8 @@ def _checklist_init(path: Path, repo: Path, force: bool) -> int:
         return 2
     sources = _recipe_sources(repo)
     rows = []
-    for p in sorted((repo / "docs" / "src").glob("*/*.md")):
-        rel = f"{p.parent.name}/{p.name}"
+    for p in recipe_files(repo):
+        rel = recipe_rel(repo, p)
         empty = not p.read_text(encoding="utf-8").strip()
         url = sources.get(rel, "")
         host = re.sub(r"^https?://(www\.)?", "", url).split("/")[0] if url else "-"
