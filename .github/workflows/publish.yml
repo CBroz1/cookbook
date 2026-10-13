@@ -1,18 +1,25 @@
 name: publish
 on:
-  workflow_dispatch: 
+  push:
+    branches: [main]
+  workflow_dispatch:
 permissions:
   contents: write
+# gh-deploy force-pushes gh-pages. Two runs at once would race on that
+# branch, so only the newest push for a ref is allowed to finish.
+concurrency:
+  group: publish-${{ github.ref }}
+  cancel-in-progress: true
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v4
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
           python-version: 3.x
       - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
-      - uses: actions/cache@v3
+      - uses: actions/cache@v6
         with:
           key: mkdocs-material-${{ env.cache_id }}
           path: .cache
