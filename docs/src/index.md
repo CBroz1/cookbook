@@ -28,6 +28,7 @@ Each recipe is a markdown file with five sections:
 - [Miso Maple Tofu](./0_WantToTry/MisoMapleTofu.md)
 - [Orange Tofu](./0_WantToTry/OrangeTofu.md)
 - [Pearl Couscous Skillet](./0_WantToTry/CouscousSkillet.md)
+- [Pizza Beans](./0_WantToTry/PizzaBeans.md)
 - [Roasted Cauliflower Dip](./0_WantToTry/CauliflowerDip.md)
 - [Spaghetti with Lentils and Marinara](./0_WantToTry/PastaLentils.md)
 - [Steel-Cut Oat Risotto with Butternut Squash and Kale](./0_WantToTry/RisottoSquashKale.md)
